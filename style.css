@@ -1,0 +1,74 @@
+* {
+	margin: 0;
+	padding: 0;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	font-family: "Roboto", Times, "Work San", sans-serif;
+	font-size: 16px;
+}
+
+*::after,
+*::before {
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: hsl(100 5% 89%);
+	color: hsl(0 100% 0%);
+}
+main {
+	display: grid;
+	grid-gap: 0.5rem;
+	justify-content: center;
+	align-items: center;
+}
+input,
+button,
+textarea,
+select,
+label {
+	-moz-appearance: none;
+	-webkit-appearance: none;
+	appearance: none;
+	height: 1.5rem;
+	background-color: hsl(0 0% 100%);
+	color: hsl(0 0% 0%);
+	border: 2px solid green;
+	border-radius: 5px;
+	text-decoration: none;
+	padding: 0;
+	vertical-align: middle;
+}
+
+label {
+	width: 9rem;
+	height: 3rem;
+}
+
+label[for] {
+	cursor: pointer;
+}
+
+button {
+	position: relative;
+	width: 9rem;
+	text-align: center;
+	-webkit-box-align: center;
+	align-items: center;
+	cursor: pointer;
+}
+
+input {
+	width: 9rem;
+	-webkit-box-align: center;
+	align-items: center;
+	text-align: left;
+}
+
+.dropZone {
+	border: ;
+	width: 200px;
+	height: 100px;
+	text-align: center;
+}

@@ -1,0 +1,976 @@
+﻿
+|--268710_Tray-Bereitstellung-Base-Unit [00] Lokal geändert
+   |--268710-000_Rob-Pos [00] Aktuell
+   |-- (2)
+   |--268710-001_Traybereitstellung-Base-Unit-Konzelmann [00] Aktuell
+      |--268710-001-01_Tray Base-Unit-Konzelmann [00] Aktuell
+         |--133438-026_BASE_UNIT_WITH_SEALING_EB4XX_Q0_KALT [00] Aktuell
+            |--133438-026-001_BASE_UNIT_PLASTIC_EB4XX_Q-35335 [00] Aktuell
+               |--133438-026-002_Threaded Bush M5 x 6mm Q001 [00] Aktuell (4)
+               |--133438-026-003_BASE_UNIT_PLASTIC_EB4XX_E010 [00] Aktuell
+            |--133438-026-004_SEALING_EB4XX_E003 [00] Aktuell
+         |--133438-034_Intern_Mehrweg-Tray_Base-Unit [00] Aktuell
+      |--269080_Tray-Zufuehrung_lose [00] Aktuell
+         |--269080_Tray-Zufuehrung_lose.1 [] 
+         |--261240_Segment-Einlauf [00] Aktuell
+            |--261240_Segment-Einlauf.1 [] 
+            |--133438-010_Tray_VT-15382_39mm [00] Aktuell
+            |--261190_Bandaufbau-kompl [00] Aktuell
+               |--261190_Bandaufbau-kompl.1 [] 
+               |--144181_Fuehrungsleiste_RE [00] Aktuell
+               |--261060_Band-Aufnahme-1 [00] Aktuell
+                  |--261060_Band-Aufnahme-1.1 [] 
+                  |--144182_021493-549_Aluprofil_20x40_siehe_033657 [00] Aktuell
+                  |--144183_Aufnahme-Winkel [01] Aktuell (2)
+               |--261070_Band-Aufnahme-2 [00] Aktuell
+                  |--261070_Band-Aufnahme-2.1 [] 
+                  |--144182_021493-549_Aluprofil_20x40_siehe_033657 [00] Aktuell
+                  |--144183_Aufnahme-Winkel [01] Aktuell (2)
+               |--261090_Transportband [00] Aktuell
+                  |--261090_Transportband.1 [] 
+                  |--261110_Koppelwelle [00] Aktuell
+                     |--261110_Koppelwelle.1 [] 
+                     |--134817_Spielfreie-Kupplung-RNK-Klemmnabe [00] Aktuell (2)
+                     |--144184_Koppelwelle [00] Aktuell
+                  |--261120_Bandaufbau_links_Transportband [00] Aktuell
+                     |--261120_Bandaufbau_links_Transportband.1 [] 
+                     |--261140_Antrieb-LI [01] Aktuell
+                        |--261140_Antrieb-LI.1 [] 
+                        |--021337_Pendelkugellager_d10_D30_B14_2200.2RS.TV [00] Aktuell (2)
+                        |--141507_Spurzahnscheibe_AL_55TK5_K6_Z35 [01] Aktuell
+                        |--141508_Achse [01] Aktuell
+                        |--141509_Lagerlasche-Aussen [00] Aktuell
+                        |--144185_Lagerlasche-Innen-LI [00] Aktuell
+                     |--261150_Grundaufbau_links [00] Aktuell
+                        |--261150_Grundaufbau_links.1 [] 
+                        |--141904_Lagerplatte [00] Aktuell (2)
+                        |--144186_Spurzahnriemen_50_TK5_K6_920 [00] Aktuell
+                        |--144187_Tragprofil_Seitenführung [00] Aktuell
+                        |--144188_Gleitfuehrung [00] Aktuell (2)
+                        |--144189_Grundtraeger-LI [00] Aktuell
+                     |--261160_Umlenkung [00] Aktuell
+                        |--261160_Umlenkung.1 [] 
+                        |--000345_Gewindestift-M5x30-DIN916 [00] Aktuell (2)
+                        |--000413_Sicherungsring-Welle-15x1-DIN471 [00] Aktuell (2)
+                        |--000766_Sechskantmutter-M5-DIN934 [00] Aktuell (2)
+                        |--003018_Rillenkugellager-6002.2Z [00] Aktuell (2)
+                        |--050434_Linsenschraube_mit_Flansch_M4x8 [00] Aktuell (2)
+                        |--065283_Linsenschraube_mit_Flansch_M4x12 [00] Aktuell (6)
+                        |--077808_Linsenschraube_mit_Flansch_M5x12 [00] Aktuell (2)
+                        |--134764_Spurzahnscheibe_AL_55TK5_K6_Z35 [00] Aktuell
+                        |--141513_Umlenkachse [00] Aktuell
+                        |--144192_Fingerschutz [00] Aktuell (2)
+                        |--144193_Abdeckblech [00] Aktuell (2)
+                  |--261130_Bandaufbau_rechts_Transportband-Antrieb [00] Aktuell
+                     |--261130_Bandaufbau_rechts_Transportband-Antrieb.1 [] 
+                     |--261160_Umlenkung [00] Aktuell
+                        |--261160_Umlenkung.1 [] 
+                        |--000345_Gewindestift-M5x30-DIN916 [00] Aktuell (2)
+                        |--000413_Sicherungsring-Welle-15x1-DIN471 [00] Aktuell (2)
+                        |--000766_Sechskantmutter-M5-DIN934 [00] Aktuell (2)
+                        |--003018_Rillenkugellager-6002.2Z [00] Aktuell (2)
+                        |--050434_Linsenschraube_mit_Flansch_M4x8 [00] Aktuell (2)
+                        |--065283_Linsenschraube_mit_Flansch_M4x12 [00] Aktuell (6)
+                        |--077808_Linsenschraube_mit_Flansch_M5x12 [00] Aktuell (2)
+                        |--134764_Spurzahnscheibe_AL_55TK5_K6_Z35 [00] Aktuell
+                        |--141513_Umlenkachse [00] Aktuell
+                        |--144192_Fingerschutz [00] Aktuell (2)
+                        |--144193_Abdeckblech [00] Aktuell (2)
+                     |--261170_Antrieb-RE [01] Aktuell
+                        |--261170_Antrieb-RE.1 [] 
+                        |--015827_Passfeder-A4x4x25-DIN6885 [00] Aktuell
+                        |--021337_Pendelkugellager_d10_D30_B14_2200.2RS.TV [00] Aktuell
+                        |--141507_Spurzahnscheibe_AL_55TK5_K6_Z35 [01] Aktuell
+                        |--144196_NMS25HU-50L4-47U-min-230-400V_KlekaB [00] Aktuell
+                           |--134995-00_Flansch [00] 
+                           |--134995-01_M50L4-B14.1.1 [00] 
+                           |--134995-01_M50L4-B14.1.1.1 [00] 
+                           |--134995-02_NMS25_IEC56_B14 [00] 
+                        |--144197_Achse [01] Aktuell
+                        |--144198_Lagerlasche-Aussen-RE [00] Aktuell
+                        |--144199_Lagerlasche-Innen-RE [00] Aktuell
+                     |--261180_Grundaufbau_rechts [00] Aktuell
+                        |--261180_Grundaufbau_rechts.1 [] 
+                        |--141904_Lagerplatte [00] Aktuell (2)
+                        |--144186_Spurzahnriemen_50_TK5_K6_920 [00] Aktuell
+                        |--144187_Tragprofil_Seitenführung [00] Aktuell
+                        |--144188_Gleitfuehrung [00] Aktuell (2)
+                        |--144191_Grundtraeger-RE [00] Aktuell
+               |--261190-01_Seitenfuehrung-LI [00] Aktuell
+                  |--144179_Fuehrungsleiste_LI [00] Aktuell
+                  |--261080_Sensor-Einheit [00] Aktuell
+                     |--261080_Sensor-Einheit.1 [] 
+                     |--143005_Sensor_PZ-V13_33 [00] Aktuell
+                     |--144194_Distanz-Sensor [00] Aktuell
+                     |--144195_Deckplatte [00] Aktuell
+            |--261240-01_Tray-Abfrage [00] Aktuell
+               |--143005_Sensor_PZ-V32_P [00] Aktuell
+               |--146891_Aufnahme-Winkel [00] Aktuell
+            |--261280_Stopper-Einheit [00] Aktuell
+               |--261280_Stopper-Einheit.1 [] 
+               |--144207_Aufnahme-Stopper-Einheit [00] Aktuell
+               |--261280-01_Stopper [00] Aktuell (2)
+         |--261250_Segment-Einlauf-720 [00] Aktuell
+            |--261250_Segment-Einlauf-720.1 [] 
+            |--133438-010_Tray_VT-15382_39mm [00] Aktuell (2)
+            |--261210_Stopper-Einheit [00] Aktuell
+               |--261210_Stopper-Einheit.1 [] 
+               |--144207_Aufnahme-Stopper-Einheit [00] Aktuell
+               |--261210-01_Stopper [00] Aktuell (2)
+            |--261290_Bandaufbau-kompl [00] Aktuell
+               |--261290_Bandaufbau-kompl.1 [] 
+               |--144221_Fuehrungsleiste-RE [00] Aktuell
+               |--261070_Band-Aufnahme-2 [00] Aktuell (2)
+               |--261290-01_Seitenfuehrung-LI [00] Aktuell
+                  |--144219_Fuehrungsleiste_LI [00] Aktuell
+                  |--261080_Sensor-Einheit [00] Aktuell
+                     |--261080_Sensor-Einheit.1 [] 
+                     |--143005_Sensor_PZ-V13_33 [00] Aktuell
+                     |--144194_Distanz-Sensor [00] Aktuell
+                     |--144195_Deckplatte [00] Aktuell
+               |--261310_Transportband-720 [00] Aktuell
+                  |--261310_Transportband-720.1 [] 
+                  |--261110_Koppelwelle [00] Aktuell
+                     |--261110_Koppelwelle.1 [] 
+                     |--134817_Spielfreie-Kupplung-RNK-Klemmnabe [00] Aktuell (2)
+                     |--144184_Koppelwelle [00] Aktuell
+                  |--261320_Bandaufbau_links_Transportband_720 [00] Aktuell
+                     |--261320_Bandaufbau_links_Transportband_720.1 [] 
+                     |--261140_Antrieb-LI [01] Aktuell
+                        |--261140_Antrieb-LI.1 [] 
+                        |--021337_Pendelkugellager_d10_D30_B14_2200.2RS.TV [00] Aktuell (2)
+                        |--141507_Spurzahnscheibe_AL_55TK5_K6_Z35 [01] Aktuell
+                        |--141508_Achse [01] Aktuell
+                        |--141509_Lagerlasche-Aussen [00] Aktuell
+                        |--144185_Lagerlasche-Innen-LI [00] Aktuell
+                     |--261160_Umlenkung [00] Aktuell
+                        |--261160_Umlenkung.1 [] 
+                        |--000345_Gewindestift-M5x30-DIN916 [00] Aktuell (2)
+                        |--000413_Sicherungsring-Welle-15x1-DIN471 [00] Aktuell (2)
+                        |--000766_Sechskantmutter-M5-DIN934 [00] Aktuell (2)
+                        |--003018_Rillenkugellager-6002.2Z [00] Aktuell (2)
+                        |--050434_Linsenschraube_mit_Flansch_M4x8 [00] Aktuell (2)
+                        |--065283_Linsenschraube_mit_Flansch_M4x12 [00] Aktuell (6)
+                        |--077808_Linsenschraube_mit_Flansch_M5x12 [00] Aktuell (2)
+                        |--134764_Spurzahnscheibe_AL_55TK5_K6_Z35 [00] Aktuell
+                        |--141513_Umlenkachse [00] Aktuell
+                        |--144192_Fingerschutz [00] Aktuell (2)
+                        |--144193_Abdeckblech [00] Aktuell (2)
+                     |--261340_Grundaufbau_links [01] Aktuell
+                        |--261340_Grundaufbau_links.1 [] 
+                        |--141904_Lagerplatte [00] Aktuell (2)
+                        |--144223_Tragprofil [00] Aktuell
+                        |--144224_Gleitfuehrung [00] Aktuell (2)
+                        |--144225_Grundtraeger-LI [01] Aktuell
+                        |--150121_Spurzahnriemen_50_TK5_K6_1610_V-PAT_PAR [00] Aktuell
+                  |--261330_Bandaufbau_rechts_Transportband-Antrieb_720 [00] Aktuell
+                     |--261330_Bandaufbau_rechts_Transportband-Antrieb_720.1 [] 
+                     |--261160_Umlenkung [00] Aktuell
+                        |--261160_Umlenkung.1 [] 
+                        |--000345_Gewindestift-M5x30-DIN916 [00] Aktuell (2)
+                        |--000413_Sicherungsring-Welle-15x1-DIN471 [00] Aktuell (2)
+                        |--000766_Sechskantmutter-M5-DIN934 [00] Aktuell (2)
+                        |--003018_Rillenkugellager-6002.2Z [00] Aktuell (2)
+                        |--050434_Linsenschraube_mit_Flansch_M4x8 [00] Aktuell (2)
+                        |--065283_Linsenschraube_mit_Flansch_M4x12 [00] Aktuell (6)
+                        |--077808_Linsenschraube_mit_Flansch_M5x12 [00] Aktuell (2)
+                        |--134764_Spurzahnscheibe_AL_55TK5_K6_Z35 [00] Aktuell
+                        |--141513_Umlenkachse [00] Aktuell
+                        |--144192_Fingerschutz [00] Aktuell (2)
+                        |--144193_Abdeckblech [00] Aktuell (2)
+                     |--261170_Antrieb-RE [01] Aktuell
+                        |--261170_Antrieb-RE.1 [] 
+                        |--015827_Passfeder-A4x4x25-DIN6885 [00] Aktuell
+                        |--021337_Pendelkugellager_d10_D30_B14_2200.2RS.TV [00] Aktuell
+                        |--141507_Spurzahnscheibe_AL_55TK5_K6_Z35 [01] Aktuell
+                        |--144196_NMS25HU-50L4-47U-min-230-400V_KlekaB [00] Aktuell
+                           |--134995-00_Flansch [00] 
+                           |--134995-01_M50L4-B14.1.1 [00] 
+                           |--134995-01_M50L4-B14.1.1.1 [00] 
+                           |--134995-02_NMS25_IEC56_B14 [00] 
+                        |--144197_Achse [01] Aktuell
+                        |--144198_Lagerlasche-Aussen-RE [00] Aktuell
+                        |--144199_Lagerlasche-Innen-RE [00] Aktuell
+                     |--261350_Grundaufbau_rechts [01] Aktuell
+                        |--261350_Grundaufbau_rechts.1 [] 
+                        |--141904_Lagerplatte.1 [00] Aktuell (2)
+                        |--144223_Tragprofil [00] Aktuell
+                        |--144224_Gleitfuehrung [00] Aktuell (2)
+                        |--144226_Grundtraeger-RE [01] Aktuell
+                        |--150121_Spurzahnriemen_50_TK5_K6_1610_V-PAT_PAR [00] Aktuell
+         |--261260_Segment-Auslauf-1170 [00] Aktuell
+            |--261260_Segment-Auslauf-1170.1 [] 
+            |--133438-010_Tray_VT-15382_39mm [00] Aktuell (15)
+            |--150223_Blechwanne [00] Aktuell
+            |--261360_Bandaufbau-kompl [00] Aktuell
+               |--261360_Bandaufbau-kompl.1 [] 
+               |--144229_Fuehrungsleiste_RE [00] Aktuell
+               |--261070_Band-Aufnahme [00] Aktuell (3)
+               |--261360-01_Seitenfuehrung-LI [00] Aktuell
+                  |--144228_Fuehrungsleiste-LI [00] Aktuell
+                  |--261080_Sensor-Einheit [00] Aktuell
+                     |--261080_Sensor-Einheit.1 [] 
+                     |--143005_Sensor_PZ-V13_33 [00] Aktuell
+                     |--144194_Distanz-Sensor [00] Aktuell
+                     |--144195_Deckplatte [00] Aktuell
+               |--261370_Transportband [00] Aktuell
+                  |--261370_Transportband.1 [] 
+                  |--261110_Koppelwelle [00] Aktuell
+                     |--261110_Koppelwelle.1 [] 
+                     |--134817_Spielfreie-Kupplung-RNK-Klemmnabe [00] Aktuell (2)
+                     |--144184_Koppelwelle [00] Aktuell
+                  |--261380_Bandaufbau_links_Transportband [00] Aktuell
+                     |--261380_Bandaufbau_links_Transportband.1 [] 
+                     |--261140_Antrieb-LI [01] Aktuell
+                        |--261140_Antrieb-LI.1 [] 
+                        |--021337_Pendelkugellager_d10_D30_B14_2200.2RS.TV [00] Aktuell (2)
+                        |--141507_Spurzahnscheibe_AL_55TK5_K6_Z35 [01] Aktuell
+                        |--141508_Achse [01] Aktuell
+                        |--141509_Lagerlasche-Aussen [00] Aktuell
+                        |--144185_Lagerlasche-Innen-LI [00] Aktuell
+                     |--261160_Umlenkung [00] Aktuell
+                        |--261160_Umlenkung.1 [] 
+                        |--000345_Gewindestift-M5x30-DIN916 [00] Aktuell (2)
+                        |--000413_Sicherungsring-Welle-15x1-DIN471 [00] Aktuell (2)
+                        |--000766_Sechskantmutter-M5-DIN934 [00] Aktuell (2)
+                        |--003018_Rillenkugellager-6002.2Z [00] Aktuell (2)
+                        |--050434_Linsenschraube_mit_Flansch_M4x8 [00] Aktuell (2)
+                        |--065283_Linsenschraube_mit_Flansch_M4x12 [00] Aktuell (6)
+                        |--077808_Linsenschraube_mit_Flansch_M5x12 [00] Aktuell (2)
+                        |--134764_Spurzahnscheibe_AL_55TK5_K6_Z35 [00] Aktuell
+                        |--141513_Umlenkachse [00] Aktuell
+                        |--144192_Fingerschutz [00] Aktuell (2)
+                        |--144193_Abdeckblech [00] Aktuell (2)
+                     |--261410_Grundaufbau_links [00] Aktuell
+                        |--261410_Grundaufbau_links.1 [] 
+                        |--141904_Lagerplatte [00] Aktuell (2)
+                        |--144231_Spurzahnriemen_50_TK5_K6_2510 [00] Aktuell
+                        |--144232_Tragprofil [00] Aktuell
+                        |--144233_Gleitfuehrung [00] Aktuell (2)
+                        |--144234_Grundtraeger-LI [00] Aktuell
+                  |--261390_Bandaufbau_rechts_Transportband-Antrieb [00] Aktuell
+                     |--261390_Bandaufbau_rechts_Transportband-Antrieb.1 [] 
+                     |--261160_Umlenkung [00] Aktuell
+                        |--261160_Umlenkung.1 [] 
+                        |--000345_Gewindestift-M5x30-DIN916 [00] Aktuell (2)
+                        |--000413_Sicherungsring-Welle-15x1-DIN471 [00] Aktuell (2)
+                        |--000766_Sechskantmutter-M5-DIN934 [00] Aktuell (2)
+                        |--003018_Rillenkugellager-6002.2Z [00] Aktuell (2)
+                        |--050434_Linsenschraube_mit_Flansch_M4x8 [00] Aktuell (2)
+                        |--065283_Linsenschraube_mit_Flansch_M4x12 [00] Aktuell (6)
+                        |--077808_Linsenschraube_mit_Flansch_M5x12 [00] Aktuell (2)
+                        |--134764_Spurzahnscheibe_AL_55TK5_K6_Z35 [00] Aktuell
+                        |--141513_Umlenkachse [00] Aktuell
+                        |--144192_Fingerschutz [00] Aktuell (2)
+                        |--144193_Abdeckblech [00] Aktuell (2)
+                     |--261170_Antrieb-RE [01] Aktuell
+                        |--261170_Antrieb-RE.1 [] 
+                        |--015827_Passfeder-A4x4x25-DIN6885 [00] Aktuell
+                        |--021337_Pendelkugellager_d10_D30_B14_2200.2RS.TV [00] Aktuell
+                        |--141507_Spurzahnscheibe_AL_55TK5_K6_Z35 [01] Aktuell
+                        |--144196_NMS25HU-50L4-47U-min-230-400V_KlekaB [00] Aktuell
+                           |--134995-00_Flansch [00] 
+                           |--134995-01_M50L4-B14.1.1 [00] 
+                           |--134995-01_M50L4-B14.1.1.1 [00] 
+                           |--134995-02_NMS25_IEC56_B14 [00] 
+                        |--144197_Achse [01] Aktuell
+                        |--144198_Lagerlasche-Aussen-RE [00] Aktuell
+                        |--144199_Lagerlasche-Innen-RE [00] Aktuell
+                     |--261420_Grundaufbau_rechts [00] Aktuell
+                        |--261420_Grundaufbau_rechts.1 [] 
+                        |--141904_Lagerplatte [00] Aktuell (2)
+                        |--144231_Spurzahnriemen_50_TK5_K6_2510 [00] Aktuell
+                        |--144232_Tragprofil [00] Aktuell
+                        |--144233_Gleitfuehrung [00] Aktuell (2)
+                        |--144235_Grundtraeger-RE [00] Aktuell
+         |--269110_Gestell [00] Aktuell
+            |--269110_Gestell.1 [] 
+            |--147032_Abdeckscheibe_470x740mm [00] Aktuell
+            |--147033_Abdeckscheibe_390x1430mm [00] Aktuell (2)
+            |--269110-01_Grundaufbau [00] Aktuell
+               |--021869_Abdeckkappe_80x40_PA [00] Aktuell (4)
+               |--048603_035886-320_Aluprofil_40x80_siehe_032078 [00] Aktuell (4)
+               |--147031_Ausleger [00] Aktuell (4)
+               |--269110-02_Bandfuss_komplett [00] Aktuell (2)
+      |--269090_Tray-Zufuehrung_Zelle [00] Aktuell
+         |--269090_Tray-Zufuehrung_Zelle.1 [] 
+         |--260970_Segment-Einlauf-Stapel [00] Aktuell
+            |--260970_Segment-Einlauf-Stapel.1 [] 
+            |--260970-000_TrayStapel [00] Aktuell
+               |--Ausgehoben [00] 
+               |--0001-Stapel [00] 
+                  |--VT-15382_39 mm [00]  (12)
+            |--261030_Bandaufbau-kompl [00] Aktuell
+               |--261030_Bandaufbau-kompl.1 [] 
+               |--144181_Fuehrungsleiste_RE [00] Aktuell
+               |--261030-01_Seitenfuehrung-LI [00] Aktuell
+                  |--144179_Fuehrungsleiste-LI [00] Aktuell
+                  |--261080_Sensor-Einheit [00] Aktuell (2)
+               |--261060_Band-Aufnahme-1 [00] Aktuell
+                  |--261060_Band-Aufnahme-1.1 [] 
+                  |--144182_021493-549_Aluprofil_20x40_siehe_033657 [00] Aktuell
+                  |--144183_Aufnahme-Winkel [01] Aktuell (2)
+               |--261070_Band-Aufnahme-2 [00] Aktuell
+                  |--261070_Band-Aufnahme-2.1 [] 
+                  |--144182_021493-549_Aluprofil_20x40_siehe_033657 [00] Aktuell
+                  |--144183_Aufnahme-Winkel [01] Aktuell (2)
+               |--261090_Transportband [00] Aktuell
+                  |--261090_Transportband.1 [] 
+                  |--261110_Koppelwelle [00] Aktuell
+                     |--261110_Koppelwelle.1 [] 
+                     |--134817_Spielfreie-Kupplung-RNK-Klemmnabe [00] Aktuell (2)
+                     |--144184_Koppelwelle [00] Aktuell
+                  |--261120_Bandaufbau_links_Transportband [00] Aktuell
+                     |--261120_Bandaufbau_links_Transportband.1 [] 
+                     |--261140_Antrieb-LI [01] Aktuell
+                        |--261140_Antrieb-LI.1 [] 
+                        |--021337_Pendelkugellager_d10_D30_B14_2200.2RS.TV [00] Aktuell (2)
+                        |--141507_Spurzahnscheibe_AL_55TK5_K6_Z35 [01] Aktuell
+                        |--141508_Achse [01] Aktuell
+                        |--141509_Lagerlasche-Aussen [00] Aktuell
+                        |--144185_Lagerlasche-Innen-LI [00] Aktuell
+                     |--261150_Grundaufbau_links [00] Aktuell
+                        |--261150_Grundaufbau_links.1 [] 
+                        |--141904_Lagerplatte [00] Aktuell (2)
+                        |--144186_Spurzahnriemen_50_TK5_K6_920 [00] Aktuell
+                        |--144187_Tragprofil_Seitenführung [00] Aktuell
+                        |--144188_Gleitfuehrung [00] Aktuell (2)
+                        |--144189_Grundtraeger-LI [00] Aktuell
+                     |--261160_Umlenkung [00] Aktuell
+                        |--261160_Umlenkung.1 [] 
+                        |--000345_Gewindestift-M5x30-DIN916 [00] Aktuell (2)
+                        |--000413_Sicherungsring-Welle-15x1-DIN471 [00] Aktuell (2)
+                        |--000766_Sechskantmutter-M5-DIN934 [00] Aktuell (2)
+                        |--003018_Rillenkugellager-6002.2Z [00] Aktuell (2)
+                        |--050434_Linsenschraube_mit_Flansch_M4x8 [00] Aktuell (2)
+                        |--065283_Linsenschraube_mit_Flansch_M4x12 [00] Aktuell (6)
+                        |--077808_Linsenschraube_mit_Flansch_M5x12 [00] Aktuell (2)
+                        |--134764_Spurzahnscheibe_AL_55TK5_K6_Z35 [00] Aktuell
+                        |--141513_Umlenkachse [00] Aktuell
+                        |--144192_Fingerschutz [00] Aktuell (2)
+                        |--144193_Abdeckblech [00] Aktuell (2)
+                  |--261130_Bandaufbau_rechts_Transportband-Antrieb [00] Aktuell
+                     |--261130_Bandaufbau_rechts_Transportband-Antrieb.1 [] 
+                     |--261160_Umlenkung [00] Aktuell
+                        |--261160_Umlenkung.1 [] 
+                        |--000345_Gewindestift-M5x30-DIN916 [00] Aktuell (2)
+                        |--000413_Sicherungsring-Welle-15x1-DIN471 [00] Aktuell (2)
+                        |--000766_Sechskantmutter-M5-DIN934 [00] Aktuell (2)
+                        |--003018_Rillenkugellager-6002.2Z [00] Aktuell (2)
+                        |--050434_Linsenschraube_mit_Flansch_M4x8 [00] Aktuell (2)
+                        |--065283_Linsenschraube_mit_Flansch_M4x12 [00] Aktuell (6)
+                        |--077808_Linsenschraube_mit_Flansch_M5x12 [00] Aktuell (2)
+                        |--134764_Spurzahnscheibe_AL_55TK5_K6_Z35 [00] Aktuell
+                        |--141513_Umlenkachse [00] Aktuell
+                        |--144192_Fingerschutz [00] Aktuell (2)
+                        |--144193_Abdeckblech [00] Aktuell (2)
+                     |--261170_Antrieb-RE [01] Aktuell
+                        |--261170_Antrieb-RE.1 [] 
+                        |--015827_Passfeder-A4x4x25-DIN6885 [00] Aktuell
+                        |--021337_Pendelkugellager_d10_D30_B14_2200.2RS.TV [00] Aktuell
+                        |--141507_Spurzahnscheibe_AL_55TK5_K6_Z35 [01] Aktuell
+                        |--144196_NMS25HU-50L4-47U-min-230-400V_KlekaB [00] Aktuell
+                           |--134995-00_Flansch [00] 
+                           |--134995-01_M50L4-B14.1.1 [00] 
+                           |--134995-01_M50L4-B14.1.1.1 [00] 
+                           |--134995-02_NMS25_IEC56_B14 [00] 
+                        |--144197_Achse [01] Aktuell
+                        |--144198_Lagerlasche-Aussen-RE [00] Aktuell
+                        |--144199_Lagerlasche-Innen-RE [00] Aktuell
+                     |--261180_Grundaufbau_rechts [00] Aktuell
+                        |--261180_Grundaufbau_rechts.1 [] 
+                        |--141904_Lagerplatte [00] Aktuell (2)
+                        |--144186_Spurzahnriemen_50_TK5_K6_920 [00] Aktuell
+                        |--144187_Tragprofil_Seitenführung [00] Aktuell
+                        |--144188_Gleitfuehrung [00] Aktuell (2)
+                        |--144191_Grundtraeger-RE [00] Aktuell
+            |--261040_Ausheber [00] Aktuell
+               |--261040_Ausheber.1 [] 
+               |--144204_Aufnahme-Antrieb [00] Aktuell
+               |--261040-01_Aushebeplatte [00] Aktuell
+                  |--144201_021493-145_Aluprofil_20x40_siehe033657 [00] Aktuell (4)
+                  |--144202_Grundtraeger [00] Aktuell
+                  |--144203_Anschlag [00] Aktuell (2)
+               |--261430_Antrieb_Ausheber_komplett [00] Aktuell
+                  |--261430_Antrieb_Ausheber_komplett.1 [] 
+                  |--071066_EMMS-ST-57-S-SEB-G2_Servomotor [00] Aktuell
+                  |--101924_Encoderleitung_NEBM-M12G8-E-10-LE8 [00] Aktuell
+                  |--101925_Motorleitung_NEBM-S1G9-E-10-Q5-LE6 [00] Aktuell
+                  |--118581_Parallelbausatz_EAMM-U-65-T42-57A-87 [00] Aktuell
+                     |--HI_4331535_EAMM-U-65-T42-57A-87.PRT [00] 
+                     |--HI_ISO-4762_M4X10.PRT [00]  (4)
+                     |--HI_ISO-4762_M5X12.PRT [00]  (4)
+                     |--_DIN_557_-_M5.PRT [00]  (4)
+                  |--143714_EGSC-BS-KF-60-75-5P [00] Aktuell
+                     |--4795952 EGSC-BS-KF-60---(75_P) [00] 
+                     |--8048367 EGSC-BS-KF-60---(S_75) [00] 
+                  |--147543_Encoderleitung_NEBM-M12G8-E-15-LE85 [00] Aktuell
+                  |--147544_Motorleitung_NEBM-S1G9-E-15-Q5-LE6 [00] Aktuell
+            |--261050_Vereinzler_schmal [00] Aktuell
+               |--261050_Vereinzler.1 [] 
+               |--062317_DFM-12-40-P-A-GF [00] Aktuell
+                  |--062317-000_Zubehoer [00] Aktuell
+                  |--Konfig1_ausgefahren
+                  |--060222_Zentrierhuelse-ZBH-5 [00] Aktuell (2)
+                  |--060224_Zentrierhuelse-ZBH-9 [00] Aktuell
+                  |--062317-01_Gehaeuse [00] Aktuell
+                  |--062317-02_Kolben [00] Aktuell
+               |--144205_Aufnahme-Winkel [00] Aktuell
+               |--144206_Schieberplatte [02] Aktuell (2)
+               |--150224_Hohe-Raendelschraube-M5x5 [00] Aktuell (4)
+            |--268640_Vereinzler [00] Aktuell
+               |--268640_Vereinzler.1 [] 
+               |--062317_DFM-12-40-P-A-GF [00] Aktuell
+                  |--062317-000_Zubehoer [00] Aktuell
+                  |--Konfig1_ausgefahren
+                  |--060222_Zentrierhuelse-ZBH-5 [00] Aktuell (2)
+                  |--060224_Zentrierhuelse-ZBH-9 [00] Aktuell
+                  |--062317-01_Gehaeuse [00] Aktuell
+                  |--062317-02_Kolben [00] Aktuell
+               |--144205_Aufnahme-Winkel [00] Aktuell
+               |--146841_Schieberplatte [01] Aktuell (2)
+               |--150224_Hohe-Raendelschraube-M5x5 [00] Aktuell (4)
+         |--260980_Segment-Palettieren [00] Aktuell
+            |--260980_Segment-Palettieren.1 [] 
+            |--133438-010_Tray_VT-15382_39mm [00] Aktuell
+            |--261190_Bandaufbau-kompl [00] Aktuell
+               |--261190_Bandaufbau-kompl.1 [] 
+               |--144181_Fuehrungsleiste_RE [00] Aktuell
+               |--261060_Band-Aufnahme-1 [00] Aktuell
+                  |--261060_Band-Aufnahme-1.1 [] 
+                  |--144182_021493-549_Aluprofil_20x40_siehe_033657 [00] Aktuell
+                  |--144183_Aufnahme-Winkel [01] Aktuell (2)
+               |--261070_Band-Aufnahme-2 [00] Aktuell
+                  |--261070_Band-Aufnahme-2.1 [] 
+                  |--144182_021493-549_Aluprofil_20x40_siehe_033657 [00] Aktuell
+                  |--144183_Aufnahme-Winkel [01] Aktuell (2)
+               |--261090_Transportband [00] Aktuell
+                  |--261090_Transportband.1 [] 
+                  |--261110_Koppelwelle [00] Aktuell
+                     |--261110_Koppelwelle.1 [] 
+                     |--134817_Spielfreie-Kupplung-RNK-Klemmnabe [00] Aktuell (2)
+                     |--144184_Koppelwelle [00] Aktuell
+                  |--261120_Bandaufbau_links_Transportband [00] Aktuell
+                     |--261120_Bandaufbau_links_Transportband.1 [] 
+                     |--261140_Antrieb-LI [01] Aktuell
+                        |--261140_Antrieb-LI.1 [] 
+                        |--021337_Pendelkugellager_d10_D30_B14_2200.2RS.TV [00] Aktuell (2)
+                        |--141507_Spurzahnscheibe_AL_55TK5_K6_Z35 [01] Aktuell
+                        |--141508_Achse [01] Aktuell
+                        |--141509_Lagerlasche-Aussen [00] Aktuell
+                        |--144185_Lagerlasche-Innen-LI [00] Aktuell
+                     |--261150_Grundaufbau_links [00] Aktuell
+                        |--261150_Grundaufbau_links.1 [] 
+                        |--141904_Lagerplatte [00] Aktuell (2)
+                        |--144186_Spurzahnriemen_50_TK5_K6_920 [00] Aktuell
+                        |--144187_Tragprofil_Seitenführung [00] Aktuell
+                        |--144188_Gleitfuehrung [00] Aktuell (2)
+                        |--144189_Grundtraeger-LI [00] Aktuell
+                     |--261160_Umlenkung [00] Aktuell
+                        |--261160_Umlenkung.1 [] 
+                        |--000345_Gewindestift-M5x30-DIN916 [00] Aktuell (2)
+                        |--000413_Sicherungsring-Welle-15x1-DIN471 [00] Aktuell (2)
+                        |--000766_Sechskantmutter-M5-DIN934 [00] Aktuell (2)
+                        |--003018_Rillenkugellager-6002.2Z [00] Aktuell (2)
+                        |--050434_Linsenschraube_mit_Flansch_M4x8 [00] Aktuell (2)
+                        |--065283_Linsenschraube_mit_Flansch_M4x12 [00] Aktuell (6)
+                        |--077808_Linsenschraube_mit_Flansch_M5x12 [00] Aktuell (2)
+                        |--134764_Spurzahnscheibe_AL_55TK5_K6_Z35 [00] Aktuell
+                        |--141513_Umlenkachse [00] Aktuell
+                        |--144192_Fingerschutz [00] Aktuell (2)
+                        |--144193_Abdeckblech [00] Aktuell (2)
+                  |--261130_Bandaufbau_rechts_Transportband-Antrieb [00] Aktuell
+                     |--261130_Bandaufbau_rechts_Transportband-Antrieb.1 [] 
+                     |--261160_Umlenkung [00] Aktuell
+                        |--261160_Umlenkung.1 [] 
+                        |--000345_Gewindestift-M5x30-DIN916 [00] Aktuell (2)
+                        |--000413_Sicherungsring-Welle-15x1-DIN471 [00] Aktuell (2)
+                        |--000766_Sechskantmutter-M5-DIN934 [00] Aktuell (2)
+                        |--003018_Rillenkugellager-6002.2Z [00] Aktuell (2)
+                        |--050434_Linsenschraube_mit_Flansch_M4x8 [00] Aktuell (2)
+                        |--065283_Linsenschraube_mit_Flansch_M4x12 [00] Aktuell (6)
+                        |--077808_Linsenschraube_mit_Flansch_M5x12 [00] Aktuell (2)
+                        |--134764_Spurzahnscheibe_AL_55TK5_K6_Z35 [00] Aktuell
+                        |--141513_Umlenkachse [00] Aktuell
+                        |--144192_Fingerschutz [00] Aktuell (2)
+                        |--144193_Abdeckblech [00] Aktuell (2)
+                     |--261170_Antrieb-RE [01] Aktuell
+                        |--261170_Antrieb-RE.1 [] 
+                        |--015827_Passfeder-A4x4x25-DIN6885 [00] Aktuell
+                        |--021337_Pendelkugellager_d10_D30_B14_2200.2RS.TV [00] Aktuell
+                        |--141507_Spurzahnscheibe_AL_55TK5_K6_Z35 [01] Aktuell
+                        |--144196_NMS25HU-50L4-47U-min-230-400V_KlekaB [00] Aktuell
+                           |--134995-00_Flansch [00] 
+                           |--134995-01_M50L4-B14.1.1 [00] 
+                           |--134995-01_M50L4-B14.1.1.1 [00] 
+                           |--134995-02_NMS25_IEC56_B14 [00] 
+                        |--144197_Achse [01] Aktuell
+                        |--144198_Lagerlasche-Aussen-RE [00] Aktuell
+                        |--144199_Lagerlasche-Innen-RE [00] Aktuell
+                     |--261180_Grundaufbau_rechts [00] Aktuell
+                        |--261180_Grundaufbau_rechts.1 [] 
+                        |--141904_Lagerplatte [00] Aktuell (2)
+                        |--144186_Spurzahnriemen_50_TK5_K6_920 [00] Aktuell
+                        |--144187_Tragprofil_Seitenführung [00] Aktuell
+                        |--144188_Gleitfuehrung [00] Aktuell (2)
+                        |--144191_Grundtraeger-RE [00] Aktuell
+               |--261190-01_Seitenfuehrung-LI [00] Aktuell
+                  |--144179_Fuehrungsleiste_LI [00] Aktuell
+                  |--261080_Sensor-Einheit [00] Aktuell
+                     |--261080_Sensor-Einheit.1 [] 
+                     |--143005_Sensor_PZ-V13_33 [00] Aktuell
+                     |--144194_Distanz-Sensor [00] Aktuell
+                     |--144195_Deckplatte [00] Aktuell
+            |--261210_Stopper-Einheit [00] Aktuell
+               |--261210_Stopper-Einheit.1 [] 
+               |--144207_Aufnahme-Stopper-Einheit [00] Aktuell
+               |--261210-01_Stopper [00] Aktuell (2)
+            |--261220_Vereinzler [00] Aktuell
+               |--261220_Vereinzler.1 [] 
+               |--062317_DFM-12-40-P-A-GF [00] Aktuell
+                  |--062317-000_Zubehoer [00] Aktuell
+                  |--Konfig1_ausgefahren
+                  |--060222_Zentrierhuelse-ZBH-5 [00] Aktuell (2)
+                  |--060224_Zentrierhuelse-ZBH-9 [00] Aktuell
+                  |--062317-01_Gehaeuse [00] Aktuell
+                  |--062317-02_Kolben [00] Aktuell
+               |--144206_Schieberplatte [02] Aktuell (2)
+               |--144211_Aufnahme-Winkel [00] Aktuell
+            |--268660_Vereinzler [00] Aktuell
+               |--268660_Vereinzler.1 [] 
+               |--062317_DFM-12-40-P-A-GF [00] Aktuell
+                  |--062317-000_Zubehoer [00] Aktuell
+                  |--Konfig1_ausgefahren
+                  |--060222_Zentrierhuelse-ZBH-5 [00] Aktuell (2)
+                  |--060224_Zentrierhuelse-ZBH-9 [00] Aktuell
+                  |--062317-01_Gehaeuse [00] Aktuell
+                  |--062317-02_Kolben [00] Aktuell
+               |--144211_Aufnahme-Winkel [00] Aktuell
+               |--146841_Schieberplatte [01] Aktuell (2)
+         |--261010_Segment-Auslauf-Stapel [00] Aktuell
+            |--261010_Segment-Auslauf-Stapel.1 [] 
+            |--261010-000_TrayStapel [00] Aktuell
+               |--Ausgehoben [00] 
+               |--0001-Stapel [00] 
+                  |--VT-15382_39 mm [00]  (12)
+            |--261040_Ausheber [00] Aktuell
+               |--261040_Ausheber.1 [] 
+               |--144204_Aufnahme-Antrieb [00] Aktuell
+               |--261040-01_Aushebeplatte [00] Aktuell
+                  |--144201_021493-145_Aluprofil_20x40_siehe033657 [00] Aktuell (4)
+                  |--144202_Grundtraeger [00] Aktuell
+                  |--144203_Anschlag [00] Aktuell (2)
+               |--261430_Antrieb_Ausheber_komplett [00] Aktuell
+                  |--261430_Antrieb_Ausheber_komplett.1 [] 
+                  |--071066_EMMS-ST-57-S-SEB-G2_Servomotor [00] Aktuell
+                  |--101924_Encoderleitung_NEBM-M12G8-E-10-LE8 [00] Aktuell
+                  |--101925_Motorleitung_NEBM-S1G9-E-10-Q5-LE6 [00] Aktuell
+                  |--118581_Parallelbausatz_EAMM-U-65-T42-57A-87 [00] Aktuell
+                     |--HI_4331535_EAMM-U-65-T42-57A-87.PRT [00] 
+                     |--HI_ISO-4762_M4X10.PRT [00]  (4)
+                     |--HI_ISO-4762_M5X12.PRT [00]  (4)
+                     |--_DIN_557_-_M5.PRT [00]  (4)
+                  |--143714_EGSC-BS-KF-60-75-5P [00] Aktuell
+                     |--4795952 EGSC-BS-KF-60---(75_P) [00] 
+                     |--8048367 EGSC-BS-KF-60---(S_75) [00] 
+                  |--147543_Encoderleitung_NEBM-M12G8-E-15-LE85 [00] Aktuell
+                  |--147544_Motorleitung_NEBM-S1G9-E-15-Q5-LE6 [00] Aktuell
+            |--261050_Vereinzler [00] Aktuell
+               |--261050_Vereinzler.1 [] 
+               |--062317_DFM-12-40-P-A-GF [00] Aktuell
+                  |--062317-000_Zubehoer [00] Aktuell
+                  |--Konfig1_ausgefahren
+                  |--060222_Zentrierhuelse-ZBH-5 [00] Aktuell (2)
+                  |--060224_Zentrierhuelse-ZBH-9 [00] Aktuell
+                  |--062317-01_Gehaeuse [00] Aktuell
+                  |--062317-02_Kolben [00] Aktuell
+               |--144205_Aufnahme-Winkel [00] Aktuell
+               |--144206_Schieberplatte [02] Aktuell (2)
+               |--150224_Hohe-Raendelschraube-M5x5 [00] Aktuell (4)
+            |--261190_Bandaufbau-kompl [00] Aktuell
+               |--261190_Bandaufbau-kompl.1 [] 
+               |--144181_Fuehrungsleiste_RE [00] Aktuell
+               |--261060_Band-Aufnahme-1 [00] Aktuell
+                  |--261060_Band-Aufnahme-1.1 [] 
+                  |--144182_021493-549_Aluprofil_20x40_siehe_033657 [00] Aktuell
+                  |--144183_Aufnahme-Winkel [01] Aktuell (2)
+               |--261070_Band-Aufnahme-2 [00] Aktuell
+                  |--261070_Band-Aufnahme-2.1 [] 
+                  |--144182_021493-549_Aluprofil_20x40_siehe_033657 [00] Aktuell
+                  |--144183_Aufnahme-Winkel [01] Aktuell (2)
+               |--261090_Transportband [00] Aktuell
+                  |--261090_Transportband.1 [] 
+                  |--261110_Koppelwelle [00] Aktuell
+                     |--261110_Koppelwelle.1 [] 
+                     |--134817_Spielfreie-Kupplung-RNK-Klemmnabe [00] Aktuell (2)
+                     |--144184_Koppelwelle [00] Aktuell
+                  |--261120_Bandaufbau_links_Transportband [00] Aktuell
+                     |--261120_Bandaufbau_links_Transportband.1 [] 
+                     |--261140_Antrieb-LI [01] Aktuell
+                        |--261140_Antrieb-LI.1 [] 
+                        |--021337_Pendelkugellager_d10_D30_B14_2200.2RS.TV [00] Aktuell (2)
+                        |--141507_Spurzahnscheibe_AL_55TK5_K6_Z35 [01] Aktuell
+                        |--141508_Achse [01] Aktuell
+                        |--141509_Lagerlasche-Aussen [00] Aktuell
+                        |--144185_Lagerlasche-Innen-LI [00] Aktuell
+                     |--261150_Grundaufbau_links [00] Aktuell
+                        |--261150_Grundaufbau_links.1 [] 
+                        |--141904_Lagerplatte [00] Aktuell (2)
+                        |--144186_Spurzahnriemen_50_TK5_K6_920 [00] Aktuell
+                        |--144187_Tragprofil_Seitenführung [00] Aktuell
+                        |--144188_Gleitfuehrung [00] Aktuell (2)
+                        |--144189_Grundtraeger-LI [00] Aktuell
+                     |--261160_Umlenkung [00] Aktuell
+                        |--261160_Umlenkung.1 [] 
+                        |--000345_Gewindestift-M5x30-DIN916 [00] Aktuell (2)
+                        |--000413_Sicherungsring-Welle-15x1-DIN471 [00] Aktuell (2)
+                        |--000766_Sechskantmutter-M5-DIN934 [00] Aktuell (2)
+                        |--003018_Rillenkugellager-6002.2Z [00] Aktuell (2)
+                        |--050434_Linsenschraube_mit_Flansch_M4x8 [00] Aktuell (2)
+                        |--065283_Linsenschraube_mit_Flansch_M4x12 [00] Aktuell (6)
+                        |--077808_Linsenschraube_mit_Flansch_M5x12 [00] Aktuell (2)
+                        |--134764_Spurzahnscheibe_AL_55TK5_K6_Z35 [00] Aktuell
+                        |--141513_Umlenkachse [00] Aktuell
+                        |--144192_Fingerschutz [00] Aktuell (2)
+                        |--144193_Abdeckblech [00] Aktuell (2)
+                  |--261130_Bandaufbau_rechts_Transportband-Antrieb [00] Aktuell
+                     |--261130_Bandaufbau_rechts_Transportband-Antrieb.1 [] 
+                     |--261160_Umlenkung [00] Aktuell
+                        |--261160_Umlenkung.1 [] 
+                        |--000345_Gewindestift-M5x30-DIN916 [00] Aktuell (2)
+                        |--000413_Sicherungsring-Welle-15x1-DIN471 [00] Aktuell (2)
+                        |--000766_Sechskantmutter-M5-DIN934 [00] Aktuell (2)
+                        |--003018_Rillenkugellager-6002.2Z [00] Aktuell (2)
+                        |--050434_Linsenschraube_mit_Flansch_M4x8 [00] Aktuell (2)
+                        |--065283_Linsenschraube_mit_Flansch_M4x12 [00] Aktuell (6)
+                        |--077808_Linsenschraube_mit_Flansch_M5x12 [00] Aktuell (2)
+                        |--134764_Spurzahnscheibe_AL_55TK5_K6_Z35 [00] Aktuell
+                        |--141513_Umlenkachse [00] Aktuell
+                        |--144192_Fingerschutz [00] Aktuell (2)
+                        |--144193_Abdeckblech [00] Aktuell (2)
+                     |--261170_Antrieb-RE [01] Aktuell
+                        |--261170_Antrieb-RE.1 [] 
+                        |--015827_Passfeder-A4x4x25-DIN6885 [00] Aktuell
+                        |--021337_Pendelkugellager_d10_D30_B14_2200.2RS.TV [00] Aktuell
+                        |--141507_Spurzahnscheibe_AL_55TK5_K6_Z35 [01] Aktuell
+                        |--144196_NMS25HU-50L4-47U-min-230-400V_KlekaB [00] Aktuell
+                           |--134995-00_Flansch [00] 
+                           |--134995-01_M50L4-B14.1.1 [00] 
+                           |--134995-01_M50L4-B14.1.1.1 [00] 
+                           |--134995-02_NMS25_IEC56_B14 [00] 
+                        |--144197_Achse [01] Aktuell
+                        |--144198_Lagerlasche-Aussen-RE [00] Aktuell
+                        |--144199_Lagerlasche-Innen-RE [00] Aktuell
+                     |--261180_Grundaufbau_rechts [00] Aktuell
+                        |--261180_Grundaufbau_rechts.1 [] 
+                        |--141904_Lagerplatte [00] Aktuell (2)
+                        |--144186_Spurzahnriemen_50_TK5_K6_920 [00] Aktuell
+                        |--144187_Tragprofil_Seitenführung [00] Aktuell
+                        |--144188_Gleitfuehrung [00] Aktuell (2)
+                        |--144191_Grundtraeger-RE [00] Aktuell
+               |--261190-01_Seitenfuehrung-LI [00] Aktuell
+                  |--144179_Fuehrungsleiste_LI [00] Aktuell
+                  |--261080_Sensor-Einheit [00] Aktuell
+                     |--261080_Sensor-Einheit.1 [] 
+                     |--143005_Sensor_PZ-V13_33 [00] Aktuell
+                     |--144194_Distanz-Sensor [00] Aktuell
+                     |--144195_Deckplatte [00] Aktuell
+            |--268640_Vereinzler [00] Aktuell
+               |--268640_Vereinzler.1 [] 
+               |--062317_DFM-12-40-P-A-GF [00] Aktuell
+                  |--062317-000_Zubehoer [00] Aktuell
+                  |--Konfig1_ausgefahren
+                  |--060222_Zentrierhuelse-ZBH-5 [00] Aktuell (2)
+                  |--060224_Zentrierhuelse-ZBH-9 [00] Aktuell
+                  |--062317-01_Gehaeuse [00] Aktuell
+                  |--062317-02_Kolben [00] Aktuell
+               |--144205_Aufnahme-Winkel [00] Aktuell
+               |--146841_Schieberplatte [01] Aktuell (2)
+               |--150224_Hohe-Raendelschraube-M5x5 [00] Aktuell (4)
+         |--261020_Segment-Auslauf [00] Aktuell
+            |--261020_Segment-Auslauf.1 [] 
+            |--133438-010_Tray_VT-15382_39mm [00] Aktuell
+            |--261190_Bandaufbau-kompl [00] Aktuell
+               |--261190_Bandaufbau-kompl.1 [] 
+               |--144181_Fuehrungsleiste_RE [00] Aktuell
+               |--261060_Band-Aufnahme-1 [00] Aktuell
+                  |--261060_Band-Aufnahme-1.1 [] 
+                  |--144182_021493-549_Aluprofil_20x40_siehe_033657 [00] Aktuell
+                  |--144183_Aufnahme-Winkel [01] Aktuell (2)
+               |--261070_Band-Aufnahme-2 [00] Aktuell
+                  |--261070_Band-Aufnahme-2.1 [] 
+                  |--144182_021493-549_Aluprofil_20x40_siehe_033657 [00] Aktuell
+                  |--144183_Aufnahme-Winkel [01] Aktuell (2)
+               |--261090_Transportband [00] Aktuell
+                  |--261090_Transportband.1 [] 
+                  |--261110_Koppelwelle [00] Aktuell
+                     |--261110_Koppelwelle.1 [] 
+                     |--134817_Spielfreie-Kupplung-RNK-Klemmnabe [00] Aktuell (2)
+                     |--144184_Koppelwelle [00] Aktuell
+                  |--261120_Bandaufbau_links_Transportband [00] Aktuell
+                     |--261120_Bandaufbau_links_Transportband.1 [] 
+                     |--261140_Antrieb-LI [01] Aktuell
+                        |--261140_Antrieb-LI.1 [] 
+                        |--021337_Pendelkugellager_d10_D30_B14_2200.2RS.TV [00] Aktuell (2)
+                        |--141507_Spurzahnscheibe_AL_55TK5_K6_Z35 [01] Aktuell
+                        |--141508_Achse [01] Aktuell
+                        |--141509_Lagerlasche-Aussen [00] Aktuell
+                        |--144185_Lagerlasche-Innen-LI [00] Aktuell
+                     |--261150_Grundaufbau_links [00] Aktuell
+                        |--261150_Grundaufbau_links.1 [] 
+                        |--141904_Lagerplatte [00] Aktuell (2)
+                        |--144186_Spurzahnriemen_50_TK5_K6_920 [00] Aktuell
+                        |--144187_Tragprofil_Seitenführung [00] Aktuell
+                        |--144188_Gleitfuehrung [00] Aktuell (2)
+                        |--144189_Grundtraeger-LI [00] Aktuell
+                     |--261160_Umlenkung [00] Aktuell
+                        |--261160_Umlenkung.1 [] 
+                        |--000345_Gewindestift-M5x30-DIN916 [00] Aktuell (2)
+                        |--000413_Sicherungsring-Welle-15x1-DIN471 [00] Aktuell (2)
+                        |--000766_Sechskantmutter-M5-DIN934 [00] Aktuell (2)
+                        |--003018_Rillenkugellager-6002.2Z [00] Aktuell (2)
+                        |--050434_Linsenschraube_mit_Flansch_M4x8 [00] Aktuell (2)
+                        |--065283_Linsenschraube_mit_Flansch_M4x12 [00] Aktuell (6)
+                        |--077808_Linsenschraube_mit_Flansch_M5x12 [00] Aktuell (2)
+                        |--134764_Spurzahnscheibe_AL_55TK5_K6_Z35 [00] Aktuell
+                        |--141513_Umlenkachse [00] Aktuell
+                        |--144192_Fingerschutz [00] Aktuell (2)
+                        |--144193_Abdeckblech [00] Aktuell (2)
+                  |--261130_Bandaufbau_rechts_Transportband-Antrieb [00] Aktuell
+                     |--261130_Bandaufbau_rechts_Transportband-Antrieb.1 [] 
+                     |--261160_Umlenkung [00] Aktuell
+                        |--261160_Umlenkung.1 [] 
+                        |--000345_Gewindestift-M5x30-DIN916 [00] Aktuell (2)
+                        |--000413_Sicherungsring-Welle-15x1-DIN471 [00] Aktuell (2)
+                        |--000766_Sechskantmutter-M5-DIN934 [00] Aktuell (2)
+                        |--003018_Rillenkugellager-6002.2Z [00] Aktuell (2)
+                        |--050434_Linsenschraube_mit_Flansch_M4x8 [00] Aktuell (2)
+                        |--065283_Linsenschraube_mit_Flansch_M4x12 [00] Aktuell (6)
+                        |--077808_Linsenschraube_mit_Flansch_M5x12 [00] Aktuell (2)
+                        |--134764_Spurzahnscheibe_AL_55TK5_K6_Z35 [00] Aktuell
+                        |--141513_Umlenkachse [00] Aktuell
+                        |--144192_Fingerschutz [00] Aktuell (2)
+                        |--144193_Abdeckblech [00] Aktuell (2)
+                     |--261170_Antrieb-RE [01] Aktuell
+                        |--261170_Antrieb-RE.1 [] 
+                        |--015827_Passfeder-A4x4x25-DIN6885 [00] Aktuell
+                        |--021337_Pendelkugellager_d10_D30_B14_2200.2RS.TV [00] Aktuell
+                        |--141507_Spurzahnscheibe_AL_55TK5_K6_Z35 [01] Aktuell
+                        |--144196_NMS25HU-50L4-47U-min-230-400V_KlekaB [00] Aktuell
+                           |--134995-00_Flansch [00] 
+                           |--134995-01_M50L4-B14.1.1 [00] 
+                           |--134995-01_M50L4-B14.1.1.1 [00] 
+                           |--134995-02_NMS25_IEC56_B14 [00] 
+                        |--144197_Achse [01] Aktuell
+                        |--144198_Lagerlasche-Aussen-RE [00] Aktuell
+                        |--144199_Lagerlasche-Innen-RE [00] Aktuell
+                     |--261180_Grundaufbau_rechts [00] Aktuell
+                        |--261180_Grundaufbau_rechts.1 [] 
+                        |--141904_Lagerplatte [00] Aktuell (2)
+                        |--144186_Spurzahnriemen_50_TK5_K6_920 [00] Aktuell
+                        |--144187_Tragprofil_Seitenführung [00] Aktuell
+                        |--144188_Gleitfuehrung [00] Aktuell (2)
+                        |--144191_Grundtraeger-RE [00] Aktuell
+               |--261190-01_Seitenfuehrung-LI [00] Aktuell
+                  |--144179_Fuehrungsleiste_LI [00] Aktuell
+                  |--261080_Sensor-Einheit [00] Aktuell
+                     |--261080_Sensor-Einheit.1 [] 
+                     |--143005_Sensor_PZ-V13_33 [00] Aktuell
+                     |--144194_Distanz-Sensor [00] Aktuell
+                     |--144195_Deckplatte [00] Aktuell
+         |--269120_Gestell [00] Aktuell
+            |--269120_Gestell.1 [] 
+            |--011336_035886-240_Aluprofil_40x80_siehe_032078 [00] Aktuell (2)
+            |--021869_Abdeckkappe_80x40_PA [00] Aktuell (6)
+            |--041354_035886-690_Aluprofil_40x80_nur_Zuschnitt [00] Aktuell (2)
+            |--147034_Traeger_links_unten [00] Aktuell
+            |--147035_Traeger_rechts_unten [00] Aktuell
+            |--147036_Traeger_oben [00] Aktuell (2)
+         |--269130_Lift [00] Aktuell
+            |--269130_Lift.1 [] 
+            |--269130-01_E-Kette [00] Aktuell
+               |--058158_Linsenschraube_mit_Flansch_M6x10 [00] Aktuell (4)
+               |--091751-19-02_Energiekette_15 [00] Aktuell
+                  |--031255_Kettenglied-Energiekette-15.2.038 [00] Aktuell (19)
+                  |--079707-01_Anschlusselement_1025.12PZ [00] Aktuell
+                  |--079707-02_Anschlusselement_1025.12PZ [00] Aktuell
+               |--091751-19-03_Energiekette_15.025 [00] Aktuell
+                  |--030338_Trennsteag_153 [00] Aktuell
+                  |--031255_Kettenglied-Energiekette-15.2.038 [00] Aktuell (19)
+                  |--079707-01_Anschlusselement_1025.12PZ [00] Aktuell
+                  |--079707-02_Anschlusselement_1025.12PZ [00] Aktuell
+            |--269130-02_Segment-Lift [00] Aktuell
+               |--133438-010_Tray_VT-15382_39mm [00] Aktuell
+               |--144213_Anschlag [00] Aktuell
+               |--269140_Bandaufbau-kompl [00] Aktuell
+                  |--269140_Bandaufbau-kompl.1 [] 
+                  |--147038_Fuehrungsleiste_rechts [00] Aktuell
+                  |--261060_Band-Aufnahme-1 [00] Aktuell
+                     |--261060_Band-Aufnahme-1.1 [] 
+                     |--144182_021493-549_Aluprofil_20x40_siehe_033657 [00] Aktuell
+                     |--144183_Aufnahme-Winkel [01] Aktuell (2)
+                  |--261070_Band-Aufnahme-2 [00] Aktuell
+                     |--261070_Band-Aufnahme-2.1 [] 
+                     |--144182_021493-549_Aluprofil_20x40_siehe_033657 [00] Aktuell
+                     |--144183_Aufnahme-Winkel [01] Aktuell (2)
+                  |--269140-01_Seitenfuehrung-LI [00] Aktuell
+                     |--147037_Fuehrungsleiste_links [00] Aktuell
+                     |--261080_Sensor-Einheit [00] Aktuell
+                        |--261080_Sensor-Einheit.1 [] 
+                        |--143005_Sensor_PZ-V13_33 [00] Aktuell
+                        |--144194_Distanz-Sensor [00] Aktuell
+                        |--144195_Deckplatte [00] Aktuell
+                  |--269150_Transportband [00] Aktuell
+                     |--269150_Transportband.1 [] 
+                     |--261110_Koppelwelle [00] Aktuell
+                        |--261110_Koppelwelle.1 [] 
+                        |--134817_Spielfreie-Kupplung-RNK-Klemmnabe [00] Aktuell (2)
+                        |--144184_Koppelwelle [00] Aktuell
+                     |--269160_Bandaufbau_links_Transportband [00] Aktuell
+                        |--269160_Bandaufbau_links_Transportband.1 [] 
+                        |--261140_Antrieb-LI [01] Aktuell
+                           |--261140_Antrieb-LI.1 [] 
+                           |--021337_Pendelkugellager_d10_D30_B14_2200.2RS.TV [00] Aktuell (2)
+                           |--141507_Spurzahnscheibe_AL_55TK5_K6_Z35 [01] Aktuell
+                           |--141508_Achse [01] Aktuell
+                           |--141509_Lagerlasche-Aussen [00] Aktuell
+                           |--144185_Lagerlasche-Innen-LI [00] Aktuell
+                        |--261160_Umlenkung [00] Aktuell
+                           |--261160_Umlenkung.1 [] 
+                           |--000345_Gewindestift-M5x30-DIN916 [00] Aktuell (2)
+                           |--000413_Sicherungsring-Welle-15x1-DIN471 [00] Aktuell (2)
+                           |--000766_Sechskantmutter-M5-DIN934 [00] Aktuell (2)
+                           |--003018_Rillenkugellager-6002.2Z [00] Aktuell (2)
+                           |--050434_Linsenschraube_mit_Flansch_M4x8 [00] Aktuell (2)
+                           |--065283_Linsenschraube_mit_Flansch_M4x12 [00] Aktuell (6)
+                           |--077808_Linsenschraube_mit_Flansch_M5x12 [00] Aktuell (2)
+                           |--134764_Spurzahnscheibe_AL_55TK5_K6_Z35 [00] Aktuell
+                           |--141513_Umlenkachse [00] Aktuell
+                           |--144192_Fingerschutz [00] Aktuell (2)
+                           |--144193_Abdeckblech [00] Aktuell (2)
+                        |--269180_Grundaufbau_links [00] Aktuell
+                           |--269180_Grundaufbau_links.1 [] 
+                           |--141904_Lagerplatte [00] Aktuell (2)
+                           |--147039_Spurzahnriemen_50_TK5_K6_820 [00] Aktuell
+                           |--147041_Grundtraeger-LI [00] Aktuell
+                           |--147043_Gleitfuehrung [00] Aktuell (2)
+                           |--147044_Tragprofil_Seitenfuehrung [00] Aktuell
+                     |--269170_Bandaufbau_rechts_Transportband-Antrieb [00] Aktuell
+                        |--269170_Bandaufbau_rechts_Transportband-Antrieb.1 [] 
+                        |--261160_Umlenkung [00] Aktuell
+                           |--261160_Umlenkung.1 [] 
+                           |--000345_Gewindestift-M5x30-DIN916 [00] Aktuell (2)
+                           |--000413_Sicherungsring-Welle-15x1-DIN471 [00] Aktuell (2)
+                           |--000766_Sechskantmutter-M5-DIN934 [00] Aktuell (2)
+                           |--003018_Rillenkugellager-6002.2Z [00] Aktuell (2)
+                           |--050434_Linsenschraube_mit_Flansch_M4x8 [00] Aktuell (2)
+                           |--065283_Linsenschraube_mit_Flansch_M4x12 [00] Aktuell (6)
+                           |--077808_Linsenschraube_mit_Flansch_M5x12 [00] Aktuell (2)
+                           |--134764_Spurzahnscheibe_AL_55TK5_K6_Z35 [00] Aktuell
+                           |--141513_Umlenkachse [00] Aktuell
+                           |--144192_Fingerschutz [00] Aktuell (2)
+                           |--144193_Abdeckblech [00] Aktuell (2)
+                        |--261170-01_Antrieb-RE [00] Aktuell
+                           |--261170_Antrieb-RE.1 [] 
+                           |--015827_Passfeder-A4x4x25-DIN6885 [00] Aktuell
+                           |--021337_Pendelkugellager_d10_D30_B14_2200.2RS.TV [00] Aktuell
+                           |--141507_Spurzahnscheibe_AL_55TK5_K6_Z35 [01] Aktuell
+                           |--144196_NMS25HU-50L4-47U-min-230-400V_KlekaB [00] Aktuell
+                              |--134995-00_Flansch [00] 
+                              |--134995-01_M50L4-B14.1.1 [00] 
+                              |--134995-01_M50L4-B14.1.1.1 [00] 
+                              |--134995-02_NMS25_IEC56_B14 [00] 
+                           |--144197_Achse [01] Aktuell
+                           |--144198_Lagerlasche-Aussen-RE [00] Aktuell
+                           |--144199_Lagerlasche-Innen-RE [00] Aktuell
+                        |--269190_Grundaufbau_rechts [00] Aktuell
+                           |--269190_Grundaufbau_rechts.1 [] 
+                           |--141904_Lagerplatte [00] Aktuell (2)
+                           |--147039_Spurzahnriemen_50_TK5_K6_820 [00] Aktuell
+                           |--147042_Grundtraeger-RE [00] Aktuell
+                           |--147043_Gleitfuehrung [00] Aktuell (2)
+                           |--147044_Tragprofil_Seitenfuehrung [00] Aktuell
+            |--269130-03_Lift-Wagen [00] Aktuell
+               |--021868_Abdeckkappe_40x40_PA [00] Aktuell (2)
+               |--054134_035887-250_Aluprofil_40x40_siehe_032077 [00] Aktuell (2)
+               |--147045_Grundplatte-Lift [00] Aktuell
+            |--269210_Antrieb [00] Aktuell
+               |--269210_Antrieb.1 [] 
+               |--074159_Profilbefestigung_MUC-32 [00] Aktuell (3)
+               |--115538_DGC-32-650-KF-PPV-A [00] Aktuell
+                  |--115538-000_Zubehoer [00] Aktuell
+                  |--115538-001_Gehaeuse [00] Aktuell
+                  |--115538-002_Schlitten_Pos-0 [00] Aktuell
+                  |--115538-003_Schlitten_Pos-1 [00] Aktuell
+               |--147046_Aufnahme-MUC [00] Aktuell (3)
+         |--269230_Ventil-Insel [00] Aktuell
+            |--269230_Ventil-Insel.1 [] 
+            |--147048_Ventil-Insel_SMC_13617-2 [00] Aktuell
+               |--AN20-C10 [00] 
+               |--AN20-C10.1 [00] 
+               |--EX600-DXPC [00] 
+               |--EX600-DXPC.1 [00] 
+               |--EX600-DXPC.2 [00] 
+               |--EX600-DXPC.3 [00] 
+               |--EX600-DXPC.4 [00] 
+               |--EX600-ED2 [00] 
+               |--EX600-SF1 [00] 
+               |--EX600-ZMV2 [00] 
+               |--START [00] 
+               |--SY50M-1-1A-C10(10_2__) [00] 
+               |--SY50M-2-1DA-C6C6__SY5__ [00] 
+               |--SY50M-2-1DA-C6C6__SY5__.1 [00] 
+               |--SY50M-2-1DA-C6C6__SY5__.2 [00] 
+               |--SY50M-2-1DA-C6C6__SY5__.3 [00] 
+               |--SY50M-2-1DA-C6C6__SY5__.4 [00] 
+               |--SY50M-2-1DA-C6C6__SY5__.5 [00] 
+               |--SY50M-2-1DA-C6C6__SY5__.6 [00] 
+               |--SY50M-2-1DA-C6C6__SY5__.7 [00] 
+               |--SY50M-3-1A-C10(10__) [00] 
+               |--SY5300-5U1 [00] 
+               |--SY5300-5U1.1 [00] 
+               |--SY5300-5U1.2 [00] 
+               |--SY5300-5U1.3 [00] 
+               |--SY5300-5U1.4 [00] 
+               |--SY5300-5U1.5 [00] 
+               |--SY5300-5U1.6 [00] 
+               |--SY5300-5U1.7 [00] 
+            |--147052_Grundplatte-Ventil-Insel [00] Aktuell
+   |--268790_Taster_3-fach_komplett [00] Aktuell
+      |--268790_Taster_3-fach_komplett.1 [] 
+      |--028329_Leergehaeuse_M22-I3 [00] Aktuell
+      |--028356_Leuchtdrucktasten_M22-DL-W [00] Aktuell (2)
+      |--028366_Not-Aus-Taste_M22-PV [00] Aktuell
+      |--146925_Halter_Leergehaeuse [00] Aktuell
+   |--269240_Roboter-Einheit-Base-Unit [00] Aktuell
+      |--269240_Roboter-Einheit-Base-Unit.1 [] 
+      |--264610_120682_Fanuc_Scara-Roboter_SR-6iA [00] Aktuell
+         |--120682-000_Arbeitsbereich [00] Aktuell
+         |--120682-001_ausgefahren [00] Aktuell
+         |--120682-01_Basis [00] Aktuell
+            |--Sammelfläche.1 [00] 
+         |--120682-02_Arm1 [00] Aktuell
+            |--J1_ARM_UNIT.PRT [00] 
+         |--120682-03_Arm2 [00] Aktuell
+            |--J2_ARM_UNIT_SV.prt.1 [00] 
+            |--J2_ARM_UNIT_SV.prt.2 [00] 
+            |--J2_ARM_UNIT_SV.prt.3 [00] 
+            |--J2_ARM_UNIT_SV.prt.4 [00] 
+            |--J2_ARM_UNIT_SV.prt.5 [00] 
+            |--J2_ARM_UNIT_SV.prt.6 [00] 
+            |--J2_ARM_UNIT_SV.prt.7 [00] 
+            |--Kurve [00] 
+            |--Sammelfläche.1 [00] 
+         |--120682-04_R-Achse [00] Aktuell
+            |--J3J4_SHAFT_UNIT.PRT [00] 
+         |--120682-05_Kabel [00] Aktuell
+      |--269240-01_Ventile-Roboter [00] Aktuell
+         |--147054_Aufnahme-Ventil [00] Aktuell
+         |--261740_Ventilinsel_CPE10_Alublock_komplett [00] Aktuell
+            |--261740_Ventilinsel_CPE10_Alublock_komplett.1 [] 
+            |--057939_Magnetventil_CPE10-M1CH-5L-M7 [00] Aktuell (2)
+            |--065248_Verbindungsleitung_NEBV-M8W4L-E-10-LE2.1 [00] Aktuell (2)
+            |--067229_Magnetventil_CPE10-M1CH-5_3G-M7.1.1 [00] Aktuell (2)
+            |--083979_Halter_CPE10-H5-SET [00] Aktuell (4)
+            |--083984_CPE10-PRS-1-4-4 [00] Aktuell
+      |--284250_Greifer-komplett-Base-Unit [00] Aktuell (2)

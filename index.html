@@ -5,6 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Excel-Vergleich</title>
+  <link href="style.css" rel="stylesheet" type="text/css">
   <script type="module" src="Main.js"></script>
   <style>
     body {
@@ -15,8 +16,14 @@
 </head>
 
 <body>
-  <label for="idVin_excelInput">Excel-Datei hochladen</label><input id="idVin_excelInput" hidden type="file"></input>
-  <label id="idLbl_Output">output</label>
+  <main>
+    <input type="number" id="idVin_customerNumber"></input>
+    <label for="idVin_SOUInput">SOU-Liste als ".xlsx"</label><input type="file" id="idVin_SOUInput" accept=".xlsx" hidden></input>
+    <br>
+    <label for="idVin_textInput">CAD-Liste als ".txt"</label><input type="file" id="idVin_textInput" accept=".txt" hidden></input>
+    <br>
+    <button id="idBtn_compare">Vergleich</button>
+  </main>
 </body>
 
 </html>
