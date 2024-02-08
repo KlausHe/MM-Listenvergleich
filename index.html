@@ -17,12 +17,19 @@
 
 <body>
   <main>
-    <input type="number" id="idVin_customerNumber"></input>
-    <label for="idVin_SOUInput">SOU-Liste als ".xlsx"</label><input type="file" id="idVin_SOUInput" accept=".xlsx" hidden></input>
-    <br>
-    <label for="idVin_textInput">CAD-Liste als ".txt"</label><input type="file" id="idVin_textInput" accept=".txt" hidden></input>
-    <br>
-    <button id="idBtn_compare">Vergleich</button>
+    <div><input type="number" id="idVin_customerNumber"></input>
+    </div>
+    <div><label class="cl_info" uiRadius="left" for="idCB_dashZero">"-0..." ignorieren</label><label class="cl_infoCB" uiRadius="right"><input class="cl_info" type="checkbox" id="idCB_dashZero">
+        </input></label>
+    </div>
+    <div><label class="cl_info" uiRadius="left" for="idVin_inputSOU">SOU-Liste als ".xlsx"<input type="file" id="idVin_inputSOU" accept=".xlsx" hidden></input>
+      </label><label class="cl_info" uiRadius="right" id="idLbl_loadedSOU"></label>
+    </div>
+    <div><label class="cl_info" uiRadius="left" for="idVin_inputCAD">CAD-Liste als ".txt"<input type="file" id="idVin_inputCAD" accept=".txt" hidden>
+      </label></input><label class="cl_info" uiRadius="right" id="idLbl_loadedCAD"></label>
+    </div>
+    <div><button uiRadius="left" id="idBtn_compare">Vergleich</button><label class="cl_info" uiRadius="right" id="idLbl_compare"></label>
+    </div>
   </main>
 </body>
 
