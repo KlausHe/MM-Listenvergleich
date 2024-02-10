@@ -20,7 +20,12 @@ function mainSetup() {
 	KadUtils.daEL(idBtn_refreshParsing, "click", refreshParsing);
 
 	KadUtils.dbID(idLbl_errorsFound).textContent = "...";
+	KadUtils.dbID(idLbl_missingSOU).textContent = "...";
+	KadUtils.dbID(idLbl_missingCAD).textContent = "...";
 	KadUtils.daEL(idBtn_download, "click", startDownload);
+	KadUtils.KadDOM.resetInput(idVin_fileName, "Dateiname Eingeben");
+	KadUtils.dbID(idLbl_fileName).textContent = `Stücklistenvergleich.xlsx`;
+	KadUtils.daEL(idVin_fileName, "input", getFileName);
 	KadUtils.KadDOM.enableBtn(idBtn_download, false);
 }
 
@@ -29,11 +34,14 @@ const count = "Menge";
 const name = "Bezeichnung";
 const partFamily = "ArtikelTeileFamilie";
 const filterFamily = ["Rohmaterial", "Baugruppe"];
-const parsedHeader = [mmID, "SOU", "CAD", name, partFamily];
+const foundInSOU = "inSOU";
+const foundInCAD = "inCAD";
+const parsedHeader = [mmID, "SOU", "CAD", name, partFamily, foundInSOU, foundInCAD];
 
 let customNumbers = null;
 let stateDashZero = false;
 let stateIgnoreAssembly = false;
+let filename = "";
 let filedataSOU = null;
 let filedataCAD = null;
 let objectListSOU = {};
@@ -42,6 +50,8 @@ let objectListCompared = {};
 let objectListDifferences = {};
 let dataDiff = [];
 let dataComp = [];
+let dataNotInCAD = [];
+let dataNotInSOU = [];
 let filesParsed = {
 	SOU: false,
 	CAD: false,
@@ -56,11 +66,14 @@ function getcustomNumbers(event) {
 		return;
 	}
 	customNumbers = customNumbers.map((n) => Number(n));
-	text = `${customNumbers.length} Nummern ignoriert:`;
-	for (let t of customNumbers) {
-		text += `\n ${t}`;
+	const num = customNumbers.length;
+	const word = num == 1 ? "Nummer" : "Nummern";
+	text = `${num} ${word} ignoriert:`;
+	for (let [index, t] of customNumbers.entries()) {
+		if (index % 3 == 0) text += "<br>";
+		text += ` ${t} `;
 	}
-	KadUtils.dbID(idLbl_customNumbers).textContent = text;
+	KadUtils.dbID(idLbl_customNumbers).innerHTML = text;
 }
 
 function dashZeroFilter(event) {
@@ -73,6 +86,14 @@ function ignoreAssemblyFilter(event) {
 function refreshParsing() {
 	if (filesParsed.SOU) parseFileExcel();
 	if (filesParsed.CAD) parseFileText();
+}
+
+function getFileName(event) {
+	filename = event.target.value;
+	if (filename == "") {
+		filename = "Stücklistenvergleich";
+	}
+	KadUtils.dbID(idLbl_fileName).textContent = `${filename}.xlsx`;
 }
 
 function getFile(evt, type) {
@@ -187,6 +208,13 @@ function cleanDashZero(text) {
 // -----------------------------
 function startCompare() {
 	objectListCompared = {};
+	dataDiff = [];
+	dataComp = [];
+	let objectNotInCAD = {};
+	let objectNotInSOU = {};
+	dataNotInCAD = [];
+	dataNotInSOU = [];
+
 	for (let [souKey, souValue] of Object.entries(objectListSOU)) {
 		const cadCount = objectListCAD[souKey] == null ? 0 : objectListCAD[souKey][count];
 		objectListCompared[souKey] = {
@@ -195,47 +223,55 @@ function startCompare() {
 			CAD: cadCount,
 			[name]: souValue[name],
 			[partFamily]: souValue[partFamily] ? souValue[partFamily] : "---",
+			[foundInSOU]: true,
+			[foundInCAD]: cadCount == 0 ? false : true,
 		};
+		if (cadCount == 0) objectNotInCAD[souKey] = objectListCompared[souKey];
 	}
 
 	for (let [cadKey, cadValue] of Object.entries(objectListCAD)) {
 		if (objectListCompared[cadKey] === undefined) {
-			const souCount = objectListSOU[cadKey] == null ? 0 : objectListSOU[cadKey][count];
 			objectListCompared[cadKey] = {
 				[mmID]: cadValue[mmID],
-				SOU: souCount,
+				SOU: 0,
 				CAD: cadValue[count],
 				[name]: cadValue[name],
 				[partFamily]: "aus CAD",
+				[foundInSOU]: false,
+				[foundInCAD]: true,
 			};
+			objectNotInSOU[cadKey] = objectListCompared[cadKey];
 		}
 	}
 
 	objectListDifferences = Object.values(objectListCompared).filter((obj) => obj.SOU != obj.CAD);
 
-	dataDiff = [];
-	dataComp = [];
+	dataDiff = objectToArray(objectListDifferences);
+	dataComp = objectToArray(objectListCompared);
+	dataNotInSOU = objectToArray(objectNotInSOU);
+	dataNotInCAD = objectToArray(objectNotInCAD);
 
-	for (let [index, listItem] of Object.values(objectListDifferences).entries()) {
-		dataDiff[index] = [];
-		for (let h of parsedHeader) {
-			dataDiff[index].push(listItem[h]);
-		}
-	}
-
-	for (let [index, listItem] of Object.values(objectListCompared).entries()) {
-		dataComp[index] = [];
-		for (let h of parsedHeader) {
-			dataComp[index].push(listItem[h]);
-		}
-	}
 	dataDiff.sort((a, b) => a[0] - b[0]);
 	dataComp.sort((a, b) => a[0] - b[0]);
+	dataNotInSOU.sort((a, b) => a[0] - b[0]);
+	dataNotInCAD.sort((a, b) => a[0] - b[0]);
 
-	KadUtils.dbID(idLbl_errorsFound).textContent = `${dataDiff.length} Fehler gefunden!`;
+	KadUtils.dbID(idLbl_errorsFound).textContent = dataDiff.length;
+	KadUtils.dbID(idLbl_missingSOU).textContent = dataNotInSOU.length;
+	KadUtils.dbID(idLbl_missingCAD).textContent = dataNotInCAD.length;
 
 	KadUtils.KadDOM.enableBtn(idBtn_download, true);
-	console.log(dataDiff, dataComp);
+}
+
+function objectToArray(obj) {
+	let arr = [];
+	for (let [index, listItem] of Object.values(obj).entries()) {
+		arr[index] = [];
+		for (let h of parsedHeader) {
+			arr[index].push(listItem[h]);
+		}
+	}
+	return arr;
 }
 
 function startDownload() {
@@ -243,11 +279,18 @@ function startDownload() {
 
 	dataDiff.unshift(parsedHeader);
 	dataComp.unshift(parsedHeader);
-	console.log(dataDiff, dataComp);
+	dataNotInSOU.unshift(parsedHeader);
+	dataNotInCAD.unshift(parsedHeader);
+
 	const book = utils.book_new();
 	let sheetDiff = utils.aoa_to_sheet(dataDiff);
 	let sheetComp = utils.aoa_to_sheet(dataComp);
+	let sheetSOU = utils.aoa_to_sheet(dataNotInSOU);
+	let sheetCAD = utils.aoa_to_sheet(dataNotInCAD);
 	utils.book_append_sheet(book, sheetDiff, "Differenz");
 	utils.book_append_sheet(book, sheetComp, "Alles");
-	writeFile(book, "Stücklistenvergleich.xlsx");
+	utils.book_append_sheet(book, sheetSOU, "Nicht im SOU");
+	utils.book_append_sheet(book, sheetCAD, "Nicht im CAD");
+	let name = filename || "Stücklistenvergleich";
+	writeFile(book, `${name}.xlsx`);
 }

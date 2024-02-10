@@ -22,7 +22,7 @@
       </div>
     </fieldset>
     <fieldset>
-      
+
       <legend>Filteroptionen</legend>
       <div><textarea id="idArea_customNumbers"></textarea><label class="cl_infoArea" id="idLbl_customNumbers"></label></div>
       <div><label class="cl_info" uiRadius="left" for="idCB_ignoreAssembly">Baugruppen ignorieren</label><label class="cl_infoCB" uiRadius="right">
@@ -35,7 +35,15 @@
     </fieldset>
     <fieldset>
       <legend>Ergebnisse und Download</legend>
-      <div><label class="cl_info" id="idLbl_errorsFound"></div>
+      <div><input type="text" uiRadius="left" id="idVin_fileName"></input><label class="cl_info" uiRadius="right" id="idLbl_fileName"></label></div>
+      <div><label class="cl_info" uiRadius="left">Stückzahl nicht gleich:</label><label class="cl_info" uiRadius="right" id="idLbl_errorsFound"></label></div>
+      <div><label class="cl_info" uiRadius="left">MM-Nr. nicht im SOU:</label><label class="cl_info" uiRadius="right" id="idLbl_missingSOU"></label></div>
+      <div><label class="cl_info" uiRadius="left">MM-Nr. nicht im CAD:</label><label class="cl_info" uiRadius="right" id="idLbl_missingCAD"></label></div>
+
+
+
+
+
       <div><button id="idBtn_download">Download</button>
       </div>
     </fieldset>
