@@ -6,30 +6,38 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Excel-Vergleich</title>
   <link href="style.css" rel="stylesheet" type="text/css">
+
   <script type="module" src="Main.js"></script>
-  <style>
-    body {
-      padding: 0;
-      margin: 0;
-    }
-  </style>
 </head>
 
 <body>
   <main>
-    <div><input type="number" id="idVin_customerNumber"></input>
-    </div>
-    <div><label class="cl_info" uiRadius="left" for="idCB_dashZero">"-0..." ignorieren</label><label class="cl_infoCB" uiRadius="right"><input class="cl_info" type="checkbox" id="idCB_dashZero">
-        </input></label>
-    </div>
-    <div><label class="cl_info" uiRadius="left" for="idVin_inputSOU">SOU-Liste als ".xlsx"<input type="file" id="idVin_inputSOU" accept=".xlsx" hidden></input>
-      </label><label class="cl_info" uiRadius="right" id="idLbl_loadedSOU"></label>
-    </div>
-    <div><label class="cl_info" uiRadius="left" for="idVin_inputCAD">CAD-Liste als ".txt"<input type="file" id="idVin_inputCAD" accept=".txt" hidden>
-      </label></input><label class="cl_info" uiRadius="right" id="idLbl_loadedCAD"></label>
-    </div>
-    <div><button uiRadius="left" id="idBtn_compare">Vergleich</button><label class="cl_info" uiRadius="right" id="idLbl_compare"></label>
-    </div>
+    <fieldset>
+      <legend>Listen Hochladen</legend>
+      <div><label class="cl_infoBTN" uiRadius="left" id="idLbl_inputSOU" for="idVin_inputSOU">SOU-Liste als ".xlsx"<input type="file" id="idVin_inputSOU" accept=".xlsx" hidden></input>
+        </label><label class="cl_info" uiRadius="right" id="idLbl_loadedSOU"></label>
+      </div>
+      <div><label class="cl_infoBTN" uiRadius="left" id="idLbl_inputCAD" for="idVin_inputCAD">CAD-Liste als ".txt"<input type="file" id="idVin_inputCAD" accept=".txt" hidden>
+        </label></input><label class="cl_info" uiRadius="right" id="idLbl_loadedCAD"></label>
+      </div>
+    </fieldset>
+    <fieldset>
+      <legend>Filteroptionen</legend>
+      <div><textarea id="idArea_customNumbers"></textarea><label class="cl_infoArea" id="idLbl_customNumbers"></label></div>
+      <div><label class="cl_info" uiRadius="left" for="idCB_ignoreAssembly">Baugruppen ignorieren</label><label class="cl_infoCB" uiRadius="right">
+          <input class="cl_info" type="checkbox" id="idCB_ignoreAssembly"></input></label>
+      </div>
+      <div><label class="cl_info" uiRadius="left" for="idCB_dashZero">"-0..." ignorieren</label><label class="cl_infoCB" uiRadius="right">
+          <input class="cl_info" type="checkbox" id="idCB_dashZero"></input></label>
+      </div>
+      <div><button id="idBtn_refreshParsing">Daten erneut prüfen</button></div>
+    </fieldset>
+    <fieldset>
+      <legend>Ergebnisse und Download</legend>
+      <div><label class="cl_info" id="idLbl_errorsFound"></div>
+      <div><button id="idBtn_download">Download</button>
+      </div>
+    </fieldset>
   </main>
 </body>
 

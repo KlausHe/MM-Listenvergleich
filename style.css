@@ -82,7 +82,7 @@
 	--transitionTimeInfo: 0.3s;
 	--transitionTimeHide: 1s;
 	--transitionTimeName: 1.3s;
-	--fontSize: 24px;
+	--fontSize: 20px;
 	--fontWeight: 300;
 	--fontSizeMedium: 1.2rem;
 	--fontSizeLarge: 1.4rem;
@@ -116,9 +116,10 @@ main {
 	display: grid;
 	grid-gap: var(--padding);
 	margin: var(--gridMarginSide);
+	justify-content: center;
 }
 /*------------------------------*/
-/* all the inputs */
+
 input,
 button,
 textarea,
@@ -156,9 +157,23 @@ label {
 }
 
 label[for] {
+	background-color: hsl(var(--bgcButton));
 	cursor: pointer;
 }
 
+label[for]:hover {
+	background-color: hsl(var(--bgcNavbar) / 0.6);
+	color: hsl(var(--txtNavbar));
+}
+
+fieldset {
+	width: var(--UIWidth18);
+	padding: var(--padding);
+	border: var(--borderThin);
+	border-radius: var(--UIRadius);
+	display: grid;
+	grid-gap: var(--padding);
+}
 h1 {
 	/* vertical-align: middle; */
 	font-weight: var(--fontWeight);
@@ -186,10 +201,9 @@ img {
 }
 
 textarea {
-	width: var(--UIWidth12);
+	width: var(--UIWidth8);
 	height: var(--UIHeight3);
 	padding: var(--padding);
-	resize: none;
 }
 
 select {
@@ -267,7 +281,6 @@ input[type="password"] {
 	padding: var(--padding);
 }
 
-
 input[type="number"] {
 	appearance: none;
 	-moz-appearance: textfield;
@@ -280,14 +293,12 @@ input[type="number"]::-webkit-outer-spin-button {
 	-webkit-appearance: none;
 }
 
-
 input[type="checkbox"] {
 	/* mox: none; because "Checkbox" does not work */
 	-moz-appearance: none;
 	-webkit-appearance: checkbox;
 	appearance: checkbox;
-	width: var(--UIHeight1);
-	/* width: var(--imgSize); */
+	width: var(--imgSize);
 	height: var(--imgSize);
 	cursor: pointer;
 }
@@ -303,7 +314,9 @@ input[type="image"] {
 
 .cl_infoCB,
 .cl_infoNav,
-.cl_info {
+.cl_info,
+.cl_infoBTN,
+.cl_infoArea {
 	display: inline-block;
 	position: relative;
 	height: var(--UIHeight1);
@@ -315,8 +328,17 @@ input[type="image"] {
 	border-radius: var(--UIRadius);
 	text-align: center;
 }
+
 .cl_infoCB {
 	width: var(--UIWidth1);
+}
+
+.cl_infoBTN {
+	background-color: hsl(var(--bgcButton));
+}
+.cl_infoArea {
+	min-height: var(--UIHeight3);
+	height: auto
 }
 
 .cl_outputLbl {
