@@ -93,7 +93,7 @@
 	padding: 0;
 	-webkit-box-sizing: border-box;
 	box-sizing: border-box;
-	font-family: "Roboto", Times, sans-serif;
+	font-family: Arial, sans-serif;
 	font-size: var(--fontSize);
 	font-weight: var(--fontWeight);
 	font-style: normal;
@@ -119,6 +119,11 @@ main {
 	justify-content: center;
 }
 /*------------------------------*/
+dialog {
+	margin: auto;
+	padding: var(--padding);
+	border: none;
+}
 
 input,
 button,
@@ -147,6 +152,10 @@ select:hover {
 	transition-delay: 0s;
 }
 
+ol {
+	list-style-position: inside;
+}
+
 div {
 	padding: 0;
 	margin: 0;
@@ -171,12 +180,14 @@ fieldset {
 	padding: var(--padding);
 	border: var(--borderThin);
 	border-radius: var(--UIRadius);
+	margin-bottom: var(--UIHeight1);
 	display: grid;
 	grid-gap: var(--padding);
 }
 h1 {
-	/* vertical-align: middle; */
+	font-size: var(--fontSizeLarge);
 	font-weight: var(--fontWeight);
+	margin-bottom: var(--UIHeight1);
 }
 
 /*           I-whatever*/
@@ -204,6 +215,7 @@ textarea {
 	width: var(--UIWidth8);
 	height: var(--UIHeight3);
 	padding: var(--padding);
+	resize: vertical;
 }
 
 select {
@@ -338,7 +350,7 @@ input[type="image"] {
 }
 .cl_infoArea {
 	min-height: var(--UIHeight3);
-	height: auto
+	height: auto;
 }
 
 .cl_outputLbl {

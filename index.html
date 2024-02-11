@@ -11,39 +11,75 @@
 </head>
 
 <body>
+  <dialog id="idDia_SOU">
+    <fieldset>
+      <legend>SOU-Stücklistendatei erstellen</legend>
+      <ol>
+        <li>Stückliste der Baugruppe aufrufen</li>
+        <li>Reporte -> Mengenstückliste</li>
+        <li>In Zwischenablage speichern</li>
+        <li>Neue Excel-Datei öffnen</li>
+        <li>Zwischenablage in Zelle A1 kopieren</li>
+        <li>Mit beliebigem Namen speichern</li>
+        <br>
+        <li>Der Dateiname wird für die Vergleichsdatei verwendet</li>
+      </ol>
+      <button type="button" id="idBtn_infoCloseSOU" autofocus>Schließen</button>
+    </fieldset>
+  </dialog>
+  <dialog id="idDia_CAD">
+    <fieldset>
+      <legend>CAD-Stücklistendatei erstellen</legend>
+      <ol>
+        <li>Baugruppe ins CAD laden</li>
+        <li>Baugruppe als "Root" oder alles andere löschen</li>
+        <li>RMT in Strukturliste auf freien Bereich</li>
+        <li>"Einstellung" -> "Erweitern"</li>
+        <li>Alles außer "Pseudobaugruppe" deaktivieren -> "OK"</li>
+        <li>RMT in Strukturliste auf freien Bereich</li>
+        <li>"Aktion" -> "Baum schreiben"</li>
+        <li>Datei als .txt speichern</li>
+      </ol>
+      <button type="button" id="idBtn_infoCloseCAD" autofocus>Schließen</button>
+    </fieldset>
+  </dialog>
   <main>
+    <div>
+      <h1>Stücklistenvergleich</h1>
+    </div>
     <fieldset>
       <legend>Listen Hochladen</legend>
-      <div><label class="cl_infoBTN" uiRadius="left" id="idLbl_inputSOU" for="idVin_inputSOU">SOU-Liste als ".xlsx"<input type="file" id="idVin_inputSOU" accept=".xlsx" hidden></input>
-        </label><label class="cl_info" uiRadius="right" id="idLbl_loadedSOU"></label>
+      <div><label class="cl_infoBTN" uiRadius="left" uiSize="size7" id="idLbl_inputSOU" for="idVin_inputSOU">SOU-Liste als ".xlsx"<input type="file" id="idVin_inputSOU" accept=".xlsx" hidden></input>
+        </label><button type="button" id="idBtn_infoSOU" uiSize="size1" uiRadius="none"><img src="Data/cInfo.svg"></img></button><label class="cl_info" uiRadius="right" id="idLbl_loadedSOU"></label>
       </div>
-      <div><label class="cl_infoBTN" uiRadius="left" id="idLbl_inputCAD" for="idVin_inputCAD">CAD-Liste als ".txt"<input type="file" id="idVin_inputCAD" accept=".txt" hidden>
-        </label></input><label class="cl_info" uiRadius="right" id="idLbl_loadedCAD"></label>
+      <div><label class="cl_infoBTN" uiRadius="left" uiSize="size7" id="idLbl_inputCAD" for="idVin_inputCAD">CAD-Liste als ".txt"<input type="file" id="idVin_inputCAD" accept=".txt" hidden>
+        </label><button type="button" id="idBtn_infoCAD" uiSize="size1" uiRadius="none"><img src="Data/cInfo.svg"></img></button></input><label class="cl_info" uiRadius="right" id="idLbl_loadedCAD"></label>
       </div>
     </fieldset>
     <fieldset>
-
       <legend>Filteroptionen</legend>
-      <div><textarea id="idArea_customNumbers"></textarea><label class="cl_infoArea" id="idLbl_customNumbers"></label></div>
-      <div><label class="cl_info" uiRadius="left" for="idCB_ignoreAssembly">Baugruppen ignorieren</label><label class="cl_infoCB" uiRadius="right">
+      <div>
+        <textarea id="idArea_customNumbers" uiRadius="left"></textarea><label class="cl_infoArea" id="idLbl_customNumbers" uiRadius="right"></label>
+      </div>
+      <div>
+        <label class="cl_info" uiRadius="left" for="idCB_ignoreAssembly">Baugruppen ignorieren</label><label class="cl_infoCB" uiRadius="right">
           <input class="cl_info" type="checkbox" id="idCB_ignoreAssembly"></input></label>
       </div>
-      <div><label class="cl_info" uiRadius="left" for="idCB_dashZero">"-0..." ignorieren</label><label class="cl_infoCB" uiRadius="right">
+      <div>
+        <label class="cl_info" uiRadius="left" for="idCB_dashZero">"-0..." ignorieren</label><label class="cl_infoCB" uiRadius="right">
           <input class="cl_info" type="checkbox" id="idCB_dashZero"></input></label>
       </div>
-      <div><button id="idBtn_refreshParsing">Daten erneut prüfen</button></div>
+      <div>
+        <button id="idBtn_refreshParsing">Daten erneut prüfen</button>
+      </div>
     </fieldset>
     <fieldset>
       <legend>Ergebnisse und Download</legend>
-      <div><input type="text" uiRadius="left" id="idVin_fileName"></input><label class="cl_info" uiRadius="right" id="idLbl_fileName"></label></div>
       <div><label class="cl_info" uiRadius="left">Stückzahl nicht gleich:</label><label class="cl_info" uiRadius="right" id="idLbl_errorsFound"></label></div>
       <div><label class="cl_info" uiRadius="left">MM-Nr. nicht im SOU:</label><label class="cl_info" uiRadius="right" id="idLbl_missingSOU"></label></div>
       <div><label class="cl_info" uiRadius="left">MM-Nr. nicht im CAD:</label><label class="cl_info" uiRadius="right" id="idLbl_missingCAD"></label></div>
-
-
-
-
-
+      <br>
+      <div><input type="text" uiRadius="left" id="idVin_fileName"></input><label class="cl_info" uiRadius="right" id="idLbl_fileName"></label></div>
       <div><button id="idBtn_download">Download</button>
       </div>
     </fieldset>

@@ -8,6 +8,10 @@ function mainSetup() {
 	KadUtils.dbID(idLbl_loadedCAD).textContent = "nicht geladen";
 	KadUtils.daEL(idVin_inputSOU, "change", (evt) => getFile(evt, "SOU"));
 	KadUtils.daEL(idVin_inputCAD, "change", (evt) => getFile(evt, "TEXT"));
+	KadUtils.daEL(idBtn_infoSOU, "click", openInfoSOU);
+	KadUtils.daEL(idBtn_infoCloseSOU, "click", closeInfoSOU);
+	KadUtils.daEL(idBtn_infoCAD, "click", openInfoCAD);
+	KadUtils.daEL(idBtn_infoCloseCAD, "click", closeInfoCAD);
 
 	KadUtils.KadDOM.resetInput(idArea_customNumbers, "MM-Nummern in CAD-Datei ignorieren");
 	KadUtils.dbID(idLbl_customNumbers).textContent = "...";
@@ -23,9 +27,9 @@ function mainSetup() {
 	KadUtils.dbID(idLbl_missingSOU).textContent = "...";
 	KadUtils.dbID(idLbl_missingCAD).textContent = "...";
 	KadUtils.daEL(idBtn_download, "click", startDownload);
-	KadUtils.KadDOM.resetInput(idVin_fileName, "Dateiname Eingeben");
-	KadUtils.dbID(idLbl_fileName).textContent = `Stücklistenvergleich.xlsx`;
-	KadUtils.daEL(idVin_fileName, "input", getFileName);
+	KadUtils.KadDOM.resetInput(idVin_fileName, "Dateiname eingeben");
+	KadUtils.dbID(idLbl_fileName).textContent = `*.xlsx`;
+	KadUtils.daEL(idVin_fileName, "input", setFileNameFromInput);
 	KadUtils.KadDOM.enableBtn(idBtn_download, false);
 }
 
@@ -41,7 +45,14 @@ const parsedHeader = [mmID, "SOU", "CAD", name, partFamily, foundInSOU, foundInC
 let customNumbers = null;
 let stateDashZero = false;
 let stateIgnoreAssembly = false;
-let filename = "";
+let filename = {
+	book: "",
+	input: "",
+	file: "",
+};
+
+let filenameFromInput = "";
+let filenameFromFile = "";
 let filedataSOU = null;
 let filedataCAD = null;
 let objectListSOU = {};
@@ -56,6 +67,21 @@ let filesParsed = {
 	SOU: false,
 	CAD: false,
 };
+
+function openInfoSOU() {
+	KadUtils.dbID(idDia_SOU).showModal();
+}
+
+function closeInfoSOU() {
+	KadUtils.dbID(idDia_SOU).close();
+}
+function openInfoCAD() {
+	KadUtils.dbID(idDia_CAD).showModal();
+}
+
+function closeInfoCAD() {
+	KadUtils.dbID(idDia_CAD).close();
+}
 
 function getcustomNumbers(event) {
 	let results = event.target.value;
@@ -88,19 +114,27 @@ function refreshParsing() {
 	if (filesParsed.CAD) parseFileText();
 }
 
-function getFileName(event) {
-	filename = event.target.value;
-	if (filename == "") {
-		filename = "Stücklistenvergleich";
-	}
-	KadUtils.dbID(idLbl_fileName).textContent = `${filename}.xlsx`;
+function setFileNameFromInput(event) {
+	filename.input = event.target.value;
+	handleFilename();
 }
 
-function getFile(evt, type) {
-	let selectedFile = evt.target.files[0];
+function setFileNameFromFile(name) {
+	filename.file = `${name.split(".")[0]}_Vergleich`;
+	handleFilename();
+}
+
+function handleFilename() {
+	filename.book = filename.input || filename.file;
+	KadUtils.dbID(idLbl_fileName).textContent = `${filename.book}.xlsx`;
+}
+
+function getFile(file, type) {
+	let selectedFile = file.target.files[0];
 	let fileReader = new FileReader();
 	if (type == "SOU") {
 		fileReader.onload = (event) => {
+			setFileNameFromFile(file.target.files[0].name);
 			filedataSOU = event.target.result;
 			parseFileExcel();
 		};
