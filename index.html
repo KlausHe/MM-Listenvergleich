@@ -21,7 +21,6 @@
         <li>Neue Excel-Datei öffnen</li>
         <li>Zwischenablage in Zelle A1 kopieren</li>
         <li>Mit beliebigem Namen speichern</li>
-        <br>
         <li>Der Dateiname wird für die Vergleichsdatei verwendet</li>
       </ol>
       <button type="button" id="idBtn_infoCloseSOU" autofocus>Schließen</button>
@@ -62,12 +61,16 @@
         <textarea id="idArea_customNumbers" uiRadius="left"></textarea><label class="cl_infoArea" id="idLbl_customNumbers" uiRadius="right"></label>
       </div>
       <div>
-        <label class="cl_info" uiRadius="left" for="idCB_ignoreAssembly">Baugruppen ignorieren</label><label class="cl_infoCB" uiRadius="right">
-          <input class="cl_info" type="checkbox" id="idCB_ignoreAssembly"></input></label>
+        <label class="cl_info" uiRadius="left" for="idCB_ignoreRawmaterial">Rohmaterial ignorieren</label><label class="cl_infoCB" uiRadius="none">
+          <input class="cl_info" type="checkbox" id="idCB_ignoreRawmaterial"></input></label><label class="cl_info" uiSize="size7" uiRadius="right">nur für SOU</label></label>
       </div>
       <div>
-        <label class="cl_info" uiRadius="left" for="idCB_dashZero">"-0..." ignorieren</label><label class="cl_infoCB" uiRadius="right">
-          <input class="cl_info" type="checkbox" id="idCB_dashZero"></input></label>
+        <label class="cl_info" uiRadius="left" for="idCB_ignoreAssembly">Baugruppen ignorieren</label><label class="cl_infoCB" uiRadius="none">
+          <input class="cl_info" type="checkbox" id="idCB_ignoreAssembly"></input></label><label class="cl_info" uiSize="size7" uiRadius="right">für SOU und CAD</label></label>
+      </div>
+      <div>
+        <label class="cl_info" uiRadius="left" for="idCB_dashZero">"-0..." ignorieren</label><label class="cl_infoCB" uiRadius="none">
+          <input class="cl_info" type="checkbox" id="idCB_dashZero"></input></label><label class="cl_info" uiSize="size7" uiRadius="right">nur für CAD</label></label>
       </div>
       <div>
         <button id="idBtn_refreshParsing">Daten erneut prüfen</button>

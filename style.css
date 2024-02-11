@@ -82,7 +82,7 @@
 	--transitionTimeInfo: 0.3s;
 	--transitionTimeHide: 1s;
 	--transitionTimeName: 1.3s;
-	--fontSize: 20px;
+	--fontSize: 16px;
 	--fontWeight: 300;
 	--fontSizeMedium: 1.2rem;
 	--fontSizeLarge: 1.4rem;
@@ -123,6 +123,7 @@ dialog {
 	margin: auto;
 	padding: var(--padding);
 	border: none;
+  border-radius: var(--UIRadius);
 }
 
 input,
