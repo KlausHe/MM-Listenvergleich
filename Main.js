@@ -20,7 +20,9 @@ function mainSetup() {
 	KadUtils.daEL(idCB_ignoreAssembly, "change", ignoreAssemblyFilter);
 	stateIgnoreRawmaterial = KadUtils.KadDOM.resetInput(idCB_ignoreRawmaterial, true);
 	KadUtils.daEL(idCB_ignoreRawmaterial, "change", ignoreRawmaterialFilter);
-	stateDashZero = KadUtils.KadDOM.resetInput(idCB_dashZero, false);
+	stateDashOnly = KadUtils.KadDOM.resetInput(idCB_dashOnly, false);
+	KadUtils.daEL(idCB_dashOnly, "change", dashOnlyFilter);
+	stateDashZero = KadUtils.KadDOM.resetInput(idCB_dashZero, true);
 	KadUtils.daEL(idCB_dashZero, "change", dashZeroFilter);
 
 	KadUtils.daEL(idBtn_refreshParsing, "click", refreshParsing);
@@ -36,6 +38,7 @@ function mainSetup() {
 }
 
 let customNumbers = null;
+let stateDashOnly;
 let stateDashZero;
 let stateIgnoreAssembly;
 let stateIgnoreRawmaterial;
@@ -66,6 +69,7 @@ const dataObject = {
 	difference: {},
 	compared: {},
 };
+
 const dataArray = {
 	difference: [],
 	compared: [],
@@ -80,14 +84,12 @@ const fileLoaded = {
 function openInfoSOU() {
 	KadUtils.dbID(idDia_SOU).showModal();
 }
-
 function closeInfoSOU() {
 	KadUtils.dbID(idDia_SOU).close();
 }
 function openInfoCAD() {
 	KadUtils.dbID(idDia_CAD).showModal();
 }
-
 function closeInfoCAD() {
 	KadUtils.dbID(idDia_CAD).close();
 }
@@ -111,6 +113,9 @@ function getcustomNumbers(event) {
 	KadUtils.dbID(idLbl_customNumbers).innerHTML = text;
 }
 
+function dashOnlyFilter(event) {
+	stateDashOnly = event.target.checked;
+}
 function dashZeroFilter(event) {
 	stateDashZero = event.target.checked;
 }
@@ -210,6 +215,7 @@ function parseFileText() {
 
 		text = text.replace(/^\d{6}/, ""); // remove MM-Nummer
 
+		if (cleanDashOnly(text)) continue; // ignore DashOnly
 		if (cleanDashZero(text)) continue; // ignore DashZero
 		text = text.split("[")[0].trim(); // remove trailing [xx]
 
@@ -251,6 +257,10 @@ function cleanCustomNumbers(id) {
 	if (customNumbers == null) return false;
 	let s = customNumbers.includes(Number(id));
 	return s;
+}
+function cleanDashOnly(text) {
+	if (!stateDashOnly) return false;
+	return text.trim().substring(0, 1) === "-";
 }
 function cleanDashZero(text) {
 	if (!stateDashZero) return false;
