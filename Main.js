@@ -8,6 +8,8 @@ function mainSetup() {
 	KadUtils.dbID(idLbl_loadedCAD).textContent = "nicht geladen";
 	KadUtils.daEL(idVin_inputSOU, "change", (evt) => getFile(evt, "SOU"));
 	KadUtils.daEL(idVin_inputCAD, "change", (evt) => getFile(evt, "TEXT"));
+	KadUtils.daEL(idBtn_infoFilter, "click", openInfoFilter);
+	KadUtils.daEL(idBtn_infoCloseFilter, "click", closeInfoFilter);
 	KadUtils.daEL(idBtn_infoSOU, "click", openInfoSOU);
 	KadUtils.daEL(idBtn_infoCloseSOU, "click", closeInfoSOU);
 	KadUtils.daEL(idBtn_infoCAD, "click", openInfoCAD);
@@ -20,13 +22,15 @@ function mainSetup() {
 	KadUtils.daEL(idCB_ignoreAssembly, "change", ignoreAssemblyFilter);
 	stateIgnoreRawmaterial = KadUtils.KadDOM.resetInput(idCB_ignoreRawmaterial, true);
 	KadUtils.daEL(idCB_ignoreRawmaterial, "change", ignoreRawmaterialFilter);
-	stateDashOnly = KadUtils.KadDOM.resetInput(idCB_dashOnly, false);
-	KadUtils.daEL(idCB_dashOnly, "change", dashOnlyFilter);
 	stateDashZero = KadUtils.KadDOM.resetInput(idCB_dashZero, true);
 	KadUtils.daEL(idCB_dashZero, "change", dashZeroFilter);
+	stateDashOnly = KadUtils.KadDOM.resetInput(idCB_dashOnly, false);
+	KadUtils.daEL(idCB_dashOnly, "change", dashOnlyFilter);
 
 	KadUtils.daEL(idBtn_refreshParsing, "click", refreshParsing);
 
+	KadUtils.dbID(idLbl_filteredSOU).textContent = "...";
+	KadUtils.dbID(idLbl_filteredCAD).textContent = "...";
 	KadUtils.dbID(idLbl_errorsFound).textContent = "...";
 	KadUtils.dbID(idLbl_missingSOU).textContent = "...";
 	KadUtils.dbID(idLbl_missingCAD).textContent = "...";
@@ -38,8 +42,8 @@ function mainSetup() {
 }
 
 let customNumbers = null;
-let stateDashOnly;
 let stateDashZero;
+let stateDashOnly;
 let stateIgnoreAssembly;
 let stateIgnoreRawmaterial;
 let nameAssembly = "Baugruppe";
@@ -49,9 +53,10 @@ const mmID = "ArtikelNr";
 const count = "Menge";
 const name = "Bezeichnung";
 const partFamily = "ArtikelTeileFamilie";
-const foundInSOU = "inSOU";
-const foundInCAD = "inCAD";
+const foundInSOU = "im SOU";
+const foundInCAD = "im CAD";
 const parsedHeader = [mmID, "SOU", "CAD", name, partFamily, foundInSOU, foundInCAD];
+const allLoadedHeader = [mmID, count, name, partFamily];
 
 const filename = {
 	book: "",
@@ -68,6 +73,8 @@ const dataObject = {
 	CAD: {},
 	difference: {},
 	compared: {},
+	allSOU: {},
+	allCAD: {},
 };
 
 const dataArray = {
@@ -75,12 +82,20 @@ const dataArray = {
 	compared: [],
 	notInSOU: [],
 	notInCAD: [],
+	allSOU: [],
+	allCAD: [],
 };
 const fileLoaded = {
 	SOU: false,
 	CAD: false,
 };
 
+function openInfoFilter() {
+	KadUtils.dbID(idDia_Filter).showModal();
+}
+function closeInfoFilter() {
+	KadUtils.dbID(idDia_Filter).close();
+}
 function openInfoSOU() {
 	KadUtils.dbID(idDia_SOU).showModal();
 }
@@ -113,11 +128,11 @@ function getcustomNumbers(event) {
 	KadUtils.dbID(idLbl_customNumbers).innerHTML = text;
 }
 
-function dashOnlyFilter(event) {
-	stateDashOnly = event.target.checked;
-}
 function dashZeroFilter(event) {
 	stateDashZero = event.target.checked;
+}
+function dashOnlyFilter(event) {
+	stateDashOnly = event.target.checked;
 }
 function ignoreAssemblyFilter(event) {
 	stateIgnoreAssembly = event.target.checked;
@@ -152,7 +167,11 @@ function getFile(file, type) {
 	if (type == "SOU") {
 		fileReader.onload = (event) => {
 			setFileNameFromFile(file.target.files[0].name);
-			fileData.SOU = event.target.result;
+			const data = event.target.result;
+			let workbook = read(data, { type: "binary" });
+			workbook.SheetNames.forEach((sheet) => {
+				fileData.SOU = utils.sheet_to_row_object_array(workbook.Sheets[sheet]);
+			});
 			fileLoaded.SOU = true;
 			parseFileExcel();
 		};
@@ -169,33 +188,69 @@ function getFile(file, type) {
 }
 
 function parseFileExcel() {
-	let workbook = read(fileData.SOU, { type: "binary" });
-	workbook.SheetNames.forEach((sheet) => {
-		dataObject.SOU = {};
-		let dataArray = utils.sheet_to_row_object_array(workbook.Sheets[sheet]);
+	dataObject.SOU = {};
+	dataObject.allSOU = {};
 
-		if (stateIgnoreAssembly) {
-			dataArray = dataArray.filter((obj) => obj[partFamily] != nameAssembly);
+	for (let obj of fileData.SOU) {
+		if (obj[mmID]) {
+			let id = Number(obj[mmID]); // get MM-Nummer
+			dataObject.allSOU[id] = {
+				[mmID]: obj[mmID],
+				[count]: obj[count],
+				[name]: obj[name],
+				[partFamily]: obj[partFamily] ? obj[partFamily] : "---",
+			};
 		}
-		if (stateIgnoreRawmaterial) {
-			dataArray = dataArray.filter((obj) => obj[partFamily] != nameRawmaterial);
-		}
-		for (let obj of dataArray) {
-			if (obj[mmID]) {
-				let id = obj[mmID].toString().padStart(6, "0");
-				if (dataObject.SOU[id] === undefined) {
-					dataObject.SOU[id] = obj; // dataObject.SOU[id][mmID] = id; // format as String with leading 0
-				} else {
-					dataObject.SOU[id][count] += obj[count];
-				}
+	}
+	if (stateIgnoreAssembly) {
+		fileData.SOU = fileData.SOU.filter((obj) => obj[partFamily] != nameAssembly);
+	}
+	if (stateIgnoreRawmaterial) {
+		fileData.SOU = fileData.SOU.filter((obj) => obj[partFamily] != nameRawmaterial);
+	}
+
+	for (let obj of fileData.SOU) {
+		if (obj[mmID]) {
+			let id = Number(obj[mmID]); // get MM-Nummer
+			if (dataObject.SOU[id] === undefined) {
+				dataObject.SOU[id] = obj;
+			} else {
+				dataObject.SOU[id][count] += obj[count];
 			}
 		}
-		fileIsParsed("SOU");
-	});
+	}
+
+	fileIsParsed("SOU");
 }
 
 function parseFileText() {
 	dataObject.CAD = {};
+	dataObject.allCAD = {};
+
+	// no filter
+	for (let row of fileData.CAD) {
+		if (row.trim() == "") continue;
+		let text = row.trim();
+		if (text.trim().substring(0, 3) === "|--") text = text.trimStart().slice(3); // remove "|--"
+		let id = Number(text.slice(0, 6)); // get MM-Nummer
+		if (Number.isNaN(id)) continue; // ignore MM-Nummer is NaN
+
+		text = text.replace(/^\d{6}_/, ""); // remove MM-Nummer and _
+		text = text.split("[")[0].trim(); // remove trailing [xx]
+
+		if (dataObject.allCAD[id] === undefined) {
+			dataObject.allCAD[id] = {
+				[mmID]: id,
+				[count]: 1,
+				[name]: text,
+				[partFamily]: "aus CAD",
+			};
+		} else {
+			dataObject.allCAD[id][count]++;
+		}
+	}
+
+	// filter
 	for (let row of fileData.CAD) {
 		if (row.trim() == "") continue;
 		let text = row.trim();
@@ -205,27 +260,24 @@ function parseFileText() {
 		if (text.search(/\D/) != 6) continue; // ignore rows with non starting 6 digit number
 
 		let id = Number(text.slice(0, 6)); // get MM-Nummer
-		if (Number.isNaN(id)) {
-			continue; // ignore MM-Nummer is NaN
-		} else {
-			id = id.toString().padStart(6, "0");
-		}
+		if (Number.isNaN(id)) continue; // ignore MM-Nummer is NaN
+
 		if (cleanBaugruppe(id)) continue; // ignore Baugruppe
 		if (cleanCustomNumbers(id)) continue; // ignore customNumbers
 
-		text = text.replace(/^\d{6}/, ""); // remove MM-Nummer
+		text = text.replace(/^\d{6}_/, ""); // remove MM-Nummer
 
 		if (cleanDashOnly(text)) continue; // ignore DashOnly
 		if (cleanDashZero(text)) continue; // ignore DashZero
 		text = text.split("[")[0].trim(); // remove trailing [xx]
 
-		const obj = {
-			[mmID]: id,
-			[count]: 1,
-			[name]: text,
-		};
 		if (dataObject.CAD[id] === undefined) {
-			dataObject.CAD[id] = obj;
+			dataObject.CAD[id] = {
+				[mmID]: id,
+				[count]: 1,
+				[name]: text,
+				[partFamily]: "aus CAD",
+			};
 		} else {
 			dataObject.CAD[id][count]++;
 		}
@@ -234,9 +286,12 @@ function parseFileText() {
 }
 
 function fileIsParsed(type) {
-	const count = type == "SOU" ? KadUtils.objectLength(dataObject.SOU) : KadUtils.objectLength(dataObject.CAD);
+	const count = type == "SOU" ? KadUtils.objectLength(dataObject.allSOU) : KadUtils.objectLength(dataObject.allCAD);
 	KadUtils.dbID(`idLbl_loaded${type}`).textContent = `${count} Teile geladen`;
 	KadUtils.dbIDStyle(`idLbl_input${type}`).backgroundColor = "limegreen";
+
+	dataArray[`all${type}`] = objectToArray(dataObject[`all${type}`], allLoadedHeader);
+	KadUtils.dbID(`idLbl_filtered${type}`).textContent = `${KadUtils.objectLength(dataObject[type])} / ${KadUtils.objectLength(dataObject[`all${type}`])}`;
 
 	if (fileLoaded.SOU && fileLoaded.CAD) {
 		startCompare();
@@ -270,12 +325,8 @@ function cleanDashZero(text) {
 // -----------------------------
 function startCompare() {
 	dataObject.compared = {};
-	dataArray.difference = [];
-	dataArray.compared = [];
-	let objectNotInCAD = {};
 	let objectNotInSOU = {};
-	dataArray.notInCAD = [];
-	dataArray.notInSOU = [];
+	let objectNotInCAD = {};
 
 	for (let [souKey, souValue] of Object.entries(dataObject.SOU)) {
 		const cadCount = dataObject.CAD[souKey] == null ? 0 : dataObject.CAD[souKey][count];
@@ -298,7 +349,7 @@ function startCompare() {
 				SOU: 0,
 				CAD: cadValue[count],
 				[name]: cadValue[name],
-				[partFamily]: "aus CAD",
+				[partFamily]: cadValue[partFamily],
 				[foundInSOU]: false,
 				[foundInCAD]: true,
 			};
@@ -308,15 +359,17 @@ function startCompare() {
 
 	dataObject.difference = Object.values(dataObject.compared).filter((obj) => obj.SOU != obj.CAD);
 
-	dataArray.difference = objectToArray(dataObject.difference);
-	dataArray.compared = objectToArray(dataObject.compared);
-	dataArray.notInSOU = objectToArray(objectNotInSOU);
-	dataArray.notInCAD = objectToArray(objectNotInCAD);
+	dataArray.difference = objectToArray(dataObject.difference, parsedHeader);
+	dataArray.compared = objectToArray(dataObject.compared, parsedHeader);
+	dataArray.notInSOU = objectToArray(objectNotInSOU, parsedHeader);
+	dataArray.notInCAD = objectToArray(objectNotInCAD, parsedHeader);
 
 	dataArray.difference.sort((a, b) => a[0] - b[0]);
 	dataArray.compared.sort((a, b) => a[0] - b[0]);
 	dataArray.notInSOU.sort((a, b) => a[0] - b[0]);
 	dataArray.notInCAD.sort((a, b) => a[0] - b[0]);
+	dataArray.allSOU.sort((a, b) => a[0] - b[0]);
+	dataArray.allCAD.sort((a, b) => a[0] - b[0]);
 
 	KadUtils.dbID(idLbl_errorsFound).textContent = dataArray.difference.length;
 	KadUtils.dbID(idLbl_missingSOU).textContent = dataArray.notInSOU.length;
@@ -325,7 +378,7 @@ function startCompare() {
 	KadUtils.KadDOM.enableBtn(idBtn_download, true);
 }
 
-function objectToArray(obj) {
+function objectToArray(obj, parsedHeader) {
 	let arr = [];
 	for (let [index, listItem] of Object.values(obj).entries()) {
 		arr[index] = [];
@@ -343,16 +396,22 @@ function startDownload() {
 	dataArray.compared.unshift(parsedHeader);
 	dataArray.notInSOU.unshift(parsedHeader);
 	dataArray.notInCAD.unshift(parsedHeader);
+	dataArray.allSOU.unshift(allLoadedHeader);
+	dataArray.allCAD.unshift(allLoadedHeader);
 
 	const book = utils.book_new();
 	let sheetDiff = utils.aoa_to_sheet(dataArray.difference);
-	let sheetComp = utils.aoa_to_sheet(dataArray.compared);
 	let sheetSOU = utils.aoa_to_sheet(dataArray.notInSOU);
 	let sheetCAD = utils.aoa_to_sheet(dataArray.notInCAD);
+	let sheetComp = utils.aoa_to_sheet(dataArray.compared);
+	let sheetAllSOU = utils.aoa_to_sheet(dataArray.allSOU);
+	let sheetAllCAD = utils.aoa_to_sheet(dataArray.allCAD);
 	utils.book_append_sheet(book, sheetDiff, "Differenz");
-	utils.book_append_sheet(book, sheetComp, "Alles");
 	utils.book_append_sheet(book, sheetSOU, "Nicht im SOU");
 	utils.book_append_sheet(book, sheetCAD, "Nicht im CAD");
-	let name = filename || "Stücklistenvergleich";
+	utils.book_append_sheet(book, sheetComp, "Alles");
+	utils.book_append_sheet(book, sheetAllSOU, "geladen aus SOU");
+	utils.book_append_sheet(book, sheetAllCAD, "geladen aus CAD");
+	let name = filename.book || "Stücklistenvergleich";
 	writeFile(book, `${name}.xlsx`);
 }

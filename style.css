@@ -123,7 +123,7 @@ dialog {
 	margin: auto;
 	padding: var(--padding);
 	border: none;
-  border-radius: var(--UIRadius);
+	border-radius: var(--UIRadius);
 }
 
 input,
@@ -153,8 +153,12 @@ select:hover {
 	transition-delay: 0s;
 }
 
-ol {
+ol,
+ul {
 	list-style-position: inside;
+}
+li {
+	margin: var(--gridGap);
 }
 
 div {

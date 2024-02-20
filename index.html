@@ -42,6 +42,17 @@
       <button type="button" id="idBtn_infoCloseCAD" autofocus>Schließen</button>
     </fieldset>
   </dialog>
+  <dialog id="idDia_Filter">
+    <fieldset>
+      <legend>Infos zu Filtern</legend>
+      <ul>
+        <li>"Baugruppen ignorieren" filtert im SOU nur nach Teilefamilie, nicht nach MM-Nummer</li>
+        <li>"-0..." ignoriert alle Teile, die direkt nach der MM-Nummer ein "-0" besitzen: 264610-01_Controller</li>
+        <li>"-..." ignoriert alle Teile, die direkt nach der MM-Nummer ein "-" besitzen: 021492-2033_Aluprofil</li>
+      </ul>
+      <button type="button" id="idBtn_infoCloseFilter" autofocus>Schließen</button>
+    </fieldset>
+  </dialog>
   <main>
     <div>
       <h1>MM-Listenvergleich</h1>
@@ -56,7 +67,7 @@
       </div>
     </fieldset>
     <fieldset>
-      <legend>Filteroptionen</legend>
+      <legend><button type="button" id="idBtn_infoFilter" uiSize="size1"><img src="Data/cInfo.svg"></img></button> Filteroptionen</legend>
       <div>
         <textarea id="idArea_customNumbers" uiRadius="left"></textarea><label class="cl_infoArea" id="idLbl_customNumbers" uiRadius="right"></label>
       </div>
@@ -69,12 +80,12 @@
           <input class="cl_info" type="checkbox" id="idCB_ignoreAssembly"></input></label><label class="cl_info" uiSize="size7" uiRadius="right">für SOU und CAD</label></label>
       </div>
       <div>
-        <label class="cl_info" uiRadius="left" for="idCB_dashOnly">"-..." ignorieren</label><label class="cl_infoCB" uiRadius="none">
-          <input class="cl_info" type="checkbox" id="idCB_dashOnly"></input></label><label class="cl_info" uiSize="size7" uiRadius="right">nur für CAD</label></label>
-      </div>
-      <div>
         <label class="cl_info" uiRadius="left" for="idCB_dashZero">"-0..." ignorieren</label><label class="cl_infoCB" uiRadius="none">
           <input class="cl_info" type="checkbox" id="idCB_dashZero"></input></label><label class="cl_info" uiSize="size7" uiRadius="right">nur für CAD</label></label>
+      </div>
+      <div>
+        <label class="cl_info" uiRadius="left" for="idCB_dashOnly">"-..." ignorieren</label><label class="cl_infoCB" uiRadius="none">
+          <input class="cl_info" type="checkbox" id="idCB_dashOnly"></input></label><label class="cl_info" uiSize="size7" uiRadius="right">nur für CAD</label></label>
       </div>
       <div>
         <button id="idBtn_refreshParsing">Daten erneut prüfen</button>
@@ -82,6 +93,8 @@
     </fieldset>
     <fieldset>
       <legend>Ergebnisse und Download</legend>
+      <div><label class="cl_info" uiRadius="left">nach Filter (SOU):</label><label class="cl_info" uiRadius="right" id="idLbl_filteredSOU"></label></div>
+      <div><label class="cl_info" uiRadius="left">nach Filter (CAD):</label><label class="cl_info" uiRadius="right" id="idLbl_filteredCAD"></label></div>
       <div><label class="cl_info" uiRadius="left">Stückzahl nicht gleich:</label><label class="cl_info" uiRadius="right" id="idLbl_errorsFound"></label></div>
       <div><label class="cl_info" uiRadius="left">MM-Nr. nicht im SOU:</label><label class="cl_info" uiRadius="right" id="idLbl_missingSOU"></label></div>
       <div><label class="cl_info" uiRadius="left">MM-Nr. nicht im CAD:</label><label class="cl_info" uiRadius="right" id="idLbl_missingCAD"></label></div>
