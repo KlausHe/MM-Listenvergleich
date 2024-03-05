@@ -167,11 +167,11 @@ div {
 }
 
 label {
+	background-color: hsl(var(--bgcButton));
 	vertical-align: middle;
 }
 
 label[for] {
-	background-color: hsl(var(--bgcButton));
 	cursor: pointer;
 }
 
@@ -262,21 +262,6 @@ button:active {
 	color: hsl(var(--txtNavbar));
 	transition-duration: 0s;
 	transition-delay: 0s;
-}
-
-[data-btnstatus="btnPositive"] {
-	background-color: hsl(var(--bgcButtonPositive));
-	color: hsl(var(--txtButtonPositive));
-}
-
-[data-btnstatus="btnNegative"] {
-	background-color: hsl(var(--bgcButtonNegative));
-	color: hsl(var(--txtButtonNegative));
-}
-
-[data-btnstatus="btnBasecolor"] {
-	background-color: hsl(var(--bgcNavbar));
-	color: hsl(var(--txtNavbar));
 }
 
 input {
@@ -383,6 +368,21 @@ input[type="image"] {
 .cl_outputText {
 	padding: var(--padding);
 	border-top: var(--borderThin);
+}
+
+[data-btnstatus="btnPositive"] {
+	background-color: hsl(var(--bgcButtonPositive));
+	color: hsl(var(--txtButtonPositive));
+}
+
+[data-btnstatus="btnNegative"] {
+	background-color: hsl(var(--bgcButtonNegative));
+	color: hsl(var(--txtButtonNegative));
+}
+
+[data-btnstatus="btnBasecolor"] {
+	background-color: hsl(var(--bgcNavbar));
+	color: hsl(var(--txtNavbar));
 }
 
 [uiType~="transparent"] {

@@ -10,6 +10,8 @@ function mainSetup() {
 	KadUtils.daEL(idVin_inputCAD, "change", (evt) => getFile(evt, "TEXT"));
 	KadUtils.daEL(idBtn_infoFilter, "click", openInfoFilter);
 	KadUtils.daEL(idBtn_infoCloseFilter, "click", closeInfoFilter);
+	KadUtils.daEL(idBtn_infoTokenfilter, "click", openInfoTokenfilter);
+	KadUtils.daEL(idBtn_infoCloseTokenfilter, "click", closeInfoTokenfilter);
 	KadUtils.daEL(idBtn_infoSOU, "click", openInfoSOU);
 	KadUtils.daEL(idBtn_infoCloseSOU, "click", closeInfoSOU);
 	KadUtils.daEL(idBtn_infoCAD, "click", openInfoCAD);
@@ -27,7 +29,10 @@ function mainSetup() {
 	stateDashOnly = KadUtils.KadDOM.resetInput(idCB_dashOnly, false);
 	KadUtils.daEL(idCB_dashOnly, "change", dashOnlyFilter);
 
-	KadUtils.daEL(idBtn_refreshParsing, "click", refreshParsing);
+	populateTokenList();
+	KadUtils.KadDOM.resetInput(idArea_tokenfilter, "zusätzliche Schlagwörter");
+	KadUtils.dbID(idLbl_tokenfilter).textContent = "...";
+	KadUtils.daEL(idArea_tokenfilter, "input", getcustomToken);
 
 	KadUtils.dbID(idLbl_filteredSOU).textContent = "...";
 	KadUtils.dbID(idLbl_filteredCAD).textContent = "...";
@@ -55,8 +60,6 @@ const name = "Bezeichnung";
 const partFamily = "ArtikelTeileFamilie";
 const foundInSOU = "im SOU";
 const foundInCAD = "im CAD";
-const parsedHeader = [mmID, "SOU", "CAD", name, partFamily, foundInSOU, foundInCAD];
-const allLoadedHeader = [mmID, count, name, partFamily];
 
 const filename = {
 	book: "",
@@ -77,6 +80,7 @@ const dataObject = {
 	notInCAD: {},
 	allSOU: {},
 	allCAD: {},
+	tokenlist: {},
 };
 
 const fileLoaded = {
@@ -90,6 +94,12 @@ function openInfoFilter() {
 function closeInfoFilter() {
 	KadUtils.dbID(idDia_Filter).close();
 }
+function openInfoTokenfilter() {
+	KadUtils.dbID(idDia_Tokenfilter).showModal();
+}
+function closeInfoTokenfilter() {
+	KadUtils.dbID(idDia_Tokenfilter).close();
+}
 function openInfoSOU() {
 	KadUtils.dbID(idDia_SOU).showModal();
 }
@@ -102,7 +112,29 @@ function openInfoCAD() {
 function closeInfoCAD() {
 	KadUtils.dbID(idDia_CAD).close();
 }
+function populateTokenList() {
+	let ulParent = KadUtils.dbID(idUL_tokenfilterList);
+	for (let token of Tokenlist[0]) {
+		const li = document.createElement("li");
+		li.append(token);
+		ulParent.append(li);
+	}
+}
 
+function getcustomToken(event) {
+	let results = event.target.value;
+	Tokenlist[1] = results.match(/[A-z]+/g);
+	if (Tokenlist[1] == null) {
+		KadUtils.dbID(idLbl_tokenfilter).textContent = "...";
+		Tokenlist[1] = [];
+		return;
+	}
+
+	let text = `Token erkannt:<br>`;
+	text += Tokenlist[1].join("<br>");
+
+	KadUtils.dbID(idLbl_tokenfilter).innerHTML = text;
+}
 function getcustomNumbers(event) {
 	let results = event.target.value;
 	customNumbers = results.match(/\d{6}/g);
@@ -120,19 +152,24 @@ function getcustomNumbers(event) {
 		text += ` ${t} `;
 	}
 	KadUtils.dbID(idLbl_customNumbers).innerHTML = text;
+	refreshParsing();
 }
 
 function dashZeroFilter(event) {
 	stateDashZero = event.target.checked;
+	refreshParsing();
 }
 function dashOnlyFilter(event) {
 	stateDashOnly = event.target.checked;
+	refreshParsing();
 }
 function ignoreAssemblyFilter(event) {
 	stateIgnoreAssembly = event.target.checked;
+	refreshParsing();
 }
 function ignoreRawmaterialFilter(event) {
 	stateIgnoreRawmaterial = event.target.checked;
+	refreshParsing();
 }
 
 function refreshParsing() {
@@ -216,6 +253,7 @@ function parseFileExcel() {
 		}
 	}
 	fileIsParsed("SOU");
+	createTokenlist();
 }
 
 function parseFileText() {
@@ -230,7 +268,7 @@ function parseFileText() {
 		let id = Number(text.slice(0, 6)); // get MM-Nummer
 		if (Number.isNaN(id)) continue; // ignore MM-Nummer is NaN
 
-		text = text.replace(/^\d{6}_/, ""); // remove MM-Nummer and _
+		text = text.replace(/^\d{6}_?/, ""); // remove MM-Nummer and _
 		text = text.split("[")[0].trim(); // remove trailing [xx]
 
 		if (dataObject.allCAD[id] === undefined) {
@@ -256,11 +294,10 @@ function parseFileText() {
 
 		let id = Number(text.slice(0, 6)); // get MM-Nummer
 		if (Number.isNaN(id)) continue; // ignore MM-Nummer is NaN
-
 		if (cleanBaugruppe(id)) continue; // ignore Baugruppe
 		if (cleanCustomNumbers(id)) continue; // ignore customNumbers
 
-		text = text.replace(/^\d{6}_/, ""); // remove MM-Nummer
+		text = text.replace(/^\d{6}_?/, ""); // remove MM-Nummer
 
 		if (cleanDashOnly(text)) continue; // ignore DashOnly
 		if (cleanDashZero(text)) continue; // ignore DashZero
@@ -283,7 +320,10 @@ function parseFileText() {
 function fileIsParsed(type) {
 	const count = type == "SOU" ? KadUtils.objectLength(dataObject.allSOU) : KadUtils.objectLength(dataObject.allCAD);
 	KadUtils.dbID(`idLbl_loaded${type}`).textContent = `${count} Teile geladen`;
-	KadUtils.dbIDStyle(`idLbl_input${type}`).backgroundColor = "limegreen";
+	KadUtils.KadDOM.btnColor(`idLbl_input${type}`, "positive");
+	setTimeout(() => {
+		KadUtils.KadDOM.btnColor(`idLbl_input${type}`, null);
+	}, 3000);
 
 	KadUtils.dbID(`idLbl_filtered${type}`).textContent = `${KadUtils.objectLength(dataObject[type])} / ${KadUtils.objectLength(dataObject[`all${type}`])}`;
 
@@ -309,11 +349,11 @@ function cleanCustomNumbers(id) {
 }
 function cleanDashOnly(text) {
 	if (!stateDashOnly) return false;
-	return text.trim().substring(0, 1) === "-";
+	return `${text}`.trim().substring(0, 1) === "-"; // make a copy of the string
 }
 function cleanDashZero(text) {
 	if (!stateDashZero) return false;
-	return text.trim().substring(0, 2) === "-0";
+	return `${text}`.trim().substring(0, 2) === "-0"; // make a copy of the string
 }
 
 // -----------------------------
@@ -321,6 +361,7 @@ function startCompare() {
 	dataObject.compared = {};
 	dataObject.notInSOU = {};
 	dataObject.notInCAD = {};
+	dataObject.tokenlist = {};
 
 	for (let [souKey, souValue] of Object.entries(dataObject.SOU)) {
 		const cadCount = dataObject.CAD[souKey] == null ? 0 : dataObject.CAD[souKey][count];
@@ -362,6 +403,7 @@ function startCompare() {
 
 function startDownload() {
 	refreshParsing();
+	createTokenlist();
 
 	const book = utils.book_new();
 
@@ -371,6 +413,7 @@ function startDownload() {
 	const sheetComp = utils.json_to_sheet(Object.values(dataObject.compared));
 	const sheetAllSOU = utils.json_to_sheet(Object.values(dataObject.allSOU));
 	const sheetAllCAD = utils.json_to_sheet(Object.values(dataObject.allCAD));
+	const sheetTokenlist = utils.json_to_sheet(Object.values(dataObject.tokenlist));
 
 	utils.book_append_sheet(book, sheetDiff, "Differenz");
 	utils.book_append_sheet(book, sheetSOU, "Nicht im SOU");
@@ -378,7 +421,25 @@ function startDownload() {
 	utils.book_append_sheet(book, sheetComp, "Alles");
 	utils.book_append_sheet(book, sheetAllSOU, "geladen aus SOU");
 	utils.book_append_sheet(book, sheetAllCAD, "geladen aus CAD");
+	utils.book_append_sheet(book, sheetTokenlist, "Schlagwortfilter");
 
 	const name = filename.book || "Stücklistenvergleich";
 	writeFile(book, `${name}.xlsx`);
+}
+
+const Tokenlist = [["bearb", "bearbeitet", "Trennsteg"], []];
+
+function createTokenlist() {
+	for (let [souKey, souValue] of Object.entries(dataObject.SOU)) {
+		for (let token of [...Tokenlist[0], ...Tokenlist[1]]) {
+			if (souValue[name].toLowerCase().includes(token.toLowerCase())) {
+				dataObject.tokenlist[souKey] = {
+					[mmID]: souValue[mmID],
+					SOU: souValue[count],
+					[name]: souValue[name],
+					[partFamily]: souValue[partFamily] ? souValue[partFamily] : "---",
+				};
+			}
+		}
+	}
 }

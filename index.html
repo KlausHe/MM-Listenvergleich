@@ -53,6 +53,14 @@
       <button type="button" id="idBtn_infoCloseFilter" autofocus>Schließen</button>
     </fieldset>
   </dialog>
+  <dialog id="idDia_Tokenfilter">
+    <fieldset>
+      <legend>Infos zum Schlagwortfilter</legend>
+      <div>Bauteile mit den folgenden Schlagworten (Token) werden auf einem separaten Tabellenblatt aufgelistet. Groß/Kleinschreibung wird ignoriert.</div>
+      <ul id="idUL_tokenfilterList"></ul>
+      <button type="button" id="idBtn_infoCloseTokenfilter" autofocus>Schließen</button>
+    </fieldset>
+  </dialog>
   <main>
     <div>
       <h1>MM-Listenvergleich</h1>
@@ -72,36 +80,38 @@
         <textarea id="idArea_customNumbers" uiRadius="left"></textarea><label class="cl_infoArea" id="idLbl_customNumbers" uiRadius="right"></label>
       </div>
       <div>
-        <label class="cl_info" uiRadius="left" for="idCB_ignoreRawmaterial">Rohmaterial ignorieren</label><label class="cl_infoCB" uiRadius="none">
-          <input class="cl_info" type="checkbox" id="idCB_ignoreRawmaterial"></input></label><label class="cl_info" uiSize="size7" uiRadius="right">nur für SOU</label></label>
+        <label class="cl_infoBTN" uiRadius="left" for="idCB_ignoreRawmaterial">Rohmaterial ignorieren</label><label class="cl_infoCB" uiRadius="none">
+          <input class="cl_info" type="checkbox" id="idCB_ignoreRawmaterial"></input></label><label class="cl_info" uiSize="size7" uiRadius="right">nur SOU</label>
       </div>
       <div>
-        <label class="cl_info" uiRadius="left" for="idCB_ignoreAssembly">Baugruppen ignorieren</label><label class="cl_infoCB" uiRadius="none">
-          <input class="cl_info" type="checkbox" id="idCB_ignoreAssembly"></input></label><label class="cl_info" uiSize="size7" uiRadius="right">für SOU und CAD</label></label>
+        <label class="cl_infoBTN" uiRadius="left" for="idCB_ignoreAssembly">Baugruppen ignorieren</label><label class="cl_infoCB" uiRadius="none">
+          <input class="cl_info" type="checkbox" id="idCB_ignoreAssembly"></input></label><label class="cl_info" uiSize="size7" uiRadius="right">für SOU und CAD</label>
       </div>
       <div>
-        <label class="cl_info" uiRadius="left" for="idCB_dashZero">"-0..." ignorieren</label><label class="cl_infoCB" uiRadius="none">
-          <input class="cl_info" type="checkbox" id="idCB_dashZero"></input></label><label class="cl_info" uiSize="size7" uiRadius="right">nur für CAD</label></label>
+        <label class="cl_infoBTN" uiRadius="left" for="idCB_dashZero">"-0..." ignorieren</label><label class="cl_infoCB" uiRadius="none">
+          <input class="cl_info" type="checkbox" id="idCB_dashZero"></input></label><label class="cl_info" uiSize="size7" uiRadius="right">nur CAD</label>
       </div>
       <div>
-        <label class="cl_info" uiRadius="left" for="idCB_dashOnly">"-..." ignorieren</label><label class="cl_infoCB" uiRadius="none">
-          <input class="cl_info" type="checkbox" id="idCB_dashOnly"></input></label><label class="cl_info" uiSize="size7" uiRadius="right">nur für CAD</label></label>
+        <label class="cl_infoBTN" uiRadius="left" for="idCB_dashOnly">"-..." ignorieren</label><label class="cl_infoCB" uiRadius="none">
+          <input class="cl_info" type="checkbox" id="idCB_dashOnly"></input></label><label class="cl_info" uiSize="size7" uiRadius="right">nur CAD</label>
       </div>
+    </fieldset>
+    <fieldset>
+      <legend><button type="button" id="idBtn_infoTokenfilter" uiSize="size1"><img src="Data/cInfo.svg"></img></button> Schlagwortfilter</legend>
       <div>
-        <button id="idBtn_refreshParsing">Daten erneut prüfen</button>
+        <textarea id="idArea_tokenfilter" uiRadius="left"></textarea><label class="cl_infoArea" id="idLbl_tokenfilter" uiRadius="right"></label>
       </div>
     </fieldset>
     <fieldset>
       <legend>Ergebnisse und Download</legend>
-      <div><label class="cl_info" uiRadius="left">nach Filter (SOU):</label><label class="cl_info" uiRadius="right" id="idLbl_filteredSOU"></label></div>
-      <div><label class="cl_info" uiRadius="left">nach Filter (CAD):</label><label class="cl_info" uiRadius="right" id="idLbl_filteredCAD"></label></div>
-      <div><label class="cl_info" uiRadius="left">Stückzahl nicht gleich:</label><label class="cl_info" uiRadius="right" id="idLbl_errorsFound"></label></div>
-      <div><label class="cl_info" uiRadius="left">MM-Nr. nicht im SOU:</label><label class="cl_info" uiRadius="right" id="idLbl_missingSOU"></label></div>
-      <div><label class="cl_info" uiRadius="left">MM-Nr. nicht im CAD:</label><label class="cl_info" uiRadius="right" id="idLbl_missingCAD"></label></div>
-      <br>
-      <div><input type="text" uiRadius="left" id="idVin_fileName"></input><label class="cl_info" uiRadius="right" id="idLbl_fileName"></label></div>
-      <div><button id="idBtn_download">Download</button>
-      </div>
+      <div><label class="cl_info" uiSize="size12" uiRadius="left">MM-Nummern nach Filter (SOU):</label><label class="cl_info" uiSize="size4" uiRadius="right" id="idLbl_filteredSOU"></label></div>
+      <div><label class="cl_info" uiSize="size12" uiRadius="left">MM-Nummern nach Filter (CAD):</label><label class="cl_info" uiSize="size4" uiRadius="right" id="idLbl_filteredCAD"></label></div>
+      <div><label class="cl_info" uiSize="size12" uiRadius="left">Stückzahl nicht gleich:</label><label class="cl_info" uiSize="size4" uiRadius="right" id="idLbl_errorsFound"></label></div>
+      <div><label class="cl_info" uiSize="size12" uiRadius="left">MM-Nummern nicht im SOU:</label><label class="cl_info" uiSize="size4" uiRadius="right" id="idLbl_missingSOU"></label></div>
+      <div><label class="cl_info" uiSize="size12" uiRadius="left">MM-Nummern nicht im CAD:</label><label class="cl_info" uiSize="size4" uiRadius="right" id="idLbl_missingCAD"></label></div>
+      </br>
+      <div><input type="text" uiRadius="left" id="idVin_fileName"></input><button uiRadius="right" id="idBtn_download">Download</button></div>
+      <div><label class="cl_info" uiSize="size16" id="idLbl_fileName"></label></div>
     </fieldset>
   </main>
 </body>
