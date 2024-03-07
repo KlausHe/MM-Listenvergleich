@@ -1,0 +1,2785 @@
+﻿286080_Auslauf_komplett [00] Aktuell
+|--286080-001_Pos2 [00] Aktuell
+|--114161-600_Kabelrinnendeckel_RDVSRS_100 [00] Aktuell
+|--150899-600_Kabelrinne_100x100_RSSKP100.100 [00] Aktuell
+|--286090_Sensor_komplett_Auslauf [00] Aktuell
+   |--073019_Mid-Range-Distanzsensor_DT50-P2123.1 [00] Aktuell
+   |--137885_Kunststoff-Gleiter-Quadratisch-100x100 [00] Aktuell
+   |--152914_Schweissteil_Aufnahme_Sensor_Auslauf [00] Aktuell
+      |--152914 [] 
+      |--127571_Bodenplatte [00] Aktuell
+      |--152915_Aufnahme_Sensor_Auslauf [00] Aktuell
+|--286110_E-Kette [00] Aktuell
+   |--121907_Bodenplatte_E-Kette [00] Aktuell
+   |--121908_Halter_E-Kette.1 [00] Aktuell
+   |--121909-265-01_E-Kette-R4_28_075_125_0_12_972M [00] Aktuell
+      |--121909-01_Aussenglied-R4_28_075_125_0 [00] Aktuell
+      |--121909-02_Innenglied-R4_28_075_125_0 [00] Aktuell
+      |--121909-265-01-01_Kette [00] Aktuell
+      |--121914-01_Anschlusselement-Festpunkt [00] Aktuell
+      |--121914-02_Anschlusselement-Mitnehmer [00] Aktuell
+|--286120_Unterbau_Auslauf_komplett [00] Aktuell
+   |--108141_Schaltwinkel.1 [00] Aktuell (4)
+      |--108141_Schaltwinkel.1 [00] Aktuell
+      |--108141_Schaltwinkel.1.1 [00] Aktuell
+      |--108141_Schaltwinkel.1.1.1 [00] Aktuell
+      |--108141_Schaltwinkel.1.2 [00] Aktuell
+   |--286130_Strecke_komplett [00] Aktuell (2)
+      |--286130_Strecke_komplett [00] Aktuell
+         |--286130-001_Segment-1 [00] Aktuell
+            |--000136_Zylinderschraube-M12x50_8.8-DIN912 [00] Aktuell (2)
+               |--000136_Zylinderschraube-M12x50_8.8-DIN912 [00] Aktuell
+               |--000136_Zylinderschraube-M12x50_8.8-DIN912.1 [00] Aktuell
+            |--106927_Anschlag.01 [00] Aktuell
+            |--106928_Schweissteil_Endsegment.02 [00] Aktuell
+               |--106928_Schweissteil_Endsegment.01.1 [] 
+               |--106929_Grundplatte [00] Aktuell
+               |--106931_Fuehrungsleiste_Endsegment [00] Aktuell
+         |--286130-002_Segment-2 [00] Aktuell (4)
+            |--286130-002_Segment-2 [00] Aktuell
+               |--106932_Schweissteil_Zwischensegment.02 [00] Aktuell
+                  |--106932_Schweissteil_Zwischensegment.01.1 [] 
+                  |--106929_Grundplatte [00] Aktuell
+                  |--106933_Fuehrungsleiste_Zwischensegment [00] Aktuell
+            |--286130-002_Segment-2.1 [00] Aktuell
+               |--106932_Schweissteil_Zwischensegment.02 [00] Aktuell
+                  |--106932_Schweissteil_Zwischensegment.01.1 [] 
+                  |--106929_Grundplatte [00] Aktuell
+                  |--106933_Fuehrungsleiste_Zwischensegment [00] Aktuell
+            |--286130-002_Segment-2.2 [00] Aktuell
+               |--106932_Schweissteil_Zwischensegment.02 [00] Aktuell
+                  |--106932_Schweissteil_Zwischensegment.01.1 [] 
+                  |--106929_Grundplatte [00] Aktuell
+                  |--106933_Fuehrungsleiste_Zwischensegment [00] Aktuell
+            |--286130-002_Segment-2.3 [00] Aktuell
+               |--106932_Schweissteil_Zwischensegment.02 [00] Aktuell
+                  |--106932_Schweissteil_Zwischensegment.01.1 [] 
+                  |--106929_Grundplatte [00] Aktuell
+                  |--106933_Fuehrungsleiste_Zwischensegment [00] Aktuell
+         |--286130-003_Segment-3 [00] Aktuell
+            |--000136_Zylinderschraube-M12x50_8.8-DIN912.1.1 [00] Aktuell (2)
+               |--000136_Zylinderschraube-M12x50_8.8-DIN912.1.1 [00] Aktuell
+               |--000136_Zylinderschraube-M12x50_8.8-DIN912.2 [00] Aktuell
+            |--106927_Anschlag.02 [00] Aktuell
+            |--106928_Schweissteil_Endsegment.01 [00] Aktuell
+               |--106928_Schweissteil_Endsegment.01.1 [] 
+               |--106929_Grundplatte [00] Aktuell
+               |--106931_Fuehrungsleiste_Endsegment [00] Aktuell
+      |--286130_Strecke_komplett.1 [00] Aktuell
+         |--286130-001_Segment-1 [00] Aktuell
+            |--000136_Zylinderschraube-M12x50_8.8-DIN912 [00] Aktuell (2)
+               |--000136_Zylinderschraube-M12x50_8.8-DIN912 [00] Aktuell
+               |--000136_Zylinderschraube-M12x50_8.8-DIN912.1 [00] Aktuell
+            |--106927_Anschlag.01 [00] Aktuell
+            |--106928_Schweissteil_Endsegment.02 [00] Aktuell
+               |--106928_Schweissteil_Endsegment.01.1 [] 
+               |--106929_Grundplatte [00] Aktuell
+               |--106931_Fuehrungsleiste_Endsegment [00] Aktuell
+         |--286130-002_Segment-2 [00] Aktuell (4)
+            |--286130-002_Segment-2 [00] Aktuell
+               |--106932_Schweissteil_Zwischensegment.02 [00] Aktuell
+                  |--106932_Schweissteil_Zwischensegment.01.1 [] 
+                  |--106929_Grundplatte [00] Aktuell
+                  |--106933_Fuehrungsleiste_Zwischensegment [00] Aktuell
+            |--286130-002_Segment-2.1 [00] Aktuell
+               |--106932_Schweissteil_Zwischensegment.02 [00] Aktuell
+                  |--106932_Schweissteil_Zwischensegment.01.1 [] 
+                  |--106929_Grundplatte [00] Aktuell
+                  |--106933_Fuehrungsleiste_Zwischensegment [00] Aktuell
+            |--286130-002_Segment-2.2 [00] Aktuell
+               |--106932_Schweissteil_Zwischensegment.02 [00] Aktuell
+                  |--106932_Schweissteil_Zwischensegment.01.1 [] 
+                  |--106929_Grundplatte [00] Aktuell
+                  |--106933_Fuehrungsleiste_Zwischensegment [00] Aktuell
+            |--286130-002_Segment-2.3 [00] Aktuell
+               |--106932_Schweissteil_Zwischensegment.02 [00] Aktuell
+                  |--106932_Schweissteil_Zwischensegment.01.1 [] 
+                  |--106929_Grundplatte [00] Aktuell
+                  |--106933_Fuehrungsleiste_Zwischensegment [00] Aktuell
+         |--286130-003_Segment-3 [00] Aktuell
+            |--000136_Zylinderschraube-M12x50_8.8-DIN912.1.1 [00] Aktuell (2)
+               |--000136_Zylinderschraube-M12x50_8.8-DIN912.1.1 [00] Aktuell
+               |--000136_Zylinderschraube-M12x50_8.8-DIN912.2 [00] Aktuell
+            |--106927_Anschlag.02 [00] Aktuell
+            |--106928_Schweissteil_Endsegment.01 [00] Aktuell
+               |--106928_Schweissteil_Endsegment.01.1 [] 
+               |--106929_Grundplatte [00] Aktuell
+               |--106931_Fuehrungsleiste_Endsegment [00] Aktuell
+|--286140_Palettenwagen_Auslauf_komplett [00] Aktuell
+   |--286170_Klein-Palettenwagen_komplett.01 [00] Aktuell (2)
+      |--286170_Klein-Palettenwagen_komplett.01 [00] Aktuell
+         |--286170-001_Paletten [00] Aktuell
+         |--Schnittelement1
+         |--106381_Kopfanschlussset_DRS112-125 [00] Aktuell (4)
+            |--106381_Kopfanschlussset_DRS112-125 [00] Aktuell
+               |--072216-02_Bolzen [00]  (4)
+                  |--072216-02_Bolzen [00] 
+                  |--072216-02_Bolzen.1 [00] 
+                  |--072216-02_Bolzen.2 [00] 
+                  |--072216-02_Bolzen.3 [00] 
+            |--106381_Kopfanschlussset_DRS112-125.1 [00] Aktuell
+               |--072216-02_Bolzen [00]  (4)
+                  |--072216-02_Bolzen [00] 
+                  |--072216-02_Bolzen.1 [00] 
+                  |--072216-02_Bolzen.2 [00] 
+                  |--072216-02_Bolzen.3 [00] 
+            |--106381_Kopfanschlussset_DRS112-125.2 [00] Aktuell
+               |--072216-02_Bolzen [00]  (4)
+                  |--072216-02_Bolzen [00] 
+                  |--072216-02_Bolzen.1 [00] 
+                  |--072216-02_Bolzen.2 [00] 
+                  |--072216-02_Bolzen.3 [00] 
+            |--106381_Kopfanschlussset_DRS112-125.3 [00] Aktuell
+               |--072216-02_Bolzen [00]  (4)
+                  |--072216-02_Bolzen [00] 
+                  |--072216-02_Bolzen.1 [00] 
+                  |--072216-02_Bolzen.2 [00] 
+                  |--072216-02_Bolzen.3 [00] 
+         |--106402_Tuerfeststeller_KWS-1044.02 [00] Aktuell
+         |--150815_Radblock_DRS-M-112-NA-A-60-K-H-X.1.1 [00] Aktuell (4)
+            |--150815_Radblock_DRS-M-112-NA-A-60-K-H-X.1.1 [00] Aktuell
+               |--T1 [00] 
+               |--T2 [00] 
+               |--T3 [00] 
+               |--T4 [00] 
+               |--T5 [00] 
+               |--U09176x20231026081729-OBdy1 [00] 
+            |--150815_Radblock_DRS-M-112-NA-A-60-K-H-X.1.1.1 [00] Aktuell
+               |--T1 [00] 
+               |--T2 [00] 
+               |--T3 [00] 
+               |--T4 [00] 
+               |--T5 [00] 
+               |--U09176x20231026081729-OBdy1 [00] 
+            |--150815_Radblock_DRS-M-112-NA-A-60-K-H-X.1.1.2 [00] Aktuell
+               |--T1 [00] 
+               |--T2 [00] 
+               |--T3 [00] 
+               |--T4 [00] 
+               |--T5 [00] 
+               |--U09176x20231026081729-OBdy1 [00] 
+            |--150815_Radblock_DRS-M-112-NA-A-60-K-H-X.1.1.3 [00] Aktuell
+               |--T1 [00] 
+               |--T2 [00] 
+               |--T3 [00] 
+               |--T4 [00] 
+               |--T5 [00] 
+               |--U09176x20231026081729-OBdy1 [00] 
+         |--152961_Schweissteil_Segment_links_Klein-Palettenwagen [00] Aktuell
+            |--152961_Schweissteil_Segment_links_Klein-Palettenwagen.1 [] 
+            |--106385_Anschraubplatte_Quertraeger.01 [00] Aktuell (7)
+               |--106385_Anschraubplatte_Quertraeger.01 [00] Aktuell
+               |--106385_Anschraubplatte_Quertraeger.02 [00] Aktuell
+               |--106385_Anschraubplatte_Quertraeger.03 [00] Aktuell
+               |--106385_Anschraubplatte_Quertraeger.04 [00] Aktuell
+               |--106385_Anschraubplatte_Quertraeger.05 [00] Aktuell
+               |--106385_Anschraubplatte_Quertraeger.06 [00] Aktuell
+               |--106385_Anschraubplatte_Quertraeger.07 [00] Aktuell
+            |--152962_Traeger_Segment_links [00] Aktuell
+         |--152963_Schweissteil_Segment_rechts_Klein-Palettenwagen [00] Aktuell
+            |--152963_Schweissteil_Segment_rechts_Klein-Palettenwagen.1 [] 
+            |--106385_Anschraubplatte_Quertraeger.0 [00] Aktuell (7)
+               |--106385_Anschraubplatte_Quertraeger.0 [00] Aktuell
+               |--106385_Anschraubplatte_Quertraeger.01 [00] Aktuell
+               |--106385_Anschraubplatte_Quertraeger.02 [00] Aktuell
+               |--106385_Anschraubplatte_Quertraeger.03 [00] Aktuell
+               |--106385_Anschraubplatte_Quertraeger.04 [00] Aktuell
+               |--106385_Anschraubplatte_Quertraeger.06 [00] Aktuell
+               |--106385_Anschraubplatte_Quertraeger.07 [00] Aktuell
+            |--152964_Traeger_Segment_rechts [00] Aktuell
+         |--152965_Schweissteil_Querverbindung.01 [00] Aktuell (4)
+            |--152965_Schweissteil_Querverbindung.01 [00] Aktuell
+               |--152965 [] 
+               |--106385_Anschraubplatte_Quertraeger.01 [00] Aktuell (2)
+                  |--106385_Anschraubplatte_Quertraeger.01 [00] Aktuell
+                  |--106385_Anschraubplatte_Quertraeger.02 [00] Aktuell
+               |--152967_Traeger_Querverbindung [00] Aktuell
+            |--152965_Schweissteil_Querverbindung.02 [00] Aktuell
+               |--152965 [] 
+               |--106385_Anschraubplatte_Quertraeger.01 [00] Aktuell (2)
+                  |--106385_Anschraubplatte_Quertraeger.01 [00] Aktuell
+                  |--106385_Anschraubplatte_Quertraeger.02 [00] Aktuell
+               |--152967_Traeger_Querverbindung [00] Aktuell
+            |--152965_Schweissteil_Querverbindung.03 [00] Aktuell
+               |--152965 [] 
+               |--106385_Anschraubplatte_Quertraeger.01 [00] Aktuell (2)
+                  |--106385_Anschraubplatte_Quertraeger.01 [00] Aktuell
+                  |--106385_Anschraubplatte_Quertraeger.02 [00] Aktuell
+               |--152967_Traeger_Querverbindung [00] Aktuell
+            |--152965_Schweissteil_Querverbindung.04 [00] Aktuell
+               |--152965 [] 
+               |--106385_Anschraubplatte_Quertraeger.01 [00] Aktuell (2)
+                  |--106385_Anschraubplatte_Quertraeger.01 [00] Aktuell
+                  |--106385_Anschraubplatte_Quertraeger.02 [00] Aktuell
+               |--152967_Traeger_Querverbindung [00] Aktuell
+         |--152968_Schweissteil_Querverbindung_Radblock.01 [00] Aktuell (2)
+            |--152968_Schweissteil_Querverbindung_Radblock.01 [00] Aktuell
+               |--152968 [] 
+               |--106385_Anschraubplatte_Quertraeger.01 [00] Aktuell (2)
+                  |--106385_Anschraubplatte_Quertraeger.01 [00] Aktuell
+                  |--106385_Anschraubplatte_Quertraeger.01.1 [00] Aktuell
+               |--106391_Platte_Radblock.01 [00] Aktuell (2)
+                  |--106391_Platte_Radblock.01 [00] Aktuell
+                  |--106391_Platte_Radblock.02 [00] Aktuell
+               |--152969_Traeger_Querverbindung_Radblock [00] Aktuell
+            |--152968_Schweissteil_Querverbindung_Radblock.02 [00] Aktuell
+               |--152968 [] 
+               |--106385_Anschraubplatte_Quertraeger.01 [00] Aktuell (2)
+                  |--106385_Anschraubplatte_Quertraeger.01 [00] Aktuell
+                  |--106385_Anschraubplatte_Quertraeger.01.1 [00] Aktuell
+               |--106391_Platte_Radblock.01 [00] Aktuell (2)
+                  |--106391_Platte_Radblock.01 [00] Aktuell
+                  |--106391_Platte_Radblock.02 [00] Aktuell
+               |--152969_Traeger_Querverbindung_Radblock [00] Aktuell
+         |--152971_Schweissteil_Querverbindung_Griff [00] Aktuell
+            |--152971_Schweissteil_Querverbindung_Griff.1 [] 
+            |--106385_Anschraubplatte_Quertraeger.01 [00] Aktuell (2)
+               |--106385_Anschraubplatte_Quertraeger.01 [00] Aktuell
+               |--106385_Anschraubplatte_Quertraeger.02 [00] Aktuell
+            |--152972_Traeger_Querverbindung_Griff [00] Aktuell
+         |--152973_Schweissteil_Griff [00] Aktuell
+            |--152973_Schweissteil_Griff.1 [] 
+            |--103111_Deckel_Typ_2_fuer_Rohr_D48.3x2 [00] Aktuell
+            |--106401_Anschlagring.01 [00] Aktuell
+            |--152974_103109-760_Rohr_Edelstahl_d48 [00] Aktuell
+         |--152975_Bodenblech_1_Klein-Palettenwagen.01 [00] Aktuell (2)
+            |--152975_Bodenblech_1_Klein-Palettenwagen.01 [00] Aktuell
+            |--152975_Bodenblech_1_Klein-Palettenwagen.02 [00] Aktuell
+         |--152976_Bodenblech_2_Klein-Palettenwagen [00] Aktuell
+         |--152977_Aufnahme_Griff [00] Aktuell
+         |--152978_Befestigung_Tueraufsteller [00] Aktuell
+      |--286170_Klein-Palettenwagen_komplett.02 [00] Aktuell
+         |--286170-001_Paletten [00] Aktuell
+         |--Schnittelement1
+         |--106381_Kopfanschlussset_DRS112-125 [00] Aktuell (4)
+            |--106381_Kopfanschlussset_DRS112-125 [00] Aktuell
+               |--072216-02_Bolzen [00]  (4)
+                  |--072216-02_Bolzen [00] 
+                  |--072216-02_Bolzen.1 [00] 
+                  |--072216-02_Bolzen.2 [00] 
+                  |--072216-02_Bolzen.3 [00] 
+            |--106381_Kopfanschlussset_DRS112-125.1 [00] Aktuell
+               |--072216-02_Bolzen [00]  (4)
+                  |--072216-02_Bolzen [00] 
+                  |--072216-02_Bolzen.1 [00] 
+                  |--072216-02_Bolzen.2 [00] 
+                  |--072216-02_Bolzen.3 [00] 
+            |--106381_Kopfanschlussset_DRS112-125.2 [00] Aktuell
+               |--072216-02_Bolzen [00]  (4)
+                  |--072216-02_Bolzen [00] 
+                  |--072216-02_Bolzen.1 [00] 
+                  |--072216-02_Bolzen.2 [00] 
+                  |--072216-02_Bolzen.3 [00] 
+            |--106381_Kopfanschlussset_DRS112-125.3 [00] Aktuell
+               |--072216-02_Bolzen [00]  (4)
+                  |--072216-02_Bolzen [00] 
+                  |--072216-02_Bolzen.1 [00] 
+                  |--072216-02_Bolzen.2 [00] 
+                  |--072216-02_Bolzen.3 [00] 
+         |--106402_Tuerfeststeller_KWS-1044.02 [00] Aktuell
+         |--150815_Radblock_DRS-M-112-NA-A-60-K-H-X.1.1 [00] Aktuell (4)
+            |--150815_Radblock_DRS-M-112-NA-A-60-K-H-X.1.1 [00] Aktuell
+               |--T1 [00] 
+               |--T2 [00] 
+               |--T3 [00] 
+               |--T4 [00] 
+               |--T5 [00] 
+               |--U09176x20231026081729-OBdy1 [00] 
+            |--150815_Radblock_DRS-M-112-NA-A-60-K-H-X.1.1.1 [00] Aktuell
+               |--T1 [00] 
+               |--T2 [00] 
+               |--T3 [00] 
+               |--T4 [00] 
+               |--T5 [00] 
+               |--U09176x20231026081729-OBdy1 [00] 
+            |--150815_Radblock_DRS-M-112-NA-A-60-K-H-X.1.1.2 [00] Aktuell
+               |--T1 [00] 
+               |--T2 [00] 
+               |--T3 [00] 
+               |--T4 [00] 
+               |--T5 [00] 
+               |--U09176x20231026081729-OBdy1 [00] 
+            |--150815_Radblock_DRS-M-112-NA-A-60-K-H-X.1.1.3 [00] Aktuell
+               |--T1 [00] 
+               |--T2 [00] 
+               |--T3 [00] 
+               |--T4 [00] 
+               |--T5 [00] 
+               |--U09176x20231026081729-OBdy1 [00] 
+         |--152961_Schweissteil_Segment_links_Klein-Palettenwagen [00] Aktuell
+            |--152961_Schweissteil_Segment_links_Klein-Palettenwagen.1 [] 
+            |--106385_Anschraubplatte_Quertraeger.01 [00] Aktuell (7)
+               |--106385_Anschraubplatte_Quertraeger.01 [00] Aktuell
+               |--106385_Anschraubplatte_Quertraeger.02 [00] Aktuell
+               |--106385_Anschraubplatte_Quertraeger.03 [00] Aktuell
+               |--106385_Anschraubplatte_Quertraeger.04 [00] Aktuell
+               |--106385_Anschraubplatte_Quertraeger.05 [00] Aktuell
+               |--106385_Anschraubplatte_Quertraeger.06 [00] Aktuell
+               |--106385_Anschraubplatte_Quertraeger.07 [00] Aktuell
+            |--152962_Traeger_Segment_links [00] Aktuell
+         |--152963_Schweissteil_Segment_rechts_Klein-Palettenwagen [00] Aktuell
+            |--152963_Schweissteil_Segment_rechts_Klein-Palettenwagen.1 [] 
+            |--106385_Anschraubplatte_Quertraeger.0 [00] Aktuell (7)
+               |--106385_Anschraubplatte_Quertraeger.0 [00] Aktuell
+               |--106385_Anschraubplatte_Quertraeger.01 [00] Aktuell
+               |--106385_Anschraubplatte_Quertraeger.02 [00] Aktuell
+               |--106385_Anschraubplatte_Quertraeger.03 [00] Aktuell
+               |--106385_Anschraubplatte_Quertraeger.04 [00] Aktuell
+               |--106385_Anschraubplatte_Quertraeger.06 [00] Aktuell
+               |--106385_Anschraubplatte_Quertraeger.07 [00] Aktuell
+            |--152964_Traeger_Segment_rechts [00] Aktuell
+         |--152965_Schweissteil_Querverbindung.01 [00] Aktuell (4)
+            |--152965_Schweissteil_Querverbindung.01 [00] Aktuell
+               |--152965 [] 
+               |--106385_Anschraubplatte_Quertraeger.01 [00] Aktuell (2)
+                  |--106385_Anschraubplatte_Quertraeger.01 [00] Aktuell
+                  |--106385_Anschraubplatte_Quertraeger.02 [00] Aktuell
+               |--152967_Traeger_Querverbindung [00] Aktuell
+            |--152965_Schweissteil_Querverbindung.02 [00] Aktuell
+               |--152965 [] 
+               |--106385_Anschraubplatte_Quertraeger.01 [00] Aktuell (2)
+                  |--106385_Anschraubplatte_Quertraeger.01 [00] Aktuell
+                  |--106385_Anschraubplatte_Quertraeger.02 [00] Aktuell
+               |--152967_Traeger_Querverbindung [00] Aktuell
+            |--152965_Schweissteil_Querverbindung.03 [00] Aktuell
+               |--152965 [] 
+               |--106385_Anschraubplatte_Quertraeger.01 [00] Aktuell (2)
+                  |--106385_Anschraubplatte_Quertraeger.01 [00] Aktuell
+                  |--106385_Anschraubplatte_Quertraeger.02 [00] Aktuell
+               |--152967_Traeger_Querverbindung [00] Aktuell
+            |--152965_Schweissteil_Querverbindung.04 [00] Aktuell
+               |--152965 [] 
+               |--106385_Anschraubplatte_Quertraeger.01 [00] Aktuell (2)
+                  |--106385_Anschraubplatte_Quertraeger.01 [00] Aktuell
+                  |--106385_Anschraubplatte_Quertraeger.02 [00] Aktuell
+               |--152967_Traeger_Querverbindung [00] Aktuell
+         |--152968_Schweissteil_Querverbindung_Radblock.01 [00] Aktuell (2)
+            |--152968_Schweissteil_Querverbindung_Radblock.01 [00] Aktuell
+               |--152968 [] 
+               |--106385_Anschraubplatte_Quertraeger.01 [00] Aktuell (2)
+                  |--106385_Anschraubplatte_Quertraeger.01 [00] Aktuell
+                  |--106385_Anschraubplatte_Quertraeger.01.1 [00] Aktuell
+               |--106391_Platte_Radblock.01 [00] Aktuell (2)
+                  |--106391_Platte_Radblock.01 [00] Aktuell
+                  |--106391_Platte_Radblock.02 [00] Aktuell
+               |--152969_Traeger_Querverbindung_Radblock [00] Aktuell
+            |--152968_Schweissteil_Querverbindung_Radblock.02 [00] Aktuell
+               |--152968 [] 
+               |--106385_Anschraubplatte_Quertraeger.01 [00] Aktuell (2)
+                  |--106385_Anschraubplatte_Quertraeger.01 [00] Aktuell
+                  |--106385_Anschraubplatte_Quertraeger.01.1 [00] Aktuell
+               |--106391_Platte_Radblock.01 [00] Aktuell (2)
+                  |--106391_Platte_Radblock.01 [00] Aktuell
+                  |--106391_Platte_Radblock.02 [00] Aktuell
+               |--152969_Traeger_Querverbindung_Radblock [00] Aktuell
+         |--152971_Schweissteil_Querverbindung_Griff [00] Aktuell
+            |--152971_Schweissteil_Querverbindung_Griff.1 [] 
+            |--106385_Anschraubplatte_Quertraeger.01 [00] Aktuell (2)
+               |--106385_Anschraubplatte_Quertraeger.01 [00] Aktuell
+               |--106385_Anschraubplatte_Quertraeger.02 [00] Aktuell
+            |--152972_Traeger_Querverbindung_Griff [00] Aktuell
+         |--152973_Schweissteil_Griff [00] Aktuell
+            |--152973_Schweissteil_Griff.1 [] 
+            |--103111_Deckel_Typ_2_fuer_Rohr_D48.3x2 [00] Aktuell
+            |--106401_Anschlagring.01 [00] Aktuell
+            |--152974_103109-760_Rohr_Edelstahl_d48 [00] Aktuell
+         |--152975_Bodenblech_1_Klein-Palettenwagen.01 [00] Aktuell (2)
+            |--152975_Bodenblech_1_Klein-Palettenwagen.01 [00] Aktuell
+            |--152975_Bodenblech_1_Klein-Palettenwagen.02 [00] Aktuell
+         |--152976_Bodenblech_2_Klein-Palettenwagen [00] Aktuell
+         |--152977_Aufnahme_Griff [00] Aktuell
+         |--152978_Befestigung_Tueraufsteller [00] Aktuell
+   |--286180_Grundrahmen [00] Aktuell
+      |--152937_Schweissteil_Querverbindung_Stirnseite.01 [00] Aktuell (7)
+         |--152937_Schweissteil_Querverbindung_Stirnseite.01 [00] Aktuell
+            |--152937 [] 
+            |--106343_Kopfplatte.01.1 [00] Aktuell (2)
+               |--106343_Kopfplatte.01.1 [00] Aktuell
+               |--106343_Kopfplatte.01.1.1 [00] Aktuell
+            |--152938_Traeger_Querverbindung [00] Aktuell
+         |--152937_Schweissteil_Querverbindung_Stirnseite.02 [00] Aktuell
+            |--152937 [] 
+            |--106343_Kopfplatte.01.1 [00] Aktuell (2)
+               |--106343_Kopfplatte.01.1 [00] Aktuell
+               |--106343_Kopfplatte.01.1.1 [00] Aktuell
+            |--152938_Traeger_Querverbindung [00] Aktuell
+         |--152937_Schweissteil_Querverbindung_Stirnseite.03 [00] Aktuell
+            |--152937 [] 
+            |--106343_Kopfplatte.01.1 [00] Aktuell (2)
+               |--106343_Kopfplatte.01.1 [00] Aktuell
+               |--106343_Kopfplatte.01.1.1 [00] Aktuell
+            |--152938_Traeger_Querverbindung [00] Aktuell
+         |--152937_Schweissteil_Querverbindung_Stirnseite.04 [00] Aktuell
+            |--152937 [] 
+            |--106343_Kopfplatte.01.1 [00] Aktuell (2)
+               |--106343_Kopfplatte.01.1 [00] Aktuell
+               |--106343_Kopfplatte.01.1.1 [00] Aktuell
+            |--152938_Traeger_Querverbindung [00] Aktuell
+         |--152937_Schweissteil_Querverbindung_Stirnseite.05 [00] Aktuell
+            |--152937 [] 
+            |--106343_Kopfplatte.01.1 [00] Aktuell (2)
+               |--106343_Kopfplatte.01.1 [00] Aktuell
+               |--106343_Kopfplatte.01.1.1 [00] Aktuell
+            |--152938_Traeger_Querverbindung [00] Aktuell
+         |--152937_Schweissteil_Querverbindung_Stirnseite.06 [00] Aktuell
+            |--152937 [] 
+            |--106343_Kopfplatte.01.1 [00] Aktuell (2)
+               |--106343_Kopfplatte.01.1 [00] Aktuell
+               |--106343_Kopfplatte.01.1.1 [00] Aktuell
+            |--152938_Traeger_Querverbindung [00] Aktuell
+         |--152937_Schweissteil_Querverbindung_Stirnseite.07 [00] Aktuell
+            |--152937 [] 
+            |--106343_Kopfplatte.01.1 [00] Aktuell (2)
+               |--106343_Kopfplatte.01.1 [00] Aktuell
+               |--106343_Kopfplatte.01.1.1 [00] Aktuell
+            |--152938_Traeger_Querverbindung [00] Aktuell
+      |--152948_Schweissteil_Segment_links [00] Aktuell
+         |--152951 [] 
+         |--106327_Anschraubplatte_Quertraeger.01.1.1 [00] Aktuell (4)
+            |--106327_Anschraubplatte_Quertraeger.01.1.1 [00] Aktuell
+            |--106327_Anschraubplatte_Quertraeger.01.1.1.1 [00] Aktuell
+            |--106327_Anschraubplatte_Quertraeger.01.1.2.1 [00] Aktuell
+            |--106327_Anschraubplatte_Quertraeger.01.1.3.1 [00] Aktuell
+         |--106329_Anschraubplatte_Radblock.02.1.1 [00] Aktuell (3)
+            |--106329_Anschraubplatte_Radblock.02.1.1 [00] Aktuell
+            |--106329_Anschraubplatte_Radblock.02.1.1.1 [00] Aktuell
+            |--106329_Anschraubplatte_Radblock.02.1.1.1.1 [00] Aktuell
+         |--106331_Aussteifung_1.02.1.1 [00] Aktuell (3)
+            |--106331_Aussteifung_1.02.1.1 [00] Aktuell
+            |--106331_Aussteifung_1.02.1.1.1 [00] Aktuell
+            |--106331_Aussteifung_1.02.1.1.1.1 [00] Aktuell
+         |--106332_Aussteifung_2.02.1.1 [00] Aktuell (3)
+            |--106332_Aussteifung_2.02.1.1 [00] Aktuell
+            |--106332_Aussteifung_2.02.1.1.1 [00] Aktuell
+            |--106332_Aussteifung_2.02.1.1.1.1 [00] Aktuell
+         |--106406_Anschraubplatte_Quertraeger-Radblock_gross.01.1 [00] Aktuell (3)
+            |--106406_Anschraubplatte_Quertraeger-Radblock_gross.01.1 [00] Aktuell
+            |--106406_Anschraubplatte_Quertraeger-Radblock_gross.02.1 [00] Aktuell
+            |--106406_Anschraubplatte_Quertraeger-Radblock_gross.02.1.1 [00] Aktuell
+         |--152949_Traeger_Segement_links [00] Aktuell
+         |--152953_Anschraubplatte_Lineareinheit [00] Aktuell
+      |--152951_Schweissteil_Segment_rechts [00] Aktuell
+         |--152951 [] 
+         |--106327_Anschraubplatte_Quertraeger.01.1.1 [00] Aktuell (4)
+            |--106327_Anschraubplatte_Quertraeger.01.1.1 [00] Aktuell
+            |--106327_Anschraubplatte_Quertraeger.01.1.1.1 [00] Aktuell
+            |--106327_Anschraubplatte_Quertraeger.01.1.2.1 [00] Aktuell
+            |--106327_Anschraubplatte_Quertraeger.01.1.3.1 [00] Aktuell
+         |--106329_Anschraubplatte_Radblock.02.1.1 [00] Aktuell (3)
+            |--106329_Anschraubplatte_Radblock.02.1.1 [00] Aktuell
+            |--106329_Anschraubplatte_Radblock.02.1.1.1 [00] Aktuell
+            |--106329_Anschraubplatte_Radblock.02.1.1.1.1 [00] Aktuell
+         |--106331_Aussteifung_1.02.1.1 [00] Aktuell (3)
+            |--106331_Aussteifung_1.02.1.1 [00] Aktuell
+            |--106331_Aussteifung_1.02.1.1.1 [00] Aktuell
+            |--106331_Aussteifung_1.02.1.1.1.1 [00] Aktuell
+         |--106332_Aussteifung_2.02.1.1 [00] Aktuell (3)
+            |--106332_Aussteifung_2.02.1.1 [00] Aktuell
+            |--106332_Aussteifung_2.02.1.1.1 [00] Aktuell
+            |--106332_Aussteifung_2.02.1.1.1.1 [00] Aktuell
+         |--106406_Anschraubplatte_Quertraeger-Radblock_gross.01.1 [00] Aktuell (3)
+            |--106406_Anschraubplatte_Quertraeger-Radblock_gross.01.1 [00] Aktuell
+            |--106406_Anschraubplatte_Quertraeger-Radblock_gross.02.1 [00] Aktuell
+            |--106406_Anschraubplatte_Quertraeger-Radblock_gross.02.1.1 [00] Aktuell
+         |--152952_Traeger_Segment_rechts [00] Aktuell
+         |--152953_Anschraubplatte_Lineareinheit [00] Aktuell
+      |--286240_Fahrantrieb_Auslauf_komplett [00] Aktuell
+         |--106358_Winkelgetriebemotor_WUE_40_DD-B14.0-11-1-42.9_ZBA_90_B4_B020.1 [00] Aktuell
+            |--_22800184(1zn0101staenaschild0) [00] 
+            |--_22862284(1001zd4000iko) [00] 
+            |--_22874084(11zsr0000inc010011b020) [00] 
+            |--_22880084(11z1snhg1links180100) [00] 
+            |--_a_abtriebswellesolo(78918744400wu0e11) [00] 
+            |--_verschlussschraube(M25x1_5) [00]  (2)
+               |--_verschlussschraube(M25x1_5) [00] 
+               |--_verschlussschraube(M25x1_5).1 [00] 
+            |--_verschlussschraube(M32x1_5) [00]  (2)
+               |--_verschlussschraube(M32x1_5) [00] 
+               |--_verschlussschraube(M32x1_5).1 [00] 
+            |--_w_get_dichtung(40w) [00] 
+            |--_w_get_gehause(401uew18040900) [00] 
+            |--_w_wellendichtring(40we) [00]  (2)
+               |--_w_wellendichtring(40we) [00] 
+               |--_w_wellendichtring(40we).1 [00] 
+         |--106374-2730_Zentralantrieb_Set_DRS_200 [00] Aktuell
+            |--_75215644(200103150drs) [00] 
+            |--_verbindungswelle(20040wzi3150drs00) [00] 
+         |--106375_Drehmomentstuetzenset_MW200-2.1 [00] Aktuell
+         |--106376_Kopfanschlussset_DRS160-200.1 [00] Aktuell (6)
+            |--106376_Kopfanschlussset_DRS160-200.1 [00] Aktuell
+               |--15081099_200_.1.1 [00] 
+               |--15081099_200_.1.1.1 [00] 
+               |--15081099_200_.2.1.1 [00] 
+               |--15081099_200_.3.1.1 [00] 
+               |--30044444_200_.1.1 [00] 
+               |--30044444_200_.1.1.1 [00] 
+               |--30044444_200_.2.1.1 [00] 
+               |--30044444_200_.3.1.1 [00] 
+            |--106376_Kopfanschlussset_DRS160-200.1.1 [00] Aktuell
+               |--15081099_200_.1.1 [00] 
+               |--15081099_200_.1.1.1 [00] 
+               |--15081099_200_.2.1.1 [00] 
+               |--15081099_200_.3.1.1 [00] 
+               |--30044444_200_.1.1 [00] 
+               |--30044444_200_.1.1.1 [00] 
+               |--30044444_200_.2.1.1 [00] 
+               |--30044444_200_.3.1.1 [00] 
+            |--106376_Kopfanschlussset_DRS160-200.2.1 [00] Aktuell
+               |--15081099_200_.1.1 [00] 
+               |--15081099_200_.1.1.1 [00] 
+               |--15081099_200_.2.1.1 [00] 
+               |--15081099_200_.3.1.1 [00] 
+               |--30044444_200_.1.1 [00] 
+               |--30044444_200_.1.1.1 [00] 
+               |--30044444_200_.2.1.1 [00] 
+               |--30044444_200_.3.1.1 [00] 
+            |--106376_Kopfanschlussset_DRS160-200.2.1.1 [00] Aktuell
+               |--15081099_200_.1.1 [00] 
+               |--15081099_200_.1.1.1 [00] 
+               |--15081099_200_.2.1.1 [00] 
+               |--15081099_200_.3.1.1 [00] 
+               |--30044444_200_.1.1 [00] 
+               |--30044444_200_.1.1.1 [00] 
+               |--30044444_200_.2.1.1 [00] 
+               |--30044444_200_.3.1.1 [00] 
+            |--106376_Kopfanschlussset_DRS160-200.3.1 [00] Aktuell
+               |--15081099_200_.1.1 [00] 
+               |--15081099_200_.1.1.1 [00] 
+               |--15081099_200_.2.1.1 [00] 
+               |--15081099_200_.3.1.1 [00] 
+               |--30044444_200_.1.1 [00] 
+               |--30044444_200_.1.1.1 [00] 
+               |--30044444_200_.2.1.1 [00] 
+               |--30044444_200_.3.1.1 [00] 
+            |--106376_Kopfanschlussset_DRS160-200.3.1.1 [00] Aktuell
+               |--15081099_200_.1.1 [00] 
+               |--15081099_200_.1.1.1 [00] 
+               |--15081099_200_.2.1.1 [00] 
+               |--15081099_200_.3.1.1 [00] 
+               |--30044444_200_.1.1 [00] 
+               |--30044444_200_.1.1.1 [00] 
+               |--30044444_200_.2.1.1 [00] 
+               |--30044444_200_.3.1.1 [00] 
+         |--106377_Applikationsbaugruppe [00] Aktuell
+         |--152913_Radblock_DRS-M-200-MA50-A-65-K-H-X [00] Aktuell
+            |--DRS_200_CON.ASM [00] 
+               |--DRS_200_K.ASM [00] 
+                  |--DRS_200_K_1.PRT [00] 
+                  |--DRS_200_K_2.PRT [00] 
+                  |--DRS_200_K_3.PRT [00] 
+                  |--DRS_200_K_4.PRT [00] 
+            |--DRS_HOU_200_M.PRT [00] 
+            |--DRS_WHE_200_A.PRT [00] 
+         |--153037_Radblock_DRS-M-200-A50-A-55-K-H-W40 [00] Aktuell
+            |--DRS_200_CON.ASM [00] 
+               |--DRS_200_K.ASM [00] 
+                  |--DRS_200_K_1.PRT [00] 
+                  |--DRS_200_K_2.PRT [00] 
+                  |--DRS_200_K_3.PRT [00] 
+                  |--DRS_200_K_4.PRT [00] 
+            |--DRS_HOU_200_M.PRT [00] 
+            |--DRS_WHE_200_A.PRT [00] 
+         |--153041_Radblock_DRS-M-200-NA-A-55-K-H-X [00] Aktuell (2)
+            |--153041_Radblock_DRS-M-200-NA-A-55-K-H-X [00] Aktuell
+               |--DRS_200_CON.ASM [00] 
+                  |--DRS_200_K.ASM [00] 
+                     |--DRS_200_K_1.PRT [00] 
+                     |--DRS_200_K_2.PRT [00] 
+                     |--DRS_200_K_3.PRT [00] 
+                     |--DRS_200_K_4.PRT [00] 
+               |--DRS_HOU_200_M.PRT [00] 
+               |--DRS_WHE_200_A.PRT [00] 
+            |--153041_Radblock_DRS-M-200-NA-A-55-K-H-X.1 [00] Aktuell
+               |--DRS_200_CON.ASM [00] 
+                  |--DRS_200_K.ASM [00] 
+                     |--DRS_200_K_1.PRT [00] 
+                     |--DRS_200_K_2.PRT [00] 
+                     |--DRS_200_K_3.PRT [00] 
+                     |--DRS_200_K_4.PRT [00] 
+               |--DRS_HOU_200_M.PRT [00] 
+               |--DRS_WHE_200_A.PRT [00] 
+         |--153043_Radblock_DRS-M-200-NA-A-65-K-H-X [00] Aktuell (2)
+            |--153043_Radblock_DRS-M-200-NA-A-65-K-H-X [00] Aktuell
+               |--DRS_200_CON.ASM [00] 
+                  |--DRS_200_K.ASM [00] 
+                     |--DRS_200_K_1.PRT [00] 
+                     |--DRS_200_K_2.PRT [00] 
+                     |--DRS_200_K_3.PRT [00] 
+                     |--DRS_200_K_4.PRT [00] 
+               |--DRS_HOU_200_M.PRT [00] 
+               |--DRS_WHE_200_A.PRT [00] 
+            |--153043_Radblock_DRS-M-200-NA-A-65-K-H-X.1 [00] Aktuell
+               |--DRS_200_CON.ASM [00] 
+                  |--DRS_200_K.ASM [00] 
+                     |--DRS_200_K_1.PRT [00] 
+                     |--DRS_200_K_2.PRT [00] 
+                     |--DRS_200_K_3.PRT [00] 
+                     |--DRS_200_K_4.PRT [00] 
+               |--DRS_HOU_200_M.PRT [00] 
+               |--DRS_WHE_200_A.PRT [00] 
+         |--286240-001_Schalter [00] Aktuell
+            |--108138_Haltewinkel.1 [00] Aktuell
+            |--108139_Halteplatte.1 [00] Aktuell
+            |--127732_Telem_Kreuzschalter_XCKVR54D1H29 [00] Aktuell
+               |--SWITCH_XCKMR54D1H29_1.PRT [00] 
+               |--SWITCH_XCKMR54D1H29_2.PRT [00] 
+      |--286250_Lineareinheit_Auslauf_komplett.01 [00] Aktuell (7)
+         |--286250_Lineareinheit_Auslauf_komplett.01 [00] Aktuell
+            |--000083_Zylinderschraube-M8x14_8.8-DIN912 [00] Aktuell (12)
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.1 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.1.1 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.1.2 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.2 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.2.1 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.2.2 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.3 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.3.1 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.3.2 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.4 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.5 [00] Aktuell
+            |--000091_Zylinderschraube-M8x40_8.8-DIN912 [00] Aktuell (41)
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.1 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.10 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.11 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.12 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.13 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.14 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.15 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.16 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.17 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.18 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.19 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.2 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.20 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.21 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.22 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.23 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.24 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.25 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.26 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.27 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.28 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.29 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.3 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.30 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.31 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.32 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.33 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.34 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.35 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.36 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.37 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.38 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.39 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.4 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.40 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.5 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.6 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.7 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.8 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.9 [00] Aktuell
+            |--000108_Zylinderschraube-M10x20_8.8-DIN912 [00] Aktuell (12)
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.1 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.1.1 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.1.2 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.2 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.2.1 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.2.2 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.3 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.3.1 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.3.2 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.4 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.5 [00] Aktuell
+            |--000299_Senkschraube-M10x25-DIN7991 [00] Aktuell (4)
+               |--000299_Senkschraube-M10x25-DIN7991 [00] Aktuell
+               |--000299_Senkschraube-M10x25-DIN7991.1 [00] Aktuell
+               |--000299_Senkschraube-M10x25-DIN7991.2 [00] Aktuell
+               |--000299_Senkschraube-M10x25-DIN7991.3 [00] Aktuell
+            |--000769_Sechskantmutter-M8-DIN934 [00] Aktuell (41)
+               |--000769_Sechskantmutter-M8-DIN934 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.1 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.10 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.11 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.12 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.13 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.14 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.15 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.16 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.17 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.18 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.19 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.2 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.20 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.21 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.22 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.23 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.24 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.25 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.26 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.27 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.28 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.29 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.3 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.30 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.31 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.32 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.33 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.34 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.35 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.36 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.37 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.38 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.39 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.4 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.40 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.5 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.6 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.7 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.8 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.9 [00] Aktuell
+            |--036382_Laufwagen_HGW30CCZ0H [00] Aktuell (4)
+               |--036382_Laufwagen_HGW30CCZ0H [00] Aktuell
+               |--036382_Laufwagen_HGW30CCZ0H.1 [00] Aktuell
+               |--036382_Laufwagen_HGW30CCZ0H.2 [00] Aktuell
+               |--036382_Laufwagen_HGW30CCZ0H.3 [00] Aktuell
+            |--036878_Klemmelement_MKS3001A_SV [00] Aktuell (3)
+               |--036878_Klemmelement_MKS3001A_SV [00] Aktuell
+               |--036878_Klemmelement_MKS3001A_SV.1 [00] Aktuell
+               |--036878_Klemmelement_MKS3001A_SV.1.1 [00] Aktuell
+            |--152955_Profilschiene_HGR30R_L3220 [00] Aktuell
+            |--152957_Adapterplatte_lang.01 [00] Aktuell (3)
+               |--152957_Adapterplatte_lang.01 [00] Aktuell
+               |--152957_Adapterplatte_lang.02 [00] Aktuell
+               |--152957_Adapterplatte_lang.03 [00] Aktuell
+            |--152958_Adapterplatte_kurz [00] Aktuell
+         |--286250_Lineareinheit_Auslauf_komplett.02 [00] Aktuell
+            |--000083_Zylinderschraube-M8x14_8.8-DIN912 [00] Aktuell (12)
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.1 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.1.1 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.1.2 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.2 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.2.1 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.2.2 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.3 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.3.1 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.3.2 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.4 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.5 [00] Aktuell
+            |--000091_Zylinderschraube-M8x40_8.8-DIN912 [00] Aktuell (41)
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.1 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.10 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.11 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.12 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.13 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.14 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.15 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.16 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.17 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.18 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.19 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.2 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.20 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.21 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.22 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.23 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.24 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.25 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.26 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.27 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.28 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.29 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.3 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.30 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.31 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.32 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.33 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.34 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.35 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.36 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.37 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.38 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.39 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.4 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.40 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.5 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.6 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.7 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.8 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.9 [00] Aktuell
+            |--000108_Zylinderschraube-M10x20_8.8-DIN912 [00] Aktuell (12)
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.1 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.1.1 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.1.2 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.2 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.2.1 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.2.2 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.3 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.3.1 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.3.2 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.4 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.5 [00] Aktuell
+            |--000299_Senkschraube-M10x25-DIN7991 [00] Aktuell (4)
+               |--000299_Senkschraube-M10x25-DIN7991 [00] Aktuell
+               |--000299_Senkschraube-M10x25-DIN7991.1 [00] Aktuell
+               |--000299_Senkschraube-M10x25-DIN7991.2 [00] Aktuell
+               |--000299_Senkschraube-M10x25-DIN7991.3 [00] Aktuell
+            |--000769_Sechskantmutter-M8-DIN934 [00] Aktuell (41)
+               |--000769_Sechskantmutter-M8-DIN934 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.1 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.10 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.11 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.12 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.13 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.14 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.15 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.16 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.17 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.18 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.19 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.2 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.20 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.21 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.22 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.23 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.24 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.25 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.26 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.27 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.28 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.29 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.3 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.30 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.31 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.32 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.33 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.34 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.35 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.36 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.37 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.38 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.39 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.4 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.40 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.5 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.6 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.7 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.8 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.9 [00] Aktuell
+            |--036382_Laufwagen_HGW30CCZ0H [00] Aktuell (4)
+               |--036382_Laufwagen_HGW30CCZ0H [00] Aktuell
+               |--036382_Laufwagen_HGW30CCZ0H.1 [00] Aktuell
+               |--036382_Laufwagen_HGW30CCZ0H.2 [00] Aktuell
+               |--036382_Laufwagen_HGW30CCZ0H.3 [00] Aktuell
+            |--036878_Klemmelement_MKS3001A_SV [00] Aktuell (3)
+               |--036878_Klemmelement_MKS3001A_SV [00] Aktuell
+               |--036878_Klemmelement_MKS3001A_SV.1 [00] Aktuell
+               |--036878_Klemmelement_MKS3001A_SV.1.1 [00] Aktuell
+            |--152955_Profilschiene_HGR30R_L3220 [00] Aktuell
+            |--152957_Adapterplatte_lang.01 [00] Aktuell (3)
+               |--152957_Adapterplatte_lang.01 [00] Aktuell
+               |--152957_Adapterplatte_lang.02 [00] Aktuell
+               |--152957_Adapterplatte_lang.03 [00] Aktuell
+            |--152958_Adapterplatte_kurz [00] Aktuell
+         |--286250_Lineareinheit_Auslauf_komplett.03 [00] Aktuell
+            |--000083_Zylinderschraube-M8x14_8.8-DIN912 [00] Aktuell (12)
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.1 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.1.1 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.1.2 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.2 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.2.1 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.2.2 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.3 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.3.1 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.3.2 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.4 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.5 [00] Aktuell
+            |--000091_Zylinderschraube-M8x40_8.8-DIN912 [00] Aktuell (41)
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.1 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.10 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.11 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.12 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.13 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.14 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.15 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.16 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.17 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.18 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.19 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.2 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.20 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.21 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.22 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.23 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.24 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.25 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.26 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.27 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.28 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.29 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.3 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.30 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.31 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.32 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.33 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.34 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.35 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.36 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.37 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.38 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.39 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.4 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.40 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.5 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.6 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.7 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.8 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.9 [00] Aktuell
+            |--000108_Zylinderschraube-M10x20_8.8-DIN912 [00] Aktuell (12)
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.1 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.1.1 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.1.2 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.2 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.2.1 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.2.2 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.3 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.3.1 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.3.2 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.4 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.5 [00] Aktuell
+            |--000299_Senkschraube-M10x25-DIN7991 [00] Aktuell (4)
+               |--000299_Senkschraube-M10x25-DIN7991 [00] Aktuell
+               |--000299_Senkschraube-M10x25-DIN7991.1 [00] Aktuell
+               |--000299_Senkschraube-M10x25-DIN7991.2 [00] Aktuell
+               |--000299_Senkschraube-M10x25-DIN7991.3 [00] Aktuell
+            |--000769_Sechskantmutter-M8-DIN934 [00] Aktuell (41)
+               |--000769_Sechskantmutter-M8-DIN934 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.1 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.10 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.11 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.12 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.13 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.14 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.15 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.16 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.17 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.18 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.19 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.2 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.20 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.21 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.22 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.23 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.24 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.25 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.26 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.27 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.28 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.29 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.3 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.30 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.31 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.32 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.33 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.34 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.35 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.36 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.37 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.38 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.39 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.4 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.40 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.5 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.6 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.7 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.8 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.9 [00] Aktuell
+            |--036382_Laufwagen_HGW30CCZ0H [00] Aktuell (4)
+               |--036382_Laufwagen_HGW30CCZ0H [00] Aktuell
+               |--036382_Laufwagen_HGW30CCZ0H.1 [00] Aktuell
+               |--036382_Laufwagen_HGW30CCZ0H.2 [00] Aktuell
+               |--036382_Laufwagen_HGW30CCZ0H.3 [00] Aktuell
+            |--036878_Klemmelement_MKS3001A_SV [00] Aktuell (3)
+               |--036878_Klemmelement_MKS3001A_SV [00] Aktuell
+               |--036878_Klemmelement_MKS3001A_SV.1 [00] Aktuell
+               |--036878_Klemmelement_MKS3001A_SV.1.1 [00] Aktuell
+            |--152955_Profilschiene_HGR30R_L3220 [00] Aktuell
+            |--152957_Adapterplatte_lang.01 [00] Aktuell (3)
+               |--152957_Adapterplatte_lang.01 [00] Aktuell
+               |--152957_Adapterplatte_lang.02 [00] Aktuell
+               |--152957_Adapterplatte_lang.03 [00] Aktuell
+            |--152958_Adapterplatte_kurz [00] Aktuell
+         |--286250_Lineareinheit_Auslauf_komplett.04 [00] Aktuell
+            |--000083_Zylinderschraube-M8x14_8.8-DIN912 [00] Aktuell (12)
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.1 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.1.1 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.1.2 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.2 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.2.1 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.2.2 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.3 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.3.1 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.3.2 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.4 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.5 [00] Aktuell
+            |--000091_Zylinderschraube-M8x40_8.8-DIN912 [00] Aktuell (41)
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.1 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.10 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.11 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.12 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.13 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.14 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.15 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.16 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.17 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.18 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.19 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.2 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.20 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.21 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.22 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.23 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.24 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.25 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.26 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.27 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.28 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.29 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.3 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.30 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.31 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.32 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.33 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.34 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.35 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.36 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.37 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.38 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.39 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.4 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.40 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.5 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.6 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.7 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.8 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.9 [00] Aktuell
+            |--000108_Zylinderschraube-M10x20_8.8-DIN912 [00] Aktuell (12)
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.1 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.1.1 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.1.2 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.2 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.2.1 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.2.2 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.3 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.3.1 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.3.2 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.4 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.5 [00] Aktuell
+            |--000299_Senkschraube-M10x25-DIN7991 [00] Aktuell (4)
+               |--000299_Senkschraube-M10x25-DIN7991 [00] Aktuell
+               |--000299_Senkschraube-M10x25-DIN7991.1 [00] Aktuell
+               |--000299_Senkschraube-M10x25-DIN7991.2 [00] Aktuell
+               |--000299_Senkschraube-M10x25-DIN7991.3 [00] Aktuell
+            |--000769_Sechskantmutter-M8-DIN934 [00] Aktuell (41)
+               |--000769_Sechskantmutter-M8-DIN934 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.1 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.10 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.11 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.12 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.13 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.14 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.15 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.16 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.17 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.18 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.19 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.2 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.20 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.21 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.22 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.23 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.24 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.25 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.26 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.27 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.28 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.29 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.3 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.30 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.31 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.32 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.33 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.34 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.35 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.36 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.37 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.38 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.39 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.4 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.40 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.5 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.6 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.7 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.8 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.9 [00] Aktuell
+            |--036382_Laufwagen_HGW30CCZ0H [00] Aktuell (4)
+               |--036382_Laufwagen_HGW30CCZ0H [00] Aktuell
+               |--036382_Laufwagen_HGW30CCZ0H.1 [00] Aktuell
+               |--036382_Laufwagen_HGW30CCZ0H.2 [00] Aktuell
+               |--036382_Laufwagen_HGW30CCZ0H.3 [00] Aktuell
+            |--036878_Klemmelement_MKS3001A_SV [00] Aktuell (3)
+               |--036878_Klemmelement_MKS3001A_SV [00] Aktuell
+               |--036878_Klemmelement_MKS3001A_SV.1 [00] Aktuell
+               |--036878_Klemmelement_MKS3001A_SV.1.1 [00] Aktuell
+            |--152955_Profilschiene_HGR30R_L3220 [00] Aktuell
+            |--152957_Adapterplatte_lang.01 [00] Aktuell (3)
+               |--152957_Adapterplatte_lang.01 [00] Aktuell
+               |--152957_Adapterplatte_lang.02 [00] Aktuell
+               |--152957_Adapterplatte_lang.03 [00] Aktuell
+            |--152958_Adapterplatte_kurz [00] Aktuell
+         |--286250_Lineareinheit_Auslauf_komplett.05 [00] Aktuell
+            |--000083_Zylinderschraube-M8x14_8.8-DIN912 [00] Aktuell (12)
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.1 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.1.1 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.1.2 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.2 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.2.1 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.2.2 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.3 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.3.1 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.3.2 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.4 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.5 [00] Aktuell
+            |--000091_Zylinderschraube-M8x40_8.8-DIN912 [00] Aktuell (41)
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.1 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.10 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.11 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.12 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.13 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.14 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.15 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.16 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.17 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.18 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.19 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.2 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.20 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.21 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.22 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.23 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.24 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.25 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.26 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.27 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.28 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.29 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.3 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.30 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.31 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.32 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.33 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.34 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.35 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.36 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.37 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.38 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.39 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.4 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.40 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.5 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.6 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.7 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.8 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.9 [00] Aktuell
+            |--000108_Zylinderschraube-M10x20_8.8-DIN912 [00] Aktuell (12)
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.1 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.1.1 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.1.2 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.2 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.2.1 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.2.2 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.3 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.3.1 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.3.2 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.4 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.5 [00] Aktuell
+            |--000299_Senkschraube-M10x25-DIN7991 [00] Aktuell (4)
+               |--000299_Senkschraube-M10x25-DIN7991 [00] Aktuell
+               |--000299_Senkschraube-M10x25-DIN7991.1 [00] Aktuell
+               |--000299_Senkschraube-M10x25-DIN7991.2 [00] Aktuell
+               |--000299_Senkschraube-M10x25-DIN7991.3 [00] Aktuell
+            |--000769_Sechskantmutter-M8-DIN934 [00] Aktuell (41)
+               |--000769_Sechskantmutter-M8-DIN934 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.1 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.10 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.11 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.12 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.13 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.14 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.15 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.16 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.17 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.18 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.19 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.2 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.20 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.21 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.22 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.23 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.24 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.25 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.26 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.27 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.28 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.29 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.3 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.30 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.31 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.32 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.33 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.34 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.35 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.36 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.37 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.38 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.39 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.4 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.40 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.5 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.6 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.7 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.8 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.9 [00] Aktuell
+            |--036382_Laufwagen_HGW30CCZ0H [00] Aktuell (4)
+               |--036382_Laufwagen_HGW30CCZ0H [00] Aktuell
+               |--036382_Laufwagen_HGW30CCZ0H.1 [00] Aktuell
+               |--036382_Laufwagen_HGW30CCZ0H.2 [00] Aktuell
+               |--036382_Laufwagen_HGW30CCZ0H.3 [00] Aktuell
+            |--036878_Klemmelement_MKS3001A_SV [00] Aktuell (3)
+               |--036878_Klemmelement_MKS3001A_SV [00] Aktuell
+               |--036878_Klemmelement_MKS3001A_SV.1 [00] Aktuell
+               |--036878_Klemmelement_MKS3001A_SV.1.1 [00] Aktuell
+            |--152955_Profilschiene_HGR30R_L3220 [00] Aktuell
+            |--152957_Adapterplatte_lang.01 [00] Aktuell (3)
+               |--152957_Adapterplatte_lang.01 [00] Aktuell
+               |--152957_Adapterplatte_lang.02 [00] Aktuell
+               |--152957_Adapterplatte_lang.03 [00] Aktuell
+            |--152958_Adapterplatte_kurz [00] Aktuell
+         |--286250_Lineareinheit_Auslauf_komplett.06 [00] Aktuell
+            |--000083_Zylinderschraube-M8x14_8.8-DIN912 [00] Aktuell (12)
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.1 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.1.1 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.1.2 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.2 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.2.1 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.2.2 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.3 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.3.1 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.3.2 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.4 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.5 [00] Aktuell
+            |--000091_Zylinderschraube-M8x40_8.8-DIN912 [00] Aktuell (41)
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.1 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.10 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.11 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.12 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.13 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.14 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.15 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.16 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.17 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.18 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.19 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.2 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.20 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.21 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.22 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.23 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.24 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.25 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.26 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.27 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.28 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.29 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.3 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.30 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.31 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.32 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.33 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.34 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.35 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.36 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.37 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.38 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.39 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.4 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.40 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.5 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.6 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.7 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.8 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.9 [00] Aktuell
+            |--000108_Zylinderschraube-M10x20_8.8-DIN912 [00] Aktuell (12)
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.1 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.1.1 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.1.2 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.2 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.2.1 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.2.2 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.3 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.3.1 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.3.2 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.4 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.5 [00] Aktuell
+            |--000299_Senkschraube-M10x25-DIN7991 [00] Aktuell (4)
+               |--000299_Senkschraube-M10x25-DIN7991 [00] Aktuell
+               |--000299_Senkschraube-M10x25-DIN7991.1 [00] Aktuell
+               |--000299_Senkschraube-M10x25-DIN7991.2 [00] Aktuell
+               |--000299_Senkschraube-M10x25-DIN7991.3 [00] Aktuell
+            |--000769_Sechskantmutter-M8-DIN934 [00] Aktuell (41)
+               |--000769_Sechskantmutter-M8-DIN934 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.1 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.10 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.11 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.12 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.13 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.14 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.15 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.16 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.17 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.18 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.19 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.2 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.20 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.21 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.22 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.23 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.24 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.25 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.26 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.27 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.28 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.29 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.3 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.30 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.31 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.32 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.33 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.34 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.35 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.36 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.37 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.38 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.39 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.4 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.40 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.5 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.6 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.7 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.8 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.9 [00] Aktuell
+            |--036382_Laufwagen_HGW30CCZ0H [00] Aktuell (4)
+               |--036382_Laufwagen_HGW30CCZ0H [00] Aktuell
+               |--036382_Laufwagen_HGW30CCZ0H.1 [00] Aktuell
+               |--036382_Laufwagen_HGW30CCZ0H.2 [00] Aktuell
+               |--036382_Laufwagen_HGW30CCZ0H.3 [00] Aktuell
+            |--036878_Klemmelement_MKS3001A_SV [00] Aktuell (3)
+               |--036878_Klemmelement_MKS3001A_SV [00] Aktuell
+               |--036878_Klemmelement_MKS3001A_SV.1 [00] Aktuell
+               |--036878_Klemmelement_MKS3001A_SV.1.1 [00] Aktuell
+            |--152955_Profilschiene_HGR30R_L3220 [00] Aktuell
+            |--152957_Adapterplatte_lang.01 [00] Aktuell (3)
+               |--152957_Adapterplatte_lang.01 [00] Aktuell
+               |--152957_Adapterplatte_lang.02 [00] Aktuell
+               |--152957_Adapterplatte_lang.03 [00] Aktuell
+            |--152958_Adapterplatte_kurz [00] Aktuell
+         |--286250_Lineareinheit_Auslauf_komplett.07 [00] Aktuell
+            |--000083_Zylinderschraube-M8x14_8.8-DIN912 [00] Aktuell (12)
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.1 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.1.1 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.1.2 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.2 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.2.1 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.2.2 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.3 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.3.1 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.3.2 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.4 [00] Aktuell
+               |--000083_Zylinderschraube-M8x14_8.8-DIN912.5 [00] Aktuell
+            |--000091_Zylinderschraube-M8x40_8.8-DIN912 [00] Aktuell (41)
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.1 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.10 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.11 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.12 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.13 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.14 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.15 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.16 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.17 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.18 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.19 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.2 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.20 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.21 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.22 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.23 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.24 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.25 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.26 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.27 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.28 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.29 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.3 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.30 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.31 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.32 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.33 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.34 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.35 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.36 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.37 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.38 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.39 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.4 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.40 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.5 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.6 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.7 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.8 [00] Aktuell
+               |--000091_Zylinderschraube-M8x40_8.8-DIN912.9 [00] Aktuell
+            |--000108_Zylinderschraube-M10x20_8.8-DIN912 [00] Aktuell (12)
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.1 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.1.1 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.1.2 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.2 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.2.1 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.2.2 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.3 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.3.1 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.3.2 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.4 [00] Aktuell
+               |--000108_Zylinderschraube-M10x20_8.8-DIN912.5 [00] Aktuell
+            |--000299_Senkschraube-M10x25-DIN7991 [00] Aktuell (4)
+               |--000299_Senkschraube-M10x25-DIN7991 [00] Aktuell
+               |--000299_Senkschraube-M10x25-DIN7991.1 [00] Aktuell
+               |--000299_Senkschraube-M10x25-DIN7991.2 [00] Aktuell
+               |--000299_Senkschraube-M10x25-DIN7991.3 [00] Aktuell
+            |--000769_Sechskantmutter-M8-DIN934 [00] Aktuell (41)
+               |--000769_Sechskantmutter-M8-DIN934 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.1 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.10 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.11 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.12 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.13 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.14 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.15 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.16 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.17 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.18 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.19 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.2 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.20 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.21 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.22 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.23 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.24 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.25 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.26 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.27 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.28 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.29 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.3 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.30 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.31 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.32 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.33 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.34 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.35 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.36 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.37 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.38 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.39 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.4 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.40 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.5 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.6 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.7 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.8 [00] Aktuell
+               |--000769_Sechskantmutter-M8-DIN934.9 [00] Aktuell
+            |--036382_Laufwagen_HGW30CCZ0H [00] Aktuell (4)
+               |--036382_Laufwagen_HGW30CCZ0H [00] Aktuell
+               |--036382_Laufwagen_HGW30CCZ0H.1 [00] Aktuell
+               |--036382_Laufwagen_HGW30CCZ0H.2 [00] Aktuell
+               |--036382_Laufwagen_HGW30CCZ0H.3 [00] Aktuell
+            |--036878_Klemmelement_MKS3001A_SV [00] Aktuell (3)
+               |--036878_Klemmelement_MKS3001A_SV [00] Aktuell
+               |--036878_Klemmelement_MKS3001A_SV.1 [00] Aktuell
+               |--036878_Klemmelement_MKS3001A_SV.1.1 [00] Aktuell
+            |--152955_Profilschiene_HGR30R_L3220 [00] Aktuell
+            |--152957_Adapterplatte_lang.01 [00] Aktuell (3)
+               |--152957_Adapterplatte_lang.01 [00] Aktuell
+               |--152957_Adapterplatte_lang.02 [00] Aktuell
+               |--152957_Adapterplatte_lang.03 [00] Aktuell
+            |--152958_Adapterplatte_kurz [00] Aktuell
+   |--286270_Palettenwagen_komplett [00] Aktuell
+      |--Schnittelement1
+      |--152994_Bodenblech_1_Palettenwagen.01 [00] Aktuell (4)
+         |--152994_Bodenblech_1_Palettenwagen.01 [00] Aktuell
+         |--152994_Bodenblech_1_Palettenwagen.02 [00] Aktuell
+         |--152994_Bodenblech_1_Palettenwagen.03 [00] Aktuell
+         |--152994_Bodenblech_1_Palettenwagen.04 [00] Aktuell
+      |--152995_Bodenblech_2_Palettenwagen.01 [00] Aktuell (4)
+         |--152995_Bodenblech_2_Palettenwagen.01 [00] Aktuell
+         |--152995_Bodenblech_2_Palettenwagen.02 [00] Aktuell
+         |--152995_Bodenblech_2_Palettenwagen.03 [00] Aktuell
+         |--152995_Bodenblech_2_Palettenwagen.04 [00] Aktuell
+      |--152996_Bodenblech_3_Palettenwagen.01 [00] Aktuell (2)
+         |--152996_Bodenblech_3_Palettenwagen.01 [00] Aktuell
+         |--152996_Bodenblech_3_Palettenwagen.02 [00] Aktuell
+      |--152997_Bodenblech_4_Palettenwagen.01 [00] Aktuell (2)
+         |--152997_Bodenblech_4_Palettenwagen.01 [00] Aktuell
+         |--152997_Bodenblech_4_Palettenwagen.02 [00] Aktuell
+      |--286280_Abtafelwagen_Verstellebene_komplett [00] Aktuell
+         |--286280-01_Plattform [00] Aktuell
+            |--152979_Schweissteil_Platte_aussen.01 [00] Aktuell (2)
+               |--152979_Schweissteil_Platte_aussen.01 [00] Aktuell
+                  |--152979 [] 
+                  |--152981_Fuehrungsleiste [00] Aktuell
+                  |--152982_Platte_1_aussen [00] Aktuell
+                  |--152983_Platte_2_aussen [00] Aktuell
+               |--152979_Schweissteil_Platte_aussen.02 [00] Aktuell
+                  |--152979 [] 
+                  |--152981_Fuehrungsleiste [00] Aktuell
+                  |--152982_Platte_1_aussen [00] Aktuell
+                  |--152983_Platte_2_aussen [00] Aktuell
+            |--152984_Schweissteil_Platte_innen_1 [00] Aktuell
+               |--152984 [] 
+               |--152981_Fuehrungsleiste [00] Aktuell
+               |--152986_Platte_1_innen_1 [00] Aktuell
+               |--152987_Platte_2_innen_1 [00] Aktuell
+            |--152985_Schweissteil_Platte_innen_2 [00] Aktuell
+               |--152985_Schweissteil_Platte_innen_2.1 [] 
+               |--152981_Fuehrungsleiste [00] Aktuell
+               |--152988_Platte_1_innen1 [00] Aktuell
+               |--152989_Platte_2_innen2 [00] Aktuell
+            |--152991_Platte_3.01 [00] Aktuell (2)
+               |--152991_Platte_3.01 [00] Aktuell
+               |--152991_Platte_3.02 [00] Aktuell
+         |--286290_Antrieb [00] Aktuell
+            |--148725_Motorsteuerung_COM1_US [00] Aktuell
+            |--149491_Linearantrieb_200_S_300mm-Hub [00] Aktuell
+               |--160er-Rohr_Standard [00] 
+               |--Adapter_200er_niedriges_Niveau [00] 
+               |--Anlaufschraube_Standard [00] 
+               |--Buchse_Katalog [00]  (2)
+                  |--Buchse_Katalog [00] 
+                  |--Buchse_Katalog.1 [00] 
+               |--Buchse_Katalog_gross [00]  (2)
+                  |--Buchse_Katalog_gross [00] 
+                  |--Buchse_Katalog_gross.1 [00] 
+               |--DIN_912_M5_x_8_---_8N_DIN_912_M5_x_8_---_8N [00]  (4)
+                  |--DIN_912_M5_x_8_---_8N_DIN_912_M5_x_8_---_8N [00] 
+                  |--DIN_912_M5_x_8_---_8N_DIN_912_M5_x_8_---_8N.1 [00] 
+                  |--DIN_912_M5_x_8_---_8N_DIN_912_M5_x_8_---_8N.2 [00] 
+                  |--DIN_912_M5_x_8_---_8N_DIN_912_M5_x_8_---_8N.3 [00] 
+               |--Getriebedeckel_200er_200_S [00] 
+               |--Getriebegehäuse_200er_Standard [00] 
+               |--ISO_4018_-_M5_x_25-NN_ISO_4018_-_M5_x_25-NN [00]  (2)
+                  |--ISO_4018_-_M5_x_25-NN_ISO_4018_-_M5_x_25-NN [00] 
+                  |--ISO_4018_-_M5_x_25-NN_ISO_4018_-_M5_x_25-NN.1 [00] 
+               |--Kabel_für_mit_Hallgeber_Standard [00] 
+               |--Schubrohrabdichtung_Standard [00] 
+               |--Schubstange_Standard.1 [00] 
+               |--Schubstange_kpl._Standard [00] 
+                  |--DIN_913_Madenschraube_M6_x_6 [00]  (2)
+                     |--DIN_913_Madenschraube_M6_x_6 [00] 
+                     |--DIN_913_Madenschraube_M6_x_6.1 [00] 
+                  |--Mutter_Standard [00] 
+               |--Stecker_mit_Halterung_ohne_Kabel [00] 
+               |--motor_drhm_59er_Standard [00] 
+               |--prevailing_torque_nut_style_2_DIN_DIN_EN_ISO_7042_-_M5_-_N [00]  (2)
+                  |--prevailing_torque_nut_style_2_DIN_DIN_EN_ISO_7042_-_M5_-_N [00] 
+                  |--prevailing_torque_nut_style_2_DIN_DIN_EN_ISO_7042_-_M5_-_N.1 [00] 
+            |--152992_Aufnahme_Antrieb [00] Aktuell
+            |--152993_Mitnehmer_Antrieb [00] Aktuell
+|--286310_Versch-vor_Ort_komplett [00] Aktuell
+   |--042866_Bolzenanker_M16x150.2.3.1.1.1.1 [00] Aktuell (8)
+      |--042866_Bolzenanker_M16x150.2.3.1.1.1.1 [00] Aktuell
+      |--042866_Bolzenanker_M16x150.2.3.1.1.1.10 [00] Aktuell
+      |--042866_Bolzenanker_M16x150.2.3.1.1.1.2 [00] Aktuell
+      |--042866_Bolzenanker_M16x150.2.3.1.1.1.2.1 [00] Aktuell
+      |--042866_Bolzenanker_M16x150.2.3.1.1.1.2.2 [00] Aktuell
+      |--042866_Bolzenanker_M16x150.2.3.1.1.1.2.3 [00] Aktuell
+      |--042866_Bolzenanker_M16x150.2.3.1.1.1.2.4 [00] Aktuell
+      |--042866_Bolzenanker_M16x150.2.3.1.1.1.3 [00] Aktuell
+   |--286310-01_Klein-Palettenwagen [00] Aktuell (2)
+      |--286310-01_Klein-Palettenwagen [00] Aktuell
+         |--000018_Zylinderschraube-M4x12_8.8-DIN912 [00] Aktuell (2)
+            |--000018_Zylinderschraube-M4x12_8.8-DIN912 [00] Aktuell
+            |--000018_Zylinderschraube-M4x12_8.8-DIN912.1 [00] Aktuell
+         |--000379_Scheibe-M4-DIN125 [00] Aktuell (2)
+            |--000379_Scheibe-M4-DIN125 [00] Aktuell
+            |--000379_Scheibe-M4-DIN125.1 [00] Aktuell
+         |--000696_Sechskantschraube-M8x18-DIN933 [00] Aktuell (2)
+            |--000696_Sechskantschraube-M8x18-DIN933 [00] Aktuell
+            |--000696_Sechskantschraube-M8x18-DIN933.1 [00] Aktuell
+         |--000746_Sechskantschraube_DIN_933-M12x25--bla [0] Aktuell (4)
+            |--000746_Sechskantschraube_DIN_933-M12x25--bla [0] Aktuell
+            |--000746_Sechskantschraube_DIN_933-M12x25--bla.1 [0] Aktuell
+            |--000746_Sechskantschraube_DIN_933-M12x25--bla.2 [0] Aktuell
+            |--000746_Sechskantschraube_DIN_933-M12x25--bla.3 [0] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.11.1 [00] Aktuell (36)
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.1 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.10 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.11 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.12 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.13 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.14 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.15 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.16 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.17 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.18 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.19 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.2 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.20 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.21 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.22 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.23 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.24 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.25 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.26 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.27 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.28 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.29 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.3 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.30 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.31 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.32 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.33 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.34 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.35 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.4 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.5 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.6 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.7 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.8 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.9 [00] Aktuell
+         |--158640-01_M12x40 [00] Aktuell (56)
+            |--158640-01_M12x40 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.1.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.10 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.10.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.11 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.11.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.12 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.12.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.13 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.13.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.14 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.14.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.15 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.15.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.16 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.16.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.17 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.17.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.18 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.18.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.19 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.19.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.2 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.2.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.20 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.20.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.21 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.21.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.22 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.22.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.23 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.23.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.24 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.24.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.25 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.25.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.26 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.26.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.27 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.27.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.28 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.3 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.3.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.4 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.4.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.5 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.5.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.6 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.6.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.7 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.7.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.8 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.8.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.9 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.9.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+      |--286310-01_Klein-Palettenwagen.1 [00] Aktuell
+         |--000018_Zylinderschraube-M4x12_8.8-DIN912 [00] Aktuell (2)
+            |--000018_Zylinderschraube-M4x12_8.8-DIN912 [00] Aktuell
+            |--000018_Zylinderschraube-M4x12_8.8-DIN912.1 [00] Aktuell
+         |--000379_Scheibe-M4-DIN125 [00] Aktuell (2)
+            |--000379_Scheibe-M4-DIN125 [00] Aktuell
+            |--000379_Scheibe-M4-DIN125.1 [00] Aktuell
+         |--000696_Sechskantschraube-M8x18-DIN933 [00] Aktuell (2)
+            |--000696_Sechskantschraube-M8x18-DIN933 [00] Aktuell
+            |--000696_Sechskantschraube-M8x18-DIN933.1 [00] Aktuell
+         |--000746_Sechskantschraube_DIN_933-M12x25--bla [0] Aktuell (4)
+            |--000746_Sechskantschraube_DIN_933-M12x25--bla [0] Aktuell
+            |--000746_Sechskantschraube_DIN_933-M12x25--bla.1 [0] Aktuell
+            |--000746_Sechskantschraube_DIN_933-M12x25--bla.2 [0] Aktuell
+            |--000746_Sechskantschraube_DIN_933-M12x25--bla.3 [0] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.11.1 [00] Aktuell (36)
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.1 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.10 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.11 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.12 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.13 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.14 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.15 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.16 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.17 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.18 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.19 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.2 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.20 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.21 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.22 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.23 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.24 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.25 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.26 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.27 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.28 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.29 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.3 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.30 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.31 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.32 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.33 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.34 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.35 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.4 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.5 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.6 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.7 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.8 [00] Aktuell
+            |--077807_Linsenschraube_mit_Flansch_M6x20.11.1.9 [00] Aktuell
+         |--158640-01_M12x40 [00] Aktuell (56)
+            |--158640-01_M12x40 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.1.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.10 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.10.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.11 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.11.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.12 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.12.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.13 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.13.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.14 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.14.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.15 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.15.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.16 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.16.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.17 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.17.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.18 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.18.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.19 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.19.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.2 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.2.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.20 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.20.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.21 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.21.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.22 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.22.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.23 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.23.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.24 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.24.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.25 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.25.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.26 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.26.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.27 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.27.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.28 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.3 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.3.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.4 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.4.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.5 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.5.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.6 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.6.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.7 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.7.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.8 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.8.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.9 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+            |--158640-01_M12x40.9.1 [00] Aktuell
+               |--000750_Sechskantschraube-M12x40-DIN933 [00] Aktuell
+               |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+   |--286310-02_Energiekette [00] Aktuell
+      |--000037_Zylinderschraube-M5x14_8 [01] Aktuell (8)
+         |--000037_Zylinderschraube-M5x14_8 [01] Aktuell
+         |--000037_Zylinderschraube-M5x14_8.1 [01] Aktuell
+         |--000037_Zylinderschraube-M5x14_8.1.1 [01] Aktuell
+         |--000037_Zylinderschraube-M5x14_8.2 [01] Aktuell
+         |--000037_Zylinderschraube-M5x14_8.2.1 [01] Aktuell
+         |--000037_Zylinderschraube-M5x14_8.3 [01] Aktuell
+         |--000037_Zylinderschraube-M5x14_8.3.1 [01] Aktuell
+         |--000037_Zylinderschraube-M5x14_8.4 [01] Aktuell
+      |--000059_Zylinderschraube-M6x16_8.8-DIN912 [00] Aktuell (3)
+         |--000059_Zylinderschraube-M6x16_8.8-DIN912 [00] Aktuell
+         |--000059_Zylinderschraube-M6x16_8.8-DIN912.1 [00] Aktuell
+         |--000059_Zylinderschraube-M6x16_8.8-DIN912.2 [00] Aktuell
+   |--286310-03_Unterbau [00] Aktuell
+      |--000272_Senkschraube-M6x20-DIN7991 [00] Aktuell (8)
+         |--000272_Senkschraube-M6x20-DIN7991 [00] Aktuell
+         |--000272_Senkschraube-M6x20-DIN7991.1 [00] Aktuell
+         |--000272_Senkschraube-M6x20-DIN7991.2 [00] Aktuell
+         |--000272_Senkschraube-M6x20-DIN7991.3 [00] Aktuell
+         |--000272_Senkschraube-M6x20-DIN7991.4 [00] Aktuell
+         |--000272_Senkschraube-M6x20-DIN7991.5 [00] Aktuell
+         |--000272_Senkschraube-M6x20-DIN7991.6 [00] Aktuell
+         |--000272_Senkschraube-M6x20-DIN7991.7 [00] Aktuell
+      |--000752_Sechskantschraube-M12x50-DIN933 [00] Aktuell (112)
+         |--000752_Sechskantschraube-M12x50-DIN933 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.1.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.10 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.10.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.11 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.11.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.12 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.12.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.13 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.13.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.14 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.14.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.15 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.15.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.16 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.16.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.17 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.17.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.18 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.18.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.19 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.19.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.2 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.2.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.20 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.20.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.21 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.21.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.22 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.22.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.23 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.23.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.24 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.24.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.25 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.25.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.26 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.26.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.27 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.27.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.28 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.28.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.29 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.29.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.3 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.3.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.30 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.30.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.31 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.31.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.32 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.32.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.33 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.33.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.34 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.34.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.35 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.35.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.36 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.36.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.37 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.37.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.38 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.38.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.39 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.39.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.4 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.4.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.40 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.40.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.41 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.41.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.42 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.42.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.43 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.43.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.44 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.44.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.45 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.45.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.46 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.46.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.47 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.47.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.48 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.48.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.49 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.49.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.5 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.5.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.50 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.50.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.51 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.51.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.52 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.52.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.53 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.53.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.54 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.54.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.55 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.55.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.56 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.6 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.6.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.7 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.7.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.8 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.8.1 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.9 [00] Aktuell
+         |--000752_Sechskantschraube-M12x50-DIN933.9.1 [00] Aktuell
+      |--000771_Sechskantmutter-M12-DIN934 [01] Aktuell (112)
+         |--000771_Sechskantmutter-M12-DIN934 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.1.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.10 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.10.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.11 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.11.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.12 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.12.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.13 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.13.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.14 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.14.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.15 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.15.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.16 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.16.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.17 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.17.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.18 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.18.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.19 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.19.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.2 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.2.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.20 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.20.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.21 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.21.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.22 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.22.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.23 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.23.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.24 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.24.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.25 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.25.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.26 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.26.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.27 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.27.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.28 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.28.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.29 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.29.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.3 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.3.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.30 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.30.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.31 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.31.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.32 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.32.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.33 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.33.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.34 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.34.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.35 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.35.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.36 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.36.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.37 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.37.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.38 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.38.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.39 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.39.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.4 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.4.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.40 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.40.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.41 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.41.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.42 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.42.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.43 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.43.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.44 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.44.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.45 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.45.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.46 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.46.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.47 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.47.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.48 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.48.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.49 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.49.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.5 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.5.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.50 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.50.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.51 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.51.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.52 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.52.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.53 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.53.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.54 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.54.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.55 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.55.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.56 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.6 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.6.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.7 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.7.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.8 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.8.1 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.9 [01] Aktuell
+         |--000771_Sechskantmutter-M12-DIN934.9.1 [01] Aktuell
+      |--042866_Bolzenanker_M16x150.2.3.1.1.1.1 [00] Aktuell (120)
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.1.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.1.1.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.1.2 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.2.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.2.1.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.20.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.20.1.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.20.2 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.20.2.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.20.3 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.20.3.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.20.4 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.20.4.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.21.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.21.1.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.21.2 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.21.2.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.21.3 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.21.3.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.21.4 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.21.4.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.22.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.22.1.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.22.2 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.22.2.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.22.3 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.22.3.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.22.4 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.22.4.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.23.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.23.1.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.23.2 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.23.2.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.23.3 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.23.3.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.23.4 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.23.4.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.24.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.24.1.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.24.2 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.24.2.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.24.3 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.24.3.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.24.4 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.24.4.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.25.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.25.1.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.25.2 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.25.2.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.25.3 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.25.3.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.25.4 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.25.4.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.26.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.26.1.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.26.2 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.26.2.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.26.3 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.26.3.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.26.4 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.26.4.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.27.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.27.1.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.27.2 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.27.2.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.27.3 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.27.3.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.27.4 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.27.4.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.28.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.28.1.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.28.2 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.28.2.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.28.3 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.28.3.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.28.4 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.28.4.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.29.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.29.1.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.29.2 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.29.2.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.29.3 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.29.3.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.29.4 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.29.4.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.3.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.3.1.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.30.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.30.1.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.31.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.31.1.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.32.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.32.1.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.33.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.33.1.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.34.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.34.1.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.35.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.35.1.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.36.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.36.1.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.37.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.37.1.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.38.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.38.1.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.39.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.39.1.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.4.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.4.1.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.5.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.5.1.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.6.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.6.1.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.7.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.7.1.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.8.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.8.1.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.9.1 [00] Aktuell
+         |--042866_Bolzenanker_M16x150.2.3.1.1.1.9.1.1 [00] Aktuell
+   |--286310-04_Palettenwagen [00] Aktuell
+      |--000375_Gewindestift-M12x25-DIN916 [00] Aktuell (8)
+         |--000375_Gewindestift-M12x25-DIN916 [00] Aktuell
+         |--000375_Gewindestift-M12x25-DIN916.1 [00] Aktuell
+         |--000375_Gewindestift-M12x25-DIN916.2 [00] Aktuell
+         |--000375_Gewindestift-M12x25-DIN916.3 [00] Aktuell
+         |--000375_Gewindestift-M12x25-DIN916.4 [00] Aktuell
+         |--000375_Gewindestift-M12x25-DIN916.5 [00] Aktuell
+         |--000375_Gewindestift-M12x25-DIN916.6 [00] Aktuell
+         |--000375_Gewindestift-M12x25-DIN916.7 [00] Aktuell
+      |--077807_Linsenschraube_mit_Flansch_M6x20 [00] Aktuell (108)
+         |--077807_Linsenschraube_mit_Flansch_M6x20 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.1 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.10 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.100 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.101 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.102 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.103 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.104 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.105 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.106 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.107 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.11 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.12 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.13 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.14 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.15 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.16 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.17 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.18 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.19 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.2 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.20 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.21 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.22 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.23 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.24 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.25 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.26 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.27 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.28 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.29 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.3 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.30 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.31 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.32 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.33 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.34 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.35 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.36 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.37 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.38 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.39 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.4 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.40 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.41 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.42 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.43 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.44 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.45 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.46 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.47 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.48 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.49 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.5 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.50 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.51 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.52 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.53 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.54 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.55 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.56 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.57 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.58 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.59 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.6 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.60 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.61 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.62 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.63 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.64 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.65 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.66 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.67 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.68 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.69 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.7 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.70 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.71 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.72 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.73 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.74 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.75 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.76 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.77 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.78 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.79 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.8 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.80 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.81 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.82 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.83 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.84 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.85 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.86 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.87 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.88 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.89 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.9 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.90 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.91 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.92 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.93 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.94 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.95 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.96 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.97 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.98 [00] Aktuell
+         |--077807_Linsenschraube_mit_Flansch_M6x20.99 [00] Aktuell
+      |--153051_Gewindestift-M12x35-DIN916.1 [00] Aktuell (40)
+         |--153051_Gewindestift-M12x35-DIN916.1 [00] Aktuell
+         |--153051_Gewindestift-M12x35-DIN916.10 [00] Aktuell
+         |--153051_Gewindestift-M12x35-DIN916.11 [00] Aktuell
+         |--153051_Gewindestift-M12x35-DIN916.12 [00] Aktuell
+         |--153051_Gewindestift-M12x35-DIN916.13 [00] Aktuell
+         |--153051_Gewindestift-M12x35-DIN916.13.1 [00] Aktuell
+         |--153051_Gewindestift-M12x35-DIN916.13.10 [00] Aktuell
+         |--153051_Gewindestift-M12x35-DIN916.13.11 [00] Aktuell
+         |--153051_Gewindestift-M12x35-DIN916.13.12 [00] Aktuell
+         |--153051_Gewindestift-M12x35-DIN916.13.13 [00] Aktuell
+         |--153051_Gewindestift-M12x35-DIN916.13.14 [00] Aktuell
+         |--153051_Gewindestift-M12x35-DIN916.13.15 [00] Aktuell
+         |--153051_Gewindestift-M12x35-DIN916.13.16 [00] Aktuell
+         |--153051_Gewindestift-M12x35-DIN916.13.17 [00] Aktuell
+         |--153051_Gewindestift-M12x35-DIN916.13.18 [00] Aktuell
+         |--153051_Gewindestift-M12x35-DIN916.13.19 [00] Aktuell
+         |--153051_Gewindestift-M12x35-DIN916.13.2 [00] Aktuell
+         |--153051_Gewindestift-M12x35-DIN916.13.20 [00] Aktuell
+         |--153051_Gewindestift-M12x35-DIN916.13.21 [00] Aktuell
+         |--153051_Gewindestift-M12x35-DIN916.13.22 [00] Aktuell
+         |--153051_Gewindestift-M12x35-DIN916.13.23 [00] Aktuell
+         |--153051_Gewindestift-M12x35-DIN916.13.24 [00] Aktuell
+         |--153051_Gewindestift-M12x35-DIN916.13.25 [00] Aktuell
+         |--153051_Gewindestift-M12x35-DIN916.13.26 [00] Aktuell
+         |--153051_Gewindestift-M12x35-DIN916.13.27 [00] Aktuell
+         |--153051_Gewindestift-M12x35-DIN916.13.3 [00] Aktuell
+         |--153051_Gewindestift-M12x35-DIN916.13.4 [00] Aktuell
+         |--153051_Gewindestift-M12x35-DIN916.13.5 [00] Aktuell
+         |--153051_Gewindestift-M12x35-DIN916.13.6 [00] Aktuell
+         |--153051_Gewindestift-M12x35-DIN916.13.7 [00] Aktuell
+         |--153051_Gewindestift-M12x35-DIN916.13.8 [00] Aktuell
+         |--153051_Gewindestift-M12x35-DIN916.13.9 [00] Aktuell
+         |--153051_Gewindestift-M12x35-DIN916.2 [00] Aktuell
+         |--153051_Gewindestift-M12x35-DIN916.3 [00] Aktuell
+         |--153051_Gewindestift-M12x35-DIN916.4 [00] Aktuell
+         |--153051_Gewindestift-M12x35-DIN916.5 [00] Aktuell
+         |--153051_Gewindestift-M12x35-DIN916.6 [00] Aktuell
+         |--153051_Gewindestift-M12x35-DIN916.7 [00] Aktuell
+         |--153051_Gewindestift-M12x35-DIN916.8 [00] Aktuell
+         |--153051_Gewindestift-M12x35-DIN916.9 [00] Aktuell
+   |--286310-05_Fahrantrieb [00] Aktuell
+      |--000383_Scheibe-M8-DIN125 [01] Aktuell (2)
+         |--000383_Scheibe-M8-DIN125 [01] Aktuell
+         |--000383_Scheibe-M8-DIN125.1 [01] Aktuell
+      |--000699_Sechskantschraube-M8x25-DIN933 [00] Aktuell (2)
+         |--000699_Sechskantschraube-M8x25-DIN933 [00] Aktuell
+         |--000699_Sechskantschraube-M8x25-DIN933.1 [00] Aktuell
+   |--286310-06_Grundrahmen [00] Aktuell
+      |--158650-02_M16x60 [00] Aktuell (56)
+         |--158650-02_M16x60 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.1 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.1.1 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.10 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.10.1 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.11 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.11.1 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.12 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.12.1 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.13 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.13.1 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.14 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.14.1 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.15 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.15.1 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.16 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.16.1 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.17 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.17.1 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.18 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.18.1 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.19 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.19.1 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.2 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.2.1 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.20 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.3 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.3.1 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.4 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.4.1 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.4.1.1 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.4.1.1.1 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.4.2 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.4.2.1 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.5 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.5.1 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.5.1.1 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.5.1.1.1 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.5.2 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.5.2.1 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.6 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.6.1 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.6.1.1 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.6.1.1.1 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.6.2 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.6.2.1 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.7 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.7.1 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.7.1.1 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.7.1.1.1 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.7.2 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.7.2.1 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.8 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.8.1 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.9 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell
+         |--158650-02_M16x60.9.1 [00] Aktuell
+            |--000773_Sechskantmutter-M16-DIN934.04.1 [00] Aktuell
+            |--015148_Sechskantschraube-M16x60-DIN933.04.1 [00] Aktuell

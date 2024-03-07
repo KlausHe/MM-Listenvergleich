@@ -181,7 +181,7 @@ label[for]:hover {
 }
 
 fieldset {
-	width: var(--UIWidth18);
+	width: var(--UIWidth20);
 	padding: var(--padding);
 	border: var(--borderThin);
 	border-radius: var(--UIRadius);

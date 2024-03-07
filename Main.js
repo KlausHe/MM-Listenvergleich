@@ -26,12 +26,9 @@ function mainSetup() {
 	KadUtils.daEL(idCB_ignoreRawmaterial, "change", ignoreRawmaterialFilter);
 	stateDashZero = KadUtils.KadDOM.resetInput(idCB_dashZero, true);
 	KadUtils.daEL(idCB_dashZero, "change", dashZeroFilter);
-	stateDashOnly = KadUtils.KadDOM.resetInput(idCB_dashOnly, false);
-	KadUtils.daEL(idCB_dashOnly, "change", dashOnlyFilter);
 
-	populateTokenList();
 	KadUtils.KadDOM.resetInput(idArea_tokenfilter, "zusätzliche Schlagwörter");
-	KadUtils.dbID(idLbl_tokenfilter).textContent = "...";
+	KadUtils.dbID(idLbl_tokenfilter).textContent = "Keine zusätzlichen Token eingegeben!";
 	KadUtils.daEL(idArea_tokenfilter, "input", getcustomToken);
 
 	KadUtils.dbID(idLbl_filteredSOU).textContent = "...";
@@ -44,15 +41,20 @@ function mainSetup() {
 	KadUtils.dbID(idLbl_fileName).textContent = `*.xlsx`;
 	KadUtils.daEL(idVin_fileName, "input", setFileNameFromInput);
 	KadUtils.KadDOM.enableBtn(idBtn_download, false);
+
+	populateTokenList(idUL_SOU, ulInfoSOU);
+	populateTokenList(idUL_CAD, ulInfoCAD);
+	populateTokenList(idUL_filter, ulInfFilter);
+	populateTokenList(idUL_tokenfilterList, [...Tokenlist[0], ...Tokenlist[2]]);
 }
 
 let customNumbers = null;
 let stateDashZero;
-let stateDashOnly;
 let stateIgnoreAssembly;
 let stateIgnoreRawmaterial;
-let nameAssembly = "Baugruppe";
-let nameRawmaterial = "Rohmaterial";
+const nameAssembly = "Baugruppe";
+const thresholdNumberAssembly = 9990;
+const nameRawmaterial = "Rohmaterial";
 
 const mmID = "ArtikelNr";
 const count = "Menge";
@@ -60,6 +62,12 @@ const name = "Bezeichnung";
 const partFamily = "ArtikelTeileFamilie";
 const foundInSOU = "im SOU";
 const foundInCAD = "im CAD";
+
+const ulInfoSOU = ["Stückliste der Baugruppe aufrufen", "Reporte -> Mengenstückliste", "In Zwischenablage speichern", "Neue Excel-Datei öffnen", "Zwischenablage in Zelle A1 kopieren", "Mit beliebigem Namen speichern", "Der Dateiname wird für die Vergleichsdatei verwendet"];
+const ulInfoCAD = ["Baugruppe ins CAD laden", `Baugruppe als "Root" oder alles andere löschen`, "RMT in Strukturliste auf freien Bereich", `"Einstellung" -> "Erweitern"`, `Alles außer "Pseudobaugruppe" deaktivieren -> "OK"`, "RMT in Strukturliste auf freien Bereich", `"Aktion" -> "Baum schreiben"`, "Datei als .txt speichern"];
+const ulInfFilter = [`"Baugruppen ignorieren" filtert im SOU nur nach Teilefamilie, nicht nach MM-Nummer`, `Baugruppen werden erst ab MM-Nummer ${thresholdNumberAssembly} ignoriert`, `"-0..." ignoriert alle Teile, die direkt nach der MM-Nummer ein "-0" besitzen: 264610-01_Controller`];
+
+const Tokenlist = [["bearb", "bearbeitet", "Trennsteg", "Näherungsschalter"], [], [], []]; // fix Tokenx, userInput-Tokens, fix Numbers, userInput-Numbers
 
 const filename = {
 	book: "",
@@ -112,9 +120,10 @@ function openInfoCAD() {
 function closeInfoCAD() {
 	KadUtils.dbID(idDia_CAD).close();
 }
-function populateTokenList() {
-	let ulParent = KadUtils.dbID(idUL_tokenfilterList);
-	for (let token of Tokenlist[0]) {
+
+function populateTokenList(parentID, list) {
+	let ulParent = KadUtils.dbID(parentID);
+	for (let token of list) {
 		const li = document.createElement("li");
 		li.append(token);
 		ulParent.append(li);
@@ -124,15 +133,23 @@ function populateTokenList() {
 function getcustomToken(event) {
 	let results = event.target.value;
 	Tokenlist[1] = results.match(/[A-z]+/g);
-	if (Tokenlist[1] == null) {
-		KadUtils.dbID(idLbl_tokenfilter).textContent = "...";
-		Tokenlist[1] = [];
+	Tokenlist[3] = results.match(/\d{6}/g);
+	let text = "";
+	if (Tokenlist[1] == null && Tokenlist[3] == null) {
+		KadUtils.dbID(idLbl_tokenfilter).innerHTML = "Keine zusätzlichen Token erkannt!";
 		return;
 	}
 
-	let text = `Token erkannt:<br>`;
-	text += Tokenlist[1].join("<br>");
+	if (Tokenlist[1] != null) {
+		text = `Token erkannt:<br>`;
+		text += Tokenlist[1].join("<br>");
+	}
 
+	if (Tokenlist[3] != null) {
+		if (Tokenlist[1] != null) text += "<br>";
+		text += `MM-Nummer erkannt:<br>`;
+		text += Tokenlist[3].join("<br>");
+	}
 	KadUtils.dbID(idLbl_tokenfilter).innerHTML = text;
 }
 function getcustomNumbers(event) {
@@ -157,10 +174,6 @@ function getcustomNumbers(event) {
 
 function dashZeroFilter(event) {
 	stateDashZero = event.target.checked;
-	refreshParsing();
-}
-function dashOnlyFilter(event) {
-	stateDashOnly = event.target.checked;
 	refreshParsing();
 }
 function ignoreAssemblyFilter(event) {
@@ -267,6 +280,7 @@ function parseFileText() {
 		if (text.trim().substring(0, 3) === "|--") text = text.trimStart().slice(3); // remove "|--"
 		let id = Number(text.slice(0, 6)); // get MM-Nummer
 		if (Number.isNaN(id)) continue; // ignore MM-Nummer is NaN
+		if (cleanParentheses(text)) continue; // ignore drawings and exemplares
 
 		text = text.replace(/^\d{6}_?/, ""); // remove MM-Nummer and _
 		text = text.split("[")[0].trim(); // remove trailing [xx]
@@ -299,7 +313,6 @@ function parseFileText() {
 
 		text = text.replace(/^\d{6}_?/, ""); // remove MM-Nummer
 
-		if (cleanDashOnly(text)) continue; // ignore DashOnly
 		if (cleanDashZero(text)) continue; // ignore DashZero
 		text = text.split("[")[0].trim(); // remove trailing [xx]
 
@@ -340,16 +353,13 @@ function cleanParentheses(text) {
 }
 function cleanBaugruppe(id) {
 	if (!stateIgnoreAssembly) return false;
+	if (id < thresholdNumberAssembly) return false;
 	return id % 10 == 0;
 }
 function cleanCustomNumbers(id) {
 	if (customNumbers == null) return false;
 	let s = customNumbers.includes(Number(id));
 	return s;
-}
-function cleanDashOnly(text) {
-	if (!stateDashOnly) return false;
-	return `${text}`.trim().substring(0, 1) === "-"; // make a copy of the string
 }
 function cleanDashZero(text) {
 	if (!stateDashZero) return false;
@@ -427,12 +437,12 @@ function startDownload() {
 	writeFile(book, `${name}.xlsx`);
 }
 
-const Tokenlist = [["bearb", "bearbeitet", "Trennsteg"], []];
-
 function createTokenlist() {
-	for (let [souKey, souValue] of Object.entries(dataObject.SOU)) {
-		for (let token of [...Tokenlist[0], ...Tokenlist[1]]) {
+	for (let token of [...Tokenlist[0], ...Tokenlist[1]]) {
+		let found = false;
+		for (let [souKey, souValue] of Object.entries(dataObject.SOU)) {
 			if (souValue[name].toLowerCase().includes(token.toLowerCase())) {
+				found = true;
 				dataObject.tokenlist[souKey] = {
 					[mmID]: souValue[mmID],
 					SOU: souValue[count],
@@ -440,6 +450,37 @@ function createTokenlist() {
 					[partFamily]: souValue[partFamily] ? souValue[partFamily] : "---",
 				};
 			}
+		}
+		if (!found) {
+			dataObject.tokenlist[token] = {
+				[mmID]: token,
+				SOU: 0,
+				[name]: "nicht vorhanden",
+				[partFamily]: "",
+			};
+		}
+	}
+	// search for fix Numbers
+	for (let number of [...Tokenlist[2], ...Tokenlist[3]]) {
+		let found = false;
+		for (let [souKey, souValue] of Object.entries(dataObject.SOU)) {
+			if (number == souKey) {
+				found = true;
+				dataObject.tokenlist[souKey] = {
+					[mmID]: souValue[mmID],
+					SOU: souValue[count],
+					[name]: souValue[name],
+					[partFamily]: souValue[partFamily] ? souValue[partFamily] : "---",
+				};
+			}
+		}
+		if (!found) {
+			dataObject.tokenlist[number] = {
+				[mmID]: number,
+				SOU: 0,
+				[name]: "nicht vorhanden",
+				[partFamily]: "",
+			};
 		}
 	}
 }

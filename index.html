@@ -14,14 +14,8 @@
   <dialog id="idDia_SOU">
     <fieldset>
       <legend>SOU-Stücklistendatei erstellen</legend>
-      <ol>
-        <li>Stückliste der Baugruppe aufrufen</li>
-        <li>Reporte -> Mengenstückliste</li>
-        <li>In Zwischenablage speichern</li>
-        <li>Neue Excel-Datei öffnen</li>
-        <li>Zwischenablage in Zelle A1 kopieren</li>
-        <li>Mit beliebigem Namen speichern</li>
-        <li>Der Dateiname wird für die Vergleichsdatei verwendet</li>
+      <ol id="idUL_SOU">
+
       </ol>
       <button type="button" id="idBtn_infoCloseSOU" autofocus>Schließen</button>
     </fieldset>
@@ -29,27 +23,14 @@
   <dialog id="idDia_CAD">
     <fieldset>
       <legend>CAD-Stücklistendatei erstellen</legend>
-      <ol>
-        <li>Baugruppe ins CAD laden</li>
-        <li>Baugruppe als "Root" oder alles andere löschen</li>
-        <li>RMT in Strukturliste auf freien Bereich</li>
-        <li>"Einstellung" -> "Erweitern"</li>
-        <li>Alles außer "Pseudobaugruppe" deaktivieren -> "OK"</li>
-        <li>RMT in Strukturliste auf freien Bereich</li>
-        <li>"Aktion" -> "Baum schreiben"</li>
-        <li>Datei als .txt speichern</li>
-      </ol>
+      <ol id="idUL_CAD"> </ol>
       <button type="button" id="idBtn_infoCloseCAD" autofocus>Schließen</button>
     </fieldset>
   </dialog>
   <dialog id="idDia_Filter">
     <fieldset>
       <legend>Infos zu Filtern</legend>
-      <ul>
-        <li>"Baugruppen ignorieren" filtert im SOU nur nach Teilefamilie, nicht nach MM-Nummer</li>
-        <li>"-0..." ignoriert alle Teile, die direkt nach der MM-Nummer ein "-0" besitzen: 264610-01_Controller</li>
-        <li>"-..." ignoriert alle Teile, die direkt nach der MM-Nummer ein "-" besitzen: 021492-2033_Aluprofil</li>
-      </ul>
+      <ul id="idUL_filter"> </ul>
       <button type="button" id="idBtn_infoCloseFilter" autofocus>Schließen</button>
     </fieldset>
   </dialog>
@@ -90,10 +71,6 @@
       <div>
         <label class="cl_infoBTN" uiRadius="left" for="idCB_dashZero">"-0..." ignorieren</label><label class="cl_infoCB" uiRadius="none">
           <input class="cl_info" type="checkbox" id="idCB_dashZero"></input></label><label class="cl_info" uiSize="size7" uiRadius="right">nur CAD</label>
-      </div>
-      <div>
-        <label class="cl_infoBTN" uiRadius="left" for="idCB_dashOnly">"-..." ignorieren</label><label class="cl_infoCB" uiRadius="none">
-          <input class="cl_info" type="checkbox" id="idCB_dashOnly"></input></label><label class="cl_info" uiSize="size7" uiRadius="right">nur CAD</label>
       </div>
     </fieldset>
     <fieldset>
