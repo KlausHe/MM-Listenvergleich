@@ -353,7 +353,7 @@ function cleanParentheses(text) {
 }
 function cleanBaugruppe(id) {
 	if (!stateIgnoreAssembly) return false;
-	if (id < thresholdNumberAssembly) return false;
+	if (id <= thresholdNumberAssembly) return false;
 	return id % 10 == 0;
 }
 function cleanCustomNumbers(id) {
