@@ -5,7 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>MM-Listenvergleich</title>
-  <link href="style.css" rel="stylesheet" type="text/css">
+  <link href="MM-CSS/MM-style.css" rel="stylesheet" type="text/css">
 
   <script type="module" src="Main.js"></script>
 </head>
@@ -48,47 +48,47 @@
     </div>
     <fieldset>
       <legend>Listen Hochladen</legend>
-      <div><label class="cl_infoBTN" uiRadius="left" uiSize="size7" id="idLbl_inputSOU" for="idVin_inputSOU">SOU-Liste als ".xlsx"<input type="file" id="idVin_inputSOU" accept=".xlsx" hidden></input>
-        </label><button type="button" id="idBtn_infoSOU" uiSize="size1" uiRadius="none"><img src="Data/cInfo.svg"></img></button><label class="cl_info" uiRadius="right" id="idLbl_loadedSOU"></label>
+      <div><label class="cl_infoBTN" uiRadius="left" uiSize="width7" id="idLbl_inputSOU" for="idVin_inputSOU">SOU-Liste als ".xlsx"<input type="file" id="idVin_inputSOU" accept=".xlsx" hidden></input>
+        </label><button type="button" id="idBtn_infoSOU" uiSize="width1" uiRadius="none"><img src="Data/cInfo.svg"></img></button><label class="cl_info" uiRadius="right" id="idLbl_loadedSOU"></label>
       </div>
-      <div><label class="cl_infoBTN" uiRadius="left" uiSize="size7" id="idLbl_inputCAD" for="idVin_inputCAD">CAD-Liste als ".txt"<input type="file" id="idVin_inputCAD" accept=".txt" hidden>
-        </label><button type="button" id="idBtn_infoCAD" uiSize="size1" uiRadius="none"><img src="Data/cInfo.svg"></img></button></input><label class="cl_info" uiRadius="right" id="idLbl_loadedCAD"></label>
+      <div><label class="cl_infoBTN" uiRadius="left" uiSize="width7" id="idLbl_inputCAD" for="idVin_inputCAD">CAD-Liste als ".txt"<input type="file" id="idVin_inputCAD" accept=".txt" hidden>
+        </label><button type="button" id="idBtn_infoCAD" uiSize="width1" uiRadius="none"><img src="Data/cInfo.svg"></img></button></input><label class="cl_info" uiRadius="right" id="idLbl_loadedCAD"></label>
       </div>
     </fieldset>
     <fieldset>
-      <legend><button type="button" id="idBtn_infoFilter" uiSize="size1"><img src="Data/cInfo.svg"></img></button> Filteroptionen</legend>
+      <legend><button type="button" id="idBtn_infoFilter" uiSize="width1"><img src="Data/cInfo.svg"></img></button> Filteroptionen</legend>
       <div>
-        <textarea id="idArea_customNumbers" uiRadius="left"></textarea><label class="cl_infoArea" id="idLbl_customNumbers" uiRadius="right"></label>
+        <textarea id="idArea_customNumbers" uiRadius="left" uiSize="width8 height3"></textarea><label class="cl_infoArea" id="idLbl_customNumbers" uiRadius="right"></label>
       </div>
       <div>
         <label class="cl_infoBTN" uiRadius="left" for="idCB_ignoreRawmaterial">Rohmaterial ignorieren</label><label class="cl_infoCB" uiRadius="none">
-          <input class="cl_info" type="checkbox" id="idCB_ignoreRawmaterial"></input></label><label class="cl_info" uiSize="size7" uiRadius="right">nur SOU</label>
+          <input class="cl_info" type="checkbox" id="idCB_ignoreRawmaterial"></input></label><label class="cl_info" uiSize="width7" uiRadius="right">nur SOU</label>
       </div>
       <div>
         <label class="cl_infoBTN" uiRadius="left" for="idCB_ignoreAssembly">Baugruppen ignorieren</label><label class="cl_infoCB" uiRadius="none">
-          <input class="cl_info" type="checkbox" id="idCB_ignoreAssembly"></input></label><label class="cl_info" uiSize="size7" uiRadius="right">für SOU und CAD</label>
+          <input class="cl_info" type="checkbox" id="idCB_ignoreAssembly"></input></label><label class="cl_info" uiSize="width7" uiRadius="right">für SOU und CAD</label>
       </div>
       <div>
         <label class="cl_infoBTN" uiRadius="left" for="idCB_dashZero">"-0..." ignorieren</label><label class="cl_infoCB" uiRadius="none">
-          <input class="cl_info" type="checkbox" id="idCB_dashZero"></input></label><label class="cl_info" uiSize="size7" uiRadius="right">nur CAD</label>
+          <input class="cl_info" type="checkbox" id="idCB_dashZero"></input></label><label class="cl_info" uiSize="width7" uiRadius="right">nur CAD</label>
       </div>
     </fieldset>
     <fieldset>
-      <legend><button type="button" id="idBtn_infoTokenfilter" uiSize="size1"><img src="Data/cInfo.svg"></img></button> Schlagwortfilter</legend>
+      <legend><button type="button" id="idBtn_infoTokenfilter" uiSize="width1"><img src="Data/cInfo.svg"></img></button> Schlagwortfilter</legend>
       <div>
-        <textarea id="idArea_tokenfilter" uiRadius="left"></textarea><label class="cl_infoArea" id="idLbl_tokenfilter" uiRadius="right"></label>
+        <textarea id="idArea_tokenfilter" uiRadius="left" uiSize="width8 height3"></textarea><label class="cl_infoArea" id="idLbl_tokenfilter" uiRadius="right"></label>
       </div>
     </fieldset>
     <fieldset>
       <legend>Ergebnisse und Download</legend>
-      <div><label class="cl_info" uiSize="size12" uiRadius="left">MM-Nummern nach Filter (SOU):</label><label class="cl_info" uiSize="size4" uiRadius="right" id="idLbl_filteredSOU"></label></div>
-      <div><label class="cl_info" uiSize="size12" uiRadius="left">MM-Nummern nach Filter (CAD):</label><label class="cl_info" uiSize="size4" uiRadius="right" id="idLbl_filteredCAD"></label></div>
-      <div><label class="cl_info" uiSize="size12" uiRadius="left">Stückzahl nicht gleich:</label><label class="cl_info" uiSize="size4" uiRadius="right" id="idLbl_errorsFound"></label></div>
-      <div><label class="cl_info" uiSize="size12" uiRadius="left">MM-Nummern nicht im SOU:</label><label class="cl_info" uiSize="size4" uiRadius="right" id="idLbl_missingSOU"></label></div>
-      <div><label class="cl_info" uiSize="size12" uiRadius="left">MM-Nummern nicht im CAD:</label><label class="cl_info" uiSize="size4" uiRadius="right" id="idLbl_missingCAD"></label></div>
+      <div><label class="cl_info" uiSize="width12" uiRadius="left">MM-Nummern nach Filter (SOU):</label><label class="cl_info" uiSize="width4" uiRadius="right" id="idLbl_filteredSOU"></label></div>
+      <div><label class="cl_info" uiSize="width12" uiRadius="left">MM-Nummern nach Filter (CAD):</label><label class="cl_info" uiSize="width4" uiRadius="right" id="idLbl_filteredCAD"></label></div>
+      <div><label class="cl_info" uiSize="width12" uiRadius="left">Stückzahl nicht gleich:</label><label class="cl_info" uiSize="width4" uiRadius="right" id="idLbl_errorsFound"></label></div>
+      <div><label class="cl_info" uiSize="width12" uiRadius="left">MM-Nummern nicht im SOU:</label><label class="cl_info" uiSize="width4" uiRadius="right" id="idLbl_missingSOU"></label></div>
+      <div><label class="cl_info" uiSize="width12" uiRadius="left">MM-Nummern nicht im CAD:</label><label class="cl_info" uiSize="width4" uiRadius="right" id="idLbl_missingCAD"></label></div>
       </br>
       <div><input type="text" uiRadius="left" id="idVin_fileName"></input><button uiRadius="right" id="idBtn_download">Download</button></div>
-      <div><label class="cl_info" uiSize="size16" id="idLbl_fileName"></label></div>
+      <div><label class="cl_info" uiSize="width16" id="idLbl_fileName"></label></div>
     </fieldset>
   </main>
 </body>
